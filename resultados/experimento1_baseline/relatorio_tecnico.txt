@@ -1,0 +1,26 @@
+==================================================
+      DIAGNÓSTICO ESTRATÉGICO DE QUALIDADE
+==================================================
+Total Analisado: 3030
+Taxa de Cobertura: 42.0%
+Volume em Zona Cinzenta (Ambiguidade): 143
+--------------------------------------------------
+
+ANÁLISE DE GAPS (O QUE ESTÁ FALTANDO NA TAXONOMIA):
+skill_raw
+soluções inovadoras         6
+intrapreneurship            5
+DW                          5
+data security               5
+critical mindset            5
+entrepreneurship            5
+meeting facilitation        5
+organizational design       5
+gestão de capital humano    4
+versatilidade               4
+
+CONFIANÇA MÉDIA POR ESTRATÉGIA:
+strategy_used
+ai_rerank                  0.914539
+fuzzy_match                1.000000
+insufficient_confidence    0.041087

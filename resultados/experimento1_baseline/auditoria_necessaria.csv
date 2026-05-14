@@ -1,0 +1,999 @@
+﻿new_skill_id,skill_raw,taxonomy_id,skill_name,confidence_score,match_status,strategy_used
+1716,análise com SQL,32,SQL,0.5,matched,ai_rerank
+2419,LLM applications,83,LangChain,0.5,matched,ai_rerank
+2052,análise com SQL,32,SQL,0.5,matched,ai_rerank
+532,LLM applications,83,LangChain,0.5,matched,ai_rerank
+702,negociar com clientes,5,Negociação,0.51,matched,ai_rerank
+1498,negociar com clientes,5,Negociação,0.51,matched,ai_rerank
+1593,azure functions,68,Azure,0.51,matched,ai_rerank
+1092,negociar com clientes,5,Negociação,0.51,matched,ai_rerank
+2340,cultura corporativa,100,Cultura Organizacional,0.52,matched,ai_rerank
+678,serviços independentes,75,Microsserviços,0.52,matched,ai_rerank
+2298,cultura corporativa,100,Cultura Organizacional,0.52,matched,ai_rerank
+1087,técnicas de facilitação,20,Facilitação,0.53,matched,ai_rerank
+258,R language,33,R,0.53,matched,ai_rerank
+2785,integração de dados,39,Análise de Dados,0.53,matched,ai_rerank
+1259,R language,33,R,0.53,matched,ai_rerank
+1372,tableau reports,77,Tableau,0.53,matched,ai_rerank
+566,integração de dados,39,Análise de Dados,0.53,matched,ai_rerank
+1970,integração de dados,39,Análise de Dados,0.53,matched,ai_rerank
+399,programar em python,62,FastAPI,0.54,matched,ai_rerank
+2180,scrum,19,Metodologias Ágeis,0.55,matched,ai_rerank
+51,redação profissional,23,Escrita Profissional,0.55,matched,ai_rerank
+2457,gestão de colaboradores,13,Colaboração,0.55,matched,ai_rerank
+2220,gestão de colaboradores,13,Colaboração,0.55,matched,ai_rerank
+2329,mentorship,24,Mentoria,0.55,matched,ai_rerank
+1345,redação profissional,23,Escrita Profissional,0.55,matched,ai_rerank
+15,scrum,19,Metodologias Ágeis,0.55,matched,ai_rerank
+240,scrum,19,Metodologias Ágeis,0.55,matched,ai_rerank
+2418,pensar como empreendedor,30,Empreendedorismo,0.56,matched,ai_rerank
+97,pensar como empreendedor,30,Empreendedorismo,0.56,matched,ai_rerank
+1489,Apache Hadoop,82,Hadoop,0.57,matched,ai_rerank
+2643,registro de modelos,46,Avaliação de Modelos,0.58,matched,ai_rerank
+365,registro de modelos,46,Avaliação de Modelos,0.58,matched,ai_rerank
+2257,dimensional modeling,55,Modelagem de Dados,0.58,matched,ai_rerank
+2161,registro de modelos,46,Avaliação de Modelos,0.58,matched,ai_rerank
+350,comunicar bem,23,Escrita Profissional,0.58,matched,ai_rerank
+1658,linux scripting,38,Bash e Shell Script,0.58,matched,ai_rerank
+730,dimensional modeling,55,Modelagem de Dados,0.58,matched,ai_rerank
+2346,capacitação,12,Aprendizado Contínuo,0.58,matched,ai_rerank
+184,aws lambda,66,AWS,0.59,matched,ai_rerank
+330,reconhecimento de imagens,48,Visão Computacional,0.59,matched,ai_rerank
+610,reconhecimento de imagens,48,Visão Computacional,0.59,matched,ai_rerank
+2308,python langchain,83,LangChain,0.59,matched,ai_rerank
+2532,reconhecimento de imagens,48,Visão Computacional,0.59,matched,ai_rerank
+641,treinamento corporativo,98,Treinamento e Desenvolvimento,0.59,matched,ai_rerank
+2012,python langchain,83,LangChain,0.59,matched,ai_rerank
+1027,aws lambda,66,AWS,0.59,matched,ai_rerank
+674,NoSQL database,59,MongoDB,0.61,matched,ai_rerank
+2330,dockerfile,63,Docker,0.61,matched,ai_rerank
+1324,EQ,61,Desenvolvimento de APIs,0.61,matched,ai_rerank
+1771,NoSQL database,59,MongoDB,0.61,matched,ai_rerank
+320,tableau analytics,77,Tableau,0.61,matched,ai_rerank
+1419,Dockerfile,63,Docker,0.61,matched,ai_rerank
+520,dockerfile,63,Docker,0.61,matched,ai_rerank
+1014,azure services,68,Azure,0.61,matched,ai_rerank
+682,EQ,61,Desenvolvimento de APIs,0.61,matched,ai_rerank
+1109,pensamento centrado no usuário,89,Design Thinking,0.61,matched,ai_rerank
+2670,tableau analytics,77,Tableau,0.61,matched,ai_rerank
+1671,agendamento de pipelines,53,Orquestração de Pipelines,0.61,matched,ai_rerank
+1826,azure services,68,Azure,0.61,matched,ai_rerank
+1921,SQL queries,32,SQL,0.62,matched,ai_rerank
+1095,hadoop ecosystem,82,Hadoop,0.62,matched,ai_rerank
+1276,comunicação com stakeholders,2,Comunicação Assertiva,0.62,matched,ai_rerank
+1215,hadoop ecosystem,82,Hadoop,0.62,matched,ai_rerank
+1616,comunicação com stakeholders,2,Comunicação Assertiva,0.62,matched,ai_rerank
+394,comunicação com stakeholders,2,Comunicação Assertiva,0.62,matched,ai_rerank
+406,comunicação com stakeholders,2,Comunicação Assertiva,0.62,matched,ai_rerank
+688,comunicação com stakeholders,2,Comunicação Assertiva,0.62,matched,ai_rerank
+800,SQL queries,32,SQL,0.62,matched,ai_rerank
+2612,comunicação com stakeholders,2,Comunicação Assertiva,0.62,matched,ai_rerank
+495,design de sistemas,74,Arquitetura de Software,0.63,matched,ai_rerank
+780,design de sistemas,74,Arquitetura de Software,0.63,matched,ai_rerank
+1708,design organizacional,96,Desenvolvimento Organizacional,0.63,matched,ai_rerank
+2616,mentalidade estratégica,5,Negociação,0.63,matched,ai_rerank
+1193,testes E2E,50,Experimentação e Testes A/B,0.63,matched,ai_rerank
+2657,testes E2E,50,Experimentação e Testes A/B,0.63,matched,ai_rerank
+1792,mentalidade estratégica,5,Negociação,0.63,matched,ai_rerank
+2521,gestão emocional,4,Inteligência Emocional,0.64,matched,ai_rerank
+1545,gestão emocional,4,Inteligência Emocional,0.64,matched,ai_rerank
+108,gestão emocional,4,Inteligência Emocional,0.64,matched,ai_rerank
+1575,comunicação oral,2,Comunicação Assertiva,0.65,matched,ai_rerank
+2453,docker-compose,63,Docker,0.65,matched,ai_rerank
+1380,docker-compose,63,Docker,0.65,matched,ai_rerank
+2436,kubernetes cluster,64,Kubernetes,0.66,matched,ai_rerank
+2509,negociar contratos,5,Negociação,0.66,matched,ai_rerank
+1975,negociar contratos,5,Negociação,0.66,matched,ai_rerank
+2784,kubernetes cluster,64,Kubernetes,0.66,matched,ai_rerank
+1602,testes de usabilidade,73,Testes Automatizados,0.67,matched,ai_rerank
+722,testes de usabilidade,73,Testes Automatizados,0.67,matched,ai_rerank
+2288,snowflake,56,Data Warehouse,0.68,matched,ai_rerank
+12,PowerBI,76,Power BI,0.68,matched,ai_rerank
+1562,liderança de time,25,Liderança Técnica,0.68,matched,ai_rerank
+1068,snowflake,56,Data Warehouse,0.68,matched,ai_rerank
+549,UX insights,88,UX Research,0.68,matched,ai_rerank
+2541,typescript development,36,TypeScript,0.68,matched,ai_rerank
+2226,PowerBI,76,Power BI,0.68,matched,ai_rerank
+755,liderança de time,25,Liderança Técnica,0.68,matched,ai_rerank
+1167,resiliência emocional,4,Inteligência Emocional,0.68,matched,ai_rerank
+2614,UX insights,88,UX Research,0.68,matched,ai_rerank
+1415,PowerBI,76,Power BI,0.68,matched,ai_rerank
+2743,PowerBI,76,Power BI,0.68,matched,ai_rerank
+334,typescript development,36,TypeScript,0.68,matched,ai_rerank
+1181,typescript development,36,TypeScript,0.68,matched,ai_rerank
+660,azure AI,68,Azure,0.69,matched,ai_rerank
+2324,azure AI,68,Azure,0.69,matched,ai_rerank
+1437,azure AI,68,Azure,0.69,matched,ai_rerank
+2766,tableau desktop,77,Tableau,0.69,matched,ai_rerank
+1098,azure AI,68,Azure,0.69,matched,ai_rerank
+2700,azure AI,68,Azure,0.69,matched,ai_rerank
+1656,inference hugging face,86,Hugging Face,0.7,matched,ai_rerank
+870,autoconsciência emocional,4,Inteligência Emocional,0.7,matched,ai_rerank
+138,autoconsciência emocional,4,Inteligência Emocional,0.7,matched,ai_rerank
+572,inference hugging face,86,Hugging Face,0.7,matched,ai_rerank
+2255,Excel,78,Excel Avançado,0.71,matched,ai_rerank
+792,Excel,78,Excel Avançado,0.71,matched,ai_rerank
+991,facilitation techniques,20,Facilitação,0.71,matched,ai_rerank
+122,excel,78,Excel Avançado,0.71,matched,ai_rerank
+853,excel,78,Excel Avançado,0.71,matched,ai_rerank
+2613,excel,78,Excel Avançado,0.71,matched,ai_rerank
+286,facilitation techniques,20,Facilitação,0.71,matched,ai_rerank
+1471,Excel,78,Excel Avançado,0.71,matched,ai_rerank
+2775,cobertura de testes,73,Testes Automatizados,0.72,matched,ai_rerank
+1765,segurança da informação,71,Segurança de Dados,0.72,matched,ai_rerank
+182,cobertura de testes,73,Testes Automatizados,0.72,matched,ai_rerank
+2845,segurança da informação,71,Segurança de Dados,0.72,matched,ai_rerank
+2753,segurança da informação,71,Segurança de Dados,0.72,matched,ai_rerank
+1696,cobertura de testes,73,Testes Automatizados,0.72,matched,ai_rerank
+2210,inovar,29,Inovação,0.72,matched,ai_rerank
+1300,empreender,30,Empreendedorismo,0.73,matched,ai_rerank
+1171,organização pessoal,96,Desenvolvimento Organizacional,0.73,matched,ai_rerank
+55,organização pessoal,96,Desenvolvimento Organizacional,0.73,matched,ai_rerank
+2531,organização pessoal,96,Desenvolvimento Organizacional,0.73,matched,ai_rerank
+498,dbt models,80,dbt,0.73,matched,ai_rerank
+1986,organização pessoal,96,Desenvolvimento Organizacional,0.73,matched,ai_rerank
+2227,conectar estratégia e execução,17,Pensamento Estratégico,0.74,matched,ai_rerank
+2520,conectar estratégia e execução,17,Pensamento Estratégico,0.74,matched,ai_rerank
+2798,aws RDS,66,AWS,0.75,matched,ai_rerank
+1076,administrar conflitos,3,Resolução de Conflitos,0.75,matched,ai_rerank
+1025,aws RDS,66,AWS,0.75,matched,ai_rerank
+2431,banco em memória,44,Embeddings e Busca Vetorial,0.75,matched,ai_rerank
+2028,docker compose,63,Docker,0.75,matched,ai_rerank
+2686,administrar conflitos,3,Resolução de Conflitos,0.75,matched,ai_rerank
+2687,aws RDS,66,AWS,0.75,matched,ai_rerank
+2529,docker compose,63,Docker,0.75,matched,ai_rerank
+2960,otimização do tempo,10,Gestão do Tempo,0.76,matched,ai_rerank
+2827,OKR planning,90,OKRs,0.76,matched,ai_rerank
+1499,otimização do tempo,10,Gestão do Tempo,0.76,matched,ai_rerank
+1865,OKR planning,90,OKRs,0.76,matched,ai_rerank
+856,estatística descritiva,49,Estatística Aplicada,0.76,matched,ai_rerank
+1054,gerenciar equipes,1,Gestão de Pessoas,0.79,matched,ai_rerank
+2518,logs,70,Monitoramento e Observabilidade,0.79,matched,ai_rerank
+2585,abertura a mudanças,28,Gestão de Mudanças,0.79,matched,ai_rerank
+491,logs,70,Monitoramento e Observabilidade,0.79,matched,ai_rerank
+2941,tableau server,77,Tableau,0.79,matched,ai_rerank
+684,abertura a mudanças,28,Gestão de Mudanças,0.79,matched,ai_rerank
+1318,abertura a mudanças,28,Gestão de Mudanças,0.79,matched,ai_rerank
+1870,gerenciar equipes,1,Gestão de Pessoas,0.79,matched,ai_rerank
+1120,tableau server,77,Tableau,0.79,matched,ai_rerank
+1977,gestão de times,18,Gestão de Projetos,0.8,matched,ai_rerank
+2655,kanban,19,Metodologias Ágeis,0.8,matched,ai_rerank
+3012,ingestão de dados,51,Engenharia de Dados,0.8,matched,ai_rerank
+1418,ingestão de dados,51,Engenharia de Dados,0.8,matched,ai_rerank
+213,data transformation para modelos,45,Engenharia de Features,0.81,matched,ai_rerank
+758,gestão de talentos,28,Gestão de Mudanças,0.81,matched,ai_rerank
+2867,data transformation para modelos,45,Engenharia de Features,0.81,matched,ai_rerank
+2098,data transformation para modelos,45,Engenharia de Features,0.81,matched,ai_rerank
+1250,Git,72,Versionamento de Código,0.82,matched,ai_rerank
+21,Git,72,Versionamento de Código,0.82,matched,ai_rerank
+2899,redshift,56,Data Warehouse,0.82,matched,ai_rerank
+1385,infraestrutura como código,69,Infrastructure as Code,0.82,matched,ai_rerank
+340,git,72,Versionamento de Código,0.82,matched,ai_rerank
+1164,Git,72,Versionamento de Código,0.82,matched,ai_rerank
+472,GIT,72,Versionamento de Código,0.82,matched,ai_rerank
+538,redshift,56,Data Warehouse,0.82,matched,ai_rerank
+2225,redshift,56,Data Warehouse,0.82,matched,ai_rerank
+588,Git,72,Versionamento de Código,0.82,matched,ai_rerank
+867,gitlab CI,72,Versionamento de Código,0.82,matched,ai_rerank
+2953,infraestrutura como código,69,Infrastructure as Code,0.82,matched,ai_rerank
+53,git,72,Versionamento de Código,0.82,matched,ai_rerank
+743,Git,72,Versionamento de Código,0.82,matched,ai_rerank
+1940,redshift,56,Data Warehouse,0.82,matched,ai_rerank
+877,SQL postgres,58,PostgreSQL,0.83,matched,ai_rerank
+2337,SQL postgres,58,PostgreSQL,0.83,matched,ai_rerank
+2062,planejamento empresarial,27,Planejamento Estratégico,0.83,matched,ai_rerank
+766,planejamento empresarial,27,Planejamento Estratégico,0.83,matched,ai_rerank
+2714,setting OKRs,90,OKRs,0.83,matched,ai_rerank
+323,airflow,53,Orquestração de Pipelines,0.83,matched,ai_rerank
+1517,SQL postgres,58,PostgreSQL,0.83,matched,ai_rerank
+1351,SQL postgres,58,PostgreSQL,0.83,matched,ai_rerank
+1732,setting OKRs,90,OKRs,0.83,matched,ai_rerank
+433,airflow,53,Orquestração de Pipelines,0.83,matched,ai_rerank
+1278,node.js,35,JavaScript,0.84,matched,ai_rerank
+187,foco no usuário,14,Visão de Produto,0.84,matched,ai_rerank
+2172,fastapi development,62,FastAPI,0.84,matched,ai_rerank
+577,fastapi development,62,FastAPI,0.84,matched,ai_rerank
+2583,node.js,35,JavaScript,0.84,matched,ai_rerank
+393,foco no usuário,14,Visão de Produto,0.84,matched,ai_rerank
+2873,fastapi development,62,FastAPI,0.84,matched,ai_rerank
+1443,foco no usuário,14,Visão de Produto,0.84,matched,ai_rerank
+331,cultura de inovação,29,Inovação,0.84,matched,ai_rerank
+2969,cultura de inovação,29,Inovação,0.84,matched,ai_rerank
+2411,mongodb atlas,59,MongoDB,0.84,matched,ai_rerank
+1566,mongodb atlas,59,MongoDB,0.84,matched,ai_rerank
+2824,fine-tuning,43,Large Language Models,0.85,matched,ai_rerank
+956,fine-tuning,43,Large Language Models,0.85,matched,ai_rerank
+714,design research,88,UX Research,0.85,matched,ai_rerank
+1232,design research,88,UX Research,0.85,matched,ai_rerank
+1091,integração de APIs,65,CI/CD,0.85,matched,ai_rerank
+1993,design research,88,UX Research,0.85,matched,ai_rerank
+1332,colaboração interfuncional,13,Colaboração,0.85,matched,ai_rerank
+2778,integração de APIs,65,CI/CD,0.85,matched,ai_rerank
+1730,text embeddings,44,Embeddings e Busca Vetorial,0.85,matched,ai_rerank
+1769,compliance de dados,57,Qualidade de Dados,0.85,matched,ai_rerank
+1258,integração de APIs,65,CI/CD,0.85,matched,ai_rerank
+2169,colaboração interfuncional,13,Colaboração,0.85,matched,ai_rerank
+650,compliance de dados,57,Qualidade de Dados,0.85,matched,ai_rerank
+1067,design research,88,UX Research,0.85,matched,ai_rerank
+2857,backend API,35,JavaScript,0.86,matched,ai_rerank
+1844,deploy com docker,63,Docker,0.86,matched,ai_rerank
+911,aws infrastructure,66,AWS,0.86,matched,ai_rerank
+2228,backend API,35,JavaScript,0.86,matched,ai_rerank
+762,machine learning engineer,40,Machine Learning,0.86,matched,ai_rerank
+1157,deploy com docker,63,Docker,0.86,matched,ai_rerank
+380,agilidade de aprendizado,12,Aprendizado Contínuo,0.86,matched,ai_rerank
+2688,marca empregadora,99,Employer Branding,0.87,matched,ai_rerank
+2004,github,72,Versionamento de Código,0.87,matched,ai_rerank
+302,google cloud data,67,Google Cloud Platform,0.87,matched,ai_rerank
+305,metas e resultados,90,OKRs,0.87,matched,ai_rerank
+2847,marca empregadora,99,Employer Branding,0.87,matched,ai_rerank
+1687,comunicação eficaz,13,Colaboração,0.87,matched,ai_rerank
+2171,GitHub,72,Versionamento de Código,0.87,matched,ai_rerank
+2256,financial models,92,Modelagem Financeira,0.87,matched,ai_rerank
+862,liderança de colaboradores,25,Liderança Técnica,0.87,matched,ai_rerank
+2945,GitHub,72,Versionamento de Código,0.87,matched,ai_rerank
+2236,GCP services,67,Google Cloud Platform,0.87,matched,ai_rerank
+2961,google cloud data,67,Google Cloud Platform,0.87,matched,ai_rerank
+2974,docker images,63,Docker,0.87,matched,ai_rerank
+4,sql avançado,58,PostgreSQL,0.88,matched,ai_rerank
+782,fórmulas excel,78,Excel Avançado,0.88,matched,ai_rerank
+2248,ML,84,MLflow,0.88,matched,ai_rerank
+2829,métricas,70,Monitoramento e Observabilidade,0.88,matched,ai_rerank
+819,deep learning development,41,Deep Learning,0.88,matched,ai_rerank
+881,deep learning development,41,Deep Learning,0.88,matched,ai_rerank
+2367,ML,84,MLflow,0.88,matched,ai_rerank
+2199,sql avançado,58,PostgreSQL,0.88,matched,ai_rerank
+1016,decisão estratégica,17,Pensamento Estratégico,0.88,matched,ai_rerank
+1388,estratégia de produto,87,Gestão de Produto,0.88,matched,ai_rerank
+602,estratégia de produto,87,Gestão de Produto,0.88,matched,ai_rerank
+1335,modelos de linguagem grandes,33,R,0.88,matched,ai_rerank
+398,senso de produto,87,Gestão de Produto,0.88,matched,ai_rerank
+2611,facilitation,20,Facilitação,0.88,matched,ai_rerank
+2027,sql avançado,58,PostgreSQL,0.88,matched,ai_rerank
+264,coaching de pessoas,1,Gestão de Pessoas,0.88,matched,ai_rerank
+793,liderança humana,25,Liderança Técnica,0.88,matched,ai_rerank
+2819,estratégia de produto,87,Gestão de Produto,0.88,matched,ai_rerank
+147,estratégia de produto,87,Gestão de Produto,0.88,matched,ai_rerank
+119,fórmulas excel,78,Excel Avançado,0.88,matched,ai_rerank
+145,métricas,70,Monitoramento e Observabilidade,0.88,matched,ai_rerank
+2870,estratégia de produto,87,Gestão de Produto,0.88,matched,ai_rerank
+186,deep learning development,41,Deep Learning,0.88,matched,ai_rerank
+2750,criação de variáveis,45,Engenharia de Features,0.89,matched,ai_rerank
+1704,criação de variáveis,45,Engenharia de Features,0.89,matched,ai_rerank
+2078,análise de demonstrativos,91,Análise Financeira,0.89,matched,ai_rerank
+2050,criação de variáveis,45,Engenharia de Features,0.89,matched,ai_rerank
+2582,declarative infrastructure,69,Infrastructure as Code,0.89,matched,ai_rerank
+687,kafka,54,Streaming de Dados,0.89,matched,ai_rerank
+716,monitoramento de modelos,70,Monitoramento e Observabilidade,0.89,matched,ai_rerank
+2913,microservices architecture,75,Microsserviços,0.89,matched,ai_rerank
+781,kafka,54,Streaming de Dados,0.89,matched,ai_rerank
+312,criação de variáveis,45,Engenharia de Features,0.89,matched,ai_rerank
+765,apresentar ideias,22,Apresentação e Oratória,0.89,matched,ai_rerank
+1943,criação de variáveis,45,Engenharia de Features,0.89,matched,ai_rerank
+290,apresentar ideias,22,Apresentação e Oratória,0.89,matched,ai_rerank
+750,kafka,54,Streaming de Dados,0.89,matched,ai_rerank
+1328,microservices architecture,75,Microsserviços,0.89,matched,ai_rerank
+1356,microservices architecture,75,Microsserviços,0.89,matched,ai_rerank
+1749,declarative infrastructure,69,Infrastructure as Code,0.89,matched,ai_rerank
+2263,apresentar ideias,22,Apresentação e Oratória,0.89,matched,ai_rerank
+778,análise de demonstrativos,91,Análise Financeira,0.89,matched,ai_rerank
+561,monitoramento de modelos,70,Monitoramento e Observabilidade,0.89,matched,ai_rerank
+2407,criação de variáveis,45,Engenharia de Features,0.89,matched,ai_rerank
+804,microservices architecture,75,Microsserviços,0.89,matched,ai_rerank
+2679,LLM observability,85,Langfuse,0.9,matched,ai_rerank
+1748,análise crítica,6,Pensamento Crítico,0.9,matched,ai_rerank
+1796,análise crítica,6,Pensamento Crítico,0.9,matched,ai_rerank
+948,bigquery,56,Data Warehouse,0.9,matched,ai_rerank
+966,model metrics,46,Avaliação de Modelos,0.9,matched,ai_rerank
+652,LGPD,71,Segurança de Dados,0.9,matched,ai_rerank
+541,LGPD,71,Segurança de Dados,0.9,matched,ai_rerank
+2070,mlflow tracking,84,MLflow,0.9,matched,ai_rerank
+2584,conflito entre times,3,Resolução de Conflitos,0.9,matched,ai_rerank
+1772,model metrics,46,Avaliação de Modelos,0.9,matched,ai_rerank
+1677,LLM observability,85,Langfuse,0.9,matched,ai_rerank
+2727,pensamento racional,17,Pensamento Estratégico,0.9,matched,ai_rerank
+1963,bigquery,56,Data Warehouse,0.9,matched,ai_rerank
+432,SQL avançado,78,Excel Avançado,0.9,matched,ai_rerank
+1805,LLM observability,85,Langfuse,0.9,matched,ai_rerank
+2498,negociação com fornecedores,5,Negociação,0.9,matched,ai_rerank
+628,SQL avançado,78,Excel Avançado,0.9,matched,ai_rerank
+2835,técnicas de negociação,5,Negociação,0.9,matched,ai_rerank
+721,model performance,55,Modelagem de Dados,0.9,matched,ai_rerank
+1572,SQL avançado,78,Excel Avançado,0.9,matched,ai_rerank
+1893,revisão de código,72,Versionamento de Código,0.9,matched,ai_rerank
+2601,SQL avançado,78,Excel Avançado,0.9,matched,ai_rerank
+1487,pensamento racional,17,Pensamento Estratégico,0.9,matched,ai_rerank
+733,comunicação transparente,2,Comunicação Assertiva,0.91,matched,ai_rerank
+2349,liderança em mudanças,25,Liderança Técnica,0.91,matched,ai_rerank
+297,aws cloud,66,AWS,0.91,matched,ai_rerank
+146,comunicação transparente,2,Comunicação Assertiva,0.91,matched,ai_rerank
+818,autonomia,11,Autogestão,0.91,matched,ai_rerank
+1043,autonomia,11,Autogestão,0.91,matched,ai_rerank
+1066,ELT,52,ETL e ELT,0.91,matched,ai_rerank
+1539,liderança em mudanças,25,Liderança Técnica,0.91,matched,ai_rerank
+1156,ELT,52,ETL e ELT,0.91,matched,ai_rerank
+1047,migração de dados,51,Engenharia de Dados,0.91,matched,ai_rerank
+2297,negociação comercial,5,Negociação,0.92,matched,ai_rerank
+2287,pensamento disruptivo,17,Pensamento Estratégico,0.92,matched,ai_rerank
+80,negociação comercial,5,Negociação,0.92,matched,ai_rerank
+708,análise exploratória,39,Análise de Dados,0.92,matched,ai_rerank
+450,infrastructure provisioning,69,Infrastructure as Code,0.92,matched,ai_rerank
+1403,scala functional programming,37,Scala,0.92,matched,ai_rerank
+2222,scala functional programming,37,Scala,0.92,matched,ai_rerank
+1424,negociação comercial,5,Negociação,0.92,matched,ai_rerank
+2192,unix scripting,38,Bash e Shell Script,0.92,matched,ai_rerank
+2244,treinar modelos,40,Machine Learning,0.92,matched,ai_rerank
+1551,LLM,83,LangChain,0.92,matched,ai_rerank
+1823,unix scripting,38,Bash e Shell Script,0.92,matched,ai_rerank
+2588,desenvolvimento ágil,96,Desenvolvimento Organizacional,0.92,matched,ai_rerank
+2907,LLM,83,LangChain,0.92,matched,ai_rerank
+1979,LLM,83,LangChain,0.92,matched,ai_rerank
+431,scala functional programming,37,Scala,0.92,matched,ai_rerank
+174,integridade de dados,51,Engenharia de Dados,0.93,matched,ai_rerank
+2692,react.js,35,JavaScript,0.93,matched,ai_rerank
+1303,construção de cultura,100,Cultura Organizacional,0.93,matched,ai_rerank
+282,análise de decisão,8,Tomada de Decisão,0.93,matched,ai_rerank
+2135,integridade de dados,51,Engenharia de Dados,0.93,matched,ai_rerank
+673,power query,78,Excel Avançado,0.93,matched,ai_rerank
+2992,GraphQL,61,Desenvolvimento de APIs,0.93,matched,ai_rerank
+93,integridade de dados,51,Engenharia de Dados,0.93,matched,ai_rerank
+1228,integridade de dados,51,Engenharia de Dados,0.93,matched,ai_rerank
+1852,integridade de dados,51,Engenharia de Dados,0.93,matched,ai_rerank
+539,análise de decisão,8,Tomada de Decisão,0.93,matched,ai_rerank
+463,kubernetes pods,64,Kubernetes,0.93,matched,ai_rerank
+770,gerenciar prazos,18,Gestão de Projetos,0.94,matched,ai_rerank
+2863,gerenciar prazos,18,Gestão de Projetos,0.94,matched,ai_rerank
+933,terraform,69,Infrastructure as Code,0.94,matched,ai_rerank
+926,gerenciar prazos,18,Gestão de Projetos,0.94,matched,ai_rerank
+547,containers,63,Docker,0.94,matched,ai_rerank
+2126,langchain development,83,LangChain,0.94,matched,ai_rerank
+201,langchain development,83,LangChain,0.94,matched,ai_rerank
+2305,Terraform,69,Infrastructure as Code,0.94,matched,ai_rerank
+1618,terraform,69,Infrastructure as Code,0.94,matched,ai_rerank
+382,containers,63,Docker,0.94,matched,ai_rerank
+1521,containers,63,Docker,0.94,matched,ai_rerank
+117,container,63,Docker,0.94,matched,ai_rerank
+1999,Terraform,69,Infrastructure as Code,0.94,matched,ai_rerank
+582,Terraform,69,Infrastructure as Code,0.94,matched,ai_rerank
+768,Terraform,69,Infrastructure as Code,0.94,matched,ai_rerank
+1621,embeddings de texto,44,Embeddings e Busca Vetorial,0.95,matched,ai_rerank
+3003,planejar estrategicamente,27,Planejamento Estratégico,0.95,matched,ai_rerank
+2393,escrita técnica,25,Liderança Técnica,0.95,matched,ai_rerank
+944,microsoft excel,78,Excel Avançado,0.95,matched,ai_rerank
+1009,criptografia,71,Segurança de Dados,0.95,matched,ai_rerank
+2261,Microsoft Excel,78,Excel Avançado,0.95,matched,ai_rerank
+648,coordenação de projetos,18,Gestão de Projetos,0.95,matched,ai_rerank
+376,planejar estrategicamente,27,Planejamento Estratégico,0.95,matched,ai_rerank
+2010,escrita técnica,25,Liderança Técnica,0.95,matched,ai_rerank
+3014,performance feedback,97,Gestão de Desempenho,0.95,matched,ai_rerank
+1876,planejar estrategicamente,27,Planejamento Estratégico,0.95,matched,ai_rerank
+692,excel formulas,78,Excel Avançado,0.95,matched,ai_rerank
+1273,escrita técnica,25,Liderança Técnica,0.95,matched,ai_rerank
+341,desenvolvimento de colaboradores,98,Treinamento e Desenvolvimento,0.95,matched,ai_rerank
+2713,desenvolvimento de colaboradores,98,Treinamento e Desenvolvimento,0.95,matched,ai_rerank
+700,coordenação de projetos,18,Gestão de Projetos,0.95,matched,ai_rerank
+1846,spark streaming,54,Streaming de Dados,0.96,matched,ai_rerank
+2831,negociação de salários,5,Negociação,0.96,matched,ai_rerank
+2849,análise de riscos,93,Gestão de Riscos,0.96,matched,ai_rerank
+2759,CloudFormation,69,Infrastructure as Code,0.96,matched,ai_rerank
+1305,acompanhar OKRs,90,OKRs,0.96,matched,ai_rerank
+2811,cloudformation,69,Infrastructure as Code,0.96,matched,ai_rerank
+1493,mentor,24,Mentoria,0.96,matched,ai_rerank
+2885,spark streaming,54,Streaming de Dados,0.96,matched,ai_rerank
+322,planejamento anual,27,Planejamento Estratégico,0.96,matched,ai_rerank
+332,spark streaming,54,Streaming de Dados,0.96,matched,ai_rerank
+351,cloudformation,69,Infrastructure as Code,0.96,matched,ai_rerank
+1715,mentor,24,Mentoria,0.96,matched,ai_rerank
+992,NLP,42,Processamento de Linguagem Natural,0.96,matched,ai_rerank
+1613,conformidade,94,Compliance e Regulação,0.96,matched,ai_rerank
+2302,power bi development,76,Power BI,0.96,matched,ai_rerank
+604,cloudformation,69,Infrastructure as Code,0.96,matched,ai_rerank
+882,bash,38,Bash e Shell Script,0.96,matched,ai_rerank
+2524,apresentação em público,22,Apresentação e Oratória,0.96,matched,ai_rerank
+1342,bash,38,Bash e Shell Script,0.96,matched,ai_rerank
+1108,acompanhar OKRs,90,OKRs,0.96,matched,ai_rerank
+503,cloudformation,69,Infrastructure as Code,0.96,matched,ai_rerank
+2579,acompanhar OKRs,90,OKRs,0.96,matched,ai_rerank
+1033,Bash,38,Bash e Shell Script,0.96,matched,ai_rerank
+622,pensamento quantitativo,17,Pensamento Estratégico,0.96,matched,ai_rerank
+640,cloud run,67,Google Cloud Platform,0.96,matched,ai_rerank
+2424,controlled experiments,50,Experimentação e Testes A/B,0.96,matched,ai_rerank
+887,normalização de dados,33,R,0.96,matched,ai_rerank
+1726,cloudformation,69,Infrastructure as Code,0.96,matched,ai_rerank
+1717,cloudformation,69,Infrastructure as Code,0.96,matched,ai_rerank
+787,negociação de salários,5,Negociação,0.96,matched,ai_rerank
+1627,análise de causa raiz,7,Resolução de Problemas,0.96,matched,ai_rerank
+2402,análise de causa raiz,7,Resolução de Problemas,0.96,matched,ai_rerank
+2007,CloudFormation,69,Infrastructure as Code,0.96,matched,ai_rerank
+279,gestão de conflitos,3,Resolução de Conflitos,0.96,matched,ai_rerank
+2046,Bash,38,Bash e Shell Script,0.96,matched,ai_rerank
+448,normalização de dados,33,R,0.96,matched,ai_rerank
+982,planejamento anual,27,Planejamento Estratégico,0.96,matched,ai_rerank
+2073,conformidade,94,Compliance e Regulação,0.96,matched,ai_rerank
+2732,CloudFormation,69,Infrastructure as Code,0.96,matched,ai_rerank
+2771,LLM tracing,85,Langfuse,0.96,matched,ai_rerank
+243,normalização de dados,33,R,0.96,matched,ai_rerank
+929,employer marketing,99,Employer Branding,0.96,matched,ai_rerank
+2149,normalização de dados,33,R,0.96,matched,ai_rerank
+123,spark streaming,54,Streaming de Dados,0.96,matched,ai_rerank
+1814,planejamento anual,27,Planejamento Estratégico,0.96,matched,ai_rerank
+1168,pensamento quantitativo,17,Pensamento Estratégico,0.96,matched,ai_rerank
+1825,controlled experiments,50,Experimentação e Testes A/B,0.96,matched,ai_rerank
+2590,comunicação de mudanças,28,Gestão de Mudanças,0.96,matched,ai_rerank
+1902,LLM tracing,85,Langfuse,0.96,matched,ai_rerank
+2678,normalização de dados,33,R,0.96,matched,ai_rerank
+360,power bi analytics,76,Power BI,0.96,matched,ai_rerank
+2370,excel VBA,78,Excel Avançado,0.97,matched,ai_rerank
+840,pensamento lógico,6,Pensamento Crítico,0.97,matched,ai_rerank
+3007,mentalidade de crescimento,24,Mentoria,0.97,matched,ai_rerank
+2309,acompanhamento de projetos,18,Gestão de Projetos,0.97,matched,ai_rerank
+2726,acompanhamento de projetos,18,Gestão de Projetos,0.97,matched,ai_rerank
+1763,comunicação verbal,2,Comunicação Assertiva,0.97,matched,ai_rerank
+1706,manipulação de dados,51,Engenharia de Dados,0.97,matched,ai_rerank
+921,transformações dbt,80,dbt,0.97,matched,ai_rerank
+568,privacidade de dados,39,Análise de Dados,0.97,matched,ai_rerank
+2513,transformações dbt,80,dbt,0.97,matched,ai_rerank
+2806,transformações dbt,80,dbt,0.97,matched,ai_rerank
+2190,mentalidade de crescimento,24,Mentoria,0.97,matched,ai_rerank
+1637,mentalidade de crescimento,24,Mentoria,0.97,matched,ai_rerank
+764,comunicação verbal,2,Comunicação Assertiva,0.97,matched,ai_rerank
+104,transformar dados em histórias,39,Análise de Dados,0.97,matched,ai_rerank
+2722,API REST,61,Desenvolvimento de APIs,0.97,matched,ai_rerank
+440,API REST,61,Desenvolvimento de APIs,0.97,matched,ai_rerank
+445,LLMs,83,LangChain,0.97,matched,ai_rerank
+1182,LLMs,83,LangChain,0.97,matched,ai_rerank
+1880,manipulação de dados,51,Engenharia de Dados,0.97,matched,ai_rerank
+2347,advanced postgresql,58,PostgreSQL,0.97,matched,ai_rerank
+798,privacidade de dados,39,Análise de Dados,0.97,matched,ai_rerank
+149,python para dados,31,Python,0.98,matched,ai_rerank
+115,busca semântica,44,Embeddings e Busca Vetorial,0.98,matched,ai_rerank
+2764,programação em python,62,FastAPI,0.98,matched,ai_rerank
+292,REST API,61,Desenvolvimento de APIs,0.98,matched,ai_rerank
+1822,banco postgresql,58,PostgreSQL,0.98,matched,ai_rerank
+1312,programação em R,37,Scala,0.98,matched,ai_rerank
+1745,estatística com R,33,R,0.98,matched,ai_rerank
+2724,REST API,61,Desenvolvimento de APIs,0.98,matched,ai_rerank
+336,python para dados,31,Python,0.98,matched,ai_rerank
+1253,avaliação de empresas,93,Gestão de Riscos,0.98,matched,ai_rerank
+357,python para dados,31,Python,0.98,matched,ai_rerank
+2646,REST API,61,Desenvolvimento de APIs,0.98,matched,ai_rerank
+2673,gitlab,72,Versionamento de Código,0.98,matched,ai_rerank
+1196,avaliação de empresas,93,Gestão de Riscos,0.98,matched,ai_rerank
+1210,gitlab,72,Versionamento de Código,0.98,matched,ai_rerank
+401,power bi desktop,76,Power BI,0.98,matched,ai_rerank
+285,validação de dados,15,Orientação a Dados,0.98,matched,ai_rerank
+1757,estatística com R,33,R,0.98,matched,ai_rerank
+1159,entrega de projetos,18,Gestão de Projetos,0.98,matched,ai_rerank
+1161,GCP,67,Google Cloud Platform,0.98,matched,ai_rerank
+1946,análise de vídeo,48,Visão Computacional,0.98,matched,ai_rerank
+1099,visão de longo prazo,27,Planejamento Estratégico,0.98,matched,ai_rerank
+1103,LLM monitoring,85,Langfuse,0.98,matched,ai_rerank
+1110,model fairness,46,Avaliação de Modelos,0.98,matched,ai_rerank
+1119,REST API,61,Desenvolvimento de APIs,0.98,matched,ai_rerank
+2636,habilidades de apresentação,2,Comunicação Assertiva,0.98,matched,ai_rerank
+487,análise de vídeo,48,Visão Computacional,0.98,matched,ai_rerank
+2546,mongodb queries,59,MongoDB,0.98,matched,ai_rerank
+2567,python para dados,31,Python,0.98,matched,ai_rerank
+1031,GCP,67,Google Cloud Platform,0.98,matched,ai_rerank
+238,programação em python,62,FastAPI,0.98,matched,ai_rerank
+1370,power bi desktop,76,Power BI,0.98,matched,ai_rerank
+1698,desenvolvedor python,31,Python,0.98,matched,ai_rerank
+1709,microservices,75,Microsserviços,0.98,matched,ai_rerank
+2782,avaliação de empresas,93,Gestão de Riscos,0.98,matched,ai_rerank
+2805,trace de LLMs,85,Langfuse,0.98,matched,ai_rerank
+263,python para dados,31,Python,0.98,matched,ai_rerank
+2134,diagnóstico de problemas,7,Resolução de Problemas,0.98,matched,ai_rerank
+2537,python para dados,31,Python,0.98,matched,ai_rerank
+2538,GitLab,72,Versionamento de Código,0.98,matched,ai_rerank
+595,validação de dados,15,Orientação a Dados,0.98,matched,ai_rerank
+917,gestão das próprias emoções,4,Inteligência Emocional,0.98,matched,ai_rerank
+2156,model fairness,46,Avaliação de Modelos,0.98,matched,ai_rerank
+635,previsão de séries temporais,47,Séries Temporais,0.98,matched,ai_rerank
+2463,UX,88,UX Research,0.98,matched,ai_rerank
+2267,microservices,75,Microsserviços,0.98,matched,ai_rerank
+892,aprendizado autodidata,12,Aprendizado Contínuo,0.98,matched,ai_rerank
+913,programação em R,37,Scala,0.98,matched,ai_rerank
+2428,UX,88,UX Research,0.98,matched,ai_rerank
+676,habilidades de apresentação,2,Comunicação Assertiva,0.98,matched,ai_rerank
+679,programação em python,62,FastAPI,0.98,matched,ai_rerank
+845,estatística com R,33,R,0.98,matched,ai_rerank
+1536,gestão das próprias emoções,4,Inteligência Emocional,0.98,matched,ai_rerank
+1448,gcp,67,Google Cloud Platform,0.98,matched,ai_rerank
+1653,gestão das próprias emoções,4,Inteligência Emocional,0.98,matched,ai_rerank
+685,microservices,75,Microsserviços,0.98,matched,ai_rerank
+2981,estatística com R,33,R,0.98,matched,ai_rerank
+25,ETL,52,ETL e ELT,0.99,matched,ai_rerank
+110,análise de dados avançada,39,Análise de Dados,0.99,matched,ai_rerank
+116,google cloud services,67,Google Cloud Platform,0.99,matched,ai_rerank
+143,análise de texto,42,Processamento de Linguagem Natural,0.99,matched,ai_rerank
+2909,modelagem dimensional,55,Modelagem de Dados,0.99,matched,ai_rerank
+1542,postgres,58,PostgreSQL,0.99,matched,ai_rerank
+1537,A/B testing,50,Experimentação e Testes A/B,0.99,matched,ai_rerank
+1535,CI pipeline,65,CI/CD,0.99,matched,ai_rerank
+1527,efetividade organizacional,96,Desenvolvimento Organizacional,0.99,matched,ai_rerank
+1604,detecção de anomalias,47,Séries Temporais,0.99,matched,ai_rerank
+1591,workshop facilitation,20,Facilitação,0.99,matched,ai_rerank
+2810,detecção de anomalias,47,Séries Temporais,0.99,matched,ai_rerank
+183,organizar tarefas,10,Gestão do Tempo,0.99,matched,ai_rerank
+181,detecção de anomalias,47,Séries Temporais,0.99,matched,ai_rerank
+2901,deploy automatizado,65,CI/CD,0.99,matched,ai_rerank
+209,testes de hipótese,49,Estatística Aplicada,0.99,matched,ai_rerank
+198,container deployment,64,Kubernetes,0.99,matched,ai_rerank
+2760,gerenciar partes interessadas,26,Gestão de Stakeholders,0.99,matched,ai_rerank
+252,power bi service,76,Power BI,0.99,matched,ai_rerank
+2698,oratória,22,Apresentação e Oratória,0.99,matched,ai_rerank
+2696,integração contínua,65,CI/CD,0.99,matched,ai_rerank
+311,observabilidade,70,Monitoramento e Observabilidade,0.99,matched,ai_rerank
+289,pensar no longo prazo,17,Pensamento Estratégico,0.99,matched,ai_rerank
+1508,fast api,62,FastAPI,0.99,matched,ai_rerank
+1478,gerenciar partes interessadas,26,Gestão de Stakeholders,0.99,matched,ai_rerank
+1473,orientar pessoas,24,Mentoria,0.99,matched,ai_rerank
+1640,spring framework,34,Java,0.99,matched,ai_rerank
+383,fine-tuning LLMs,43,Large Language Models,0.99,matched,ai_rerank
+375,deploy automatizado,65,CI/CD,0.99,matched,ai_rerank
+366,testes de hipótese,49,Estatística Aplicada,0.99,matched,ai_rerank
+329,lang chain,83,LangChain,0.99,matched,ai_rerank
+328,governança de dados,71,Segurança de Dados,0.99,matched,ai_rerank
+421,postgresql optimization,58,PostgreSQL,0.99,matched,ai_rerank
+402,lang chain,83,LangChain,0.99,matched,ai_rerank
+2650,decisão sob incerteza,8,Tomada de Decisão,0.99,matched,ai_rerank
+2551,postgres,58,PostgreSQL,0.99,matched,ai_rerank
+2548,governança de dados,71,Segurança de Dados,0.99,matched,ai_rerank
+468,gerenciamento de pessoas,1,Gestão de Pessoas,0.99,matched,ai_rerank
+1624,testes de hipótese,49,Estatística Aplicada,0.99,matched,ai_rerank
+1466,liderança de pessoas,1,Gestão de Pessoas,0.99,matched,ai_rerank
+1459,container deployment,64,Kubernetes,0.99,matched,ai_rerank
+1455,gerenciamento de pessoas,1,Gestão de Pessoas,0.99,matched,ai_rerank
+1454,mudança de contexto,9,Adaptabilidade,0.99,matched,ai_rerank
+1422,gerenciamento de pessoas,1,Gestão de Pessoas,0.99,matched,ai_rerank
+1421,efetividade organizacional,96,Desenvolvimento Organizacional,0.99,matched,ai_rerank
+1712,comunicação clara e objetiva,2,Comunicação Assertiva,0.99,matched,ai_rerank
+1707,observabilidade,70,Monitoramento e Observabilidade,0.99,matched,ai_rerank
+1705,Microsoft Azure,68,Azure,0.99,matched,ai_rerank
+536,gerenciamento do tempo,10,Gestão do Tempo,0.99,matched,ai_rerank
+516,fast api,62,FastAPI,0.99,matched,ai_rerank
+514,resolver conflitos interpessoais,3,Resolução de Conflitos,0.99,matched,ai_rerank
+506,compliance,94,Compliance e Regulação,0.99,matched,ai_rerank
+2447,cloud GCP,67,Google Cloud Platform,0.99,matched,ai_rerank
+631,modelagem dimensional,55,Modelagem de Dados,0.99,matched,ai_rerank
+630,alinhamento de stakeholders,26,Gestão de Stakeholders,0.99,matched,ai_rerank
+609,assumir riscos,30,Empreendedorismo,0.99,matched,ai_rerank
+565,contratação,95,Recrutamento e Seleção,0.99,matched,ai_rerank
+1416,power bi service,76,Power BI,0.99,matched,ai_rerank
+1408,cloud GCP,67,Google Cloud Platform,0.99,matched,ai_rerank
+1404,código python,31,Python,0.99,matched,ai_rerank
+1371,power query excel,78,Excel Avançado,0.99,matched,ai_rerank
+1322,comunicar ideias,2,Comunicação Assertiva,0.99,matched,ai_rerank
+2408,compliance,94,Compliance e Regulação,0.99,matched,ai_rerank
+2501,adaptação a mudanças,9,Adaptabilidade,0.99,matched,ai_rerank
+2365,compliance,94,Compliance e Regulação,0.99,matched,ai_rerank
+2355,testes de hipótese,49,Estatística Aplicada,0.99,matched,ai_rerank
+2443,pensar no longo prazo,17,Pensamento Estratégico,0.99,matched,ai_rerank
+713,decisão sob incerteza,8,Tomada de Decisão,0.99,matched,ai_rerank
+694,Postgres,58,PostgreSQL,0.99,matched,ai_rerank
+2401,transformação de dados para modelos,39,Análise de Dados,0.99,matched,ai_rerank
+2382,pensar no longo prazo,17,Pensamento Estratégico,0.99,matched,ai_rerank
+1762,detecção de anomalias,47,Séries Temporais,0.99,matched,ai_rerank
+1742,orientar pessoas,24,Mentoria,0.99,matched,ai_rerank
+1290,spring framework,34,Java,0.99,matched,ai_rerank
+1287,alinhamento de stakeholders,26,Gestão de Stakeholders,0.99,matched,ai_rerank
+1284,direção técnica,25,Liderança Técnica,0.99,matched,ai_rerank
+1280,spring framework,34,Java,0.99,matched,ai_rerank
+1279,organizar tarefas,10,Gestão do Tempo,0.99,matched,ai_rerank
+2277,gerenciar mudanças,28,Gestão de Mudanças,0.99,matched,ai_rerank
+744,postgres,58,PostgreSQL,0.99,matched,ai_rerank
+823,cloud GCP,67,Google Cloud Platform,0.99,matched,ai_rerank
+2296,alinhamento de stakeholders,26,Gestão de Stakeholders,0.99,matched,ai_rerank
+2194,llm development langchain,83,LangChain,0.99,matched,ai_rerank
+2191,fine-tuning huggingface,86,Hugging Face,0.99,matched,ai_rerank
+908,orientar pessoas,24,Mentoria,0.99,matched,ai_rerank
+1811,power bi service,76,Power BI,0.99,matched,ai_rerank
+1809,decisão sob incerteza,8,Tomada de Decisão,0.99,matched,ai_rerank
+1779,processamento de streams,54,Streaming de Dados,0.99,matched,ai_rerank
+1881,CI pipeline,65,CI/CD,0.99,matched,ai_rerank
+1853,liderança em tecnologia,25,Liderança Técnica,0.99,matched,ai_rerank
+1271,supervised learning,40,Machine Learning,0.99,matched,ai_rerank
+2173,ajustar abordagens,9,Adaptabilidade,0.99,matched,ai_rerank
+2165,orientar pessoas,24,Mentoria,0.99,matched,ai_rerank
+2163,google cloud services,67,Google Cloud Platform,0.99,matched,ai_rerank
+2159,adaptação a mudanças,9,Adaptabilidade,0.99,matched,ai_rerank
+922,ETL,52,ETL e ELT,0.99,matched,ai_rerank
+2108,cloud GCP,67,Google Cloud Platform,0.99,matched,ai_rerank
+2188,bash scripting,38,Bash e Shell Script,0.99,matched,ai_rerank
+2058,orientar pessoas,24,Mentoria,0.99,matched,ai_rerank
+1035,workshop facilitation,20,Facilitação,0.99,matched,ai_rerank
+2131,google cloud services,67,Google Cloud Platform,0.99,matched,ai_rerank
+2123,BI dashboards,76,Power BI,0.99,matched,ai_rerank
+1234,Postgres,58,PostgreSQL,0.99,matched,ai_rerank
+1928,gerenciamento de pessoas,1,Gestão de Pessoas,0.99,matched,ai_rerank
+1907,Postgres,58,PostgreSQL,0.99,matched,ai_rerank
+1891,direção técnica,25,Liderança Técnica,0.99,matched,ai_rerank
+2014,efetividade organizacional,96,Desenvolvimento Organizacional,0.99,matched,ai_rerank
+2097,assumir riscos,30,Empreendedorismo,0.99,matched,ai_rerank
+1160,CD pipeline,65,CI/CD,0.99,matched,ai_rerank
+1158,gerenciar mudanças,28,Gestão de Mudanças,0.99,matched,ai_rerank
+1132,tabelas dinâmicas,78,Excel Avançado,0.99,matched,ai_rerank
+1128,bigquery gcp,67,Google Cloud Platform,0.99,matched,ai_rerank
+2035,end-to-end tests,73,Testes Automatizados,0.99,matched,ai_rerank
+1886,llm development langchain,83,LangChain,0.99,matched,ai_rerank
+1988,direção técnica,25,Liderança Técnica,0.99,matched,ai_rerank
+36,trabalho colaborativo,13,Colaboração,0.99,matched,ai_rerank
+3020,cloud GCP,67,Google Cloud Platform,0.99,matched,ai_rerank
+2890,llm development langchain,83,LangChain,0.99,matched,ai_rerank
+2965,power bi service,76,Power BI,0.99,matched,ai_rerank
+2952,ciclo de performance,97,Gestão de Desempenho,0.99,matched,ai_rerank
+2940,cloud GCP,67,Google Cloud Platform,0.99,matched,ai_rerank
+2934,bigquery gcp,67,Google Cloud Platform,0.99,matched,ai_rerank
+2930,ajustar abordagens,9,Adaptabilidade,0.99,matched,ai_rerank
+2921,testes de hipótese,49,Estatística Aplicada,0.99,matched,ai_rerank
+2918,banco de documentos,59,MongoDB,1.0,matched,ai_rerank
+2951,exploração de dados,39,Análise de Dados,1.0,matched,ai_rerank
+2964,monitoramento de LLM,85,Langfuse,1.0,matched,ai_rerank
+2859,regulação,94,Compliance e Regulação,1.0,matched,ai_rerank
+2861,facilitação de grupos,20,Facilitação,1.0,matched,ai_rerank
+2868,pensamento analítico,6,Pensamento Crítico,1.0,matched,ai_rerank
+2872,comunicação profissional,23,Escrita Profissional,1.0,matched,ai_rerank
+2892,Apache Spark,81,Spark,1.0,matched,ai_rerank
+2897,OKR framework,90,OKRs,1.0,matched,ai_rerank
+1547,entrega contínua,65,CI/CD,1.0,matched,ai_rerank
+1557,automação shell,38,Bash e Shell Script,1.0,matched,ai_rerank
+43,modelos de embedding,44,Embeddings e Busca Vetorial,1.0,matched,ai_rerank
+58,gerenciamento de projetos,18,Gestão de Projetos,1.0,matched,ai_rerank
+69,mentalidade de dono,30,Empreendedorismo,1.0,matched,ai_rerank
+79,orquestração de workflows,53,Orquestração de Pipelines,1.0,matched,ai_rerank
+81,visualização de dados,33,R,1.0,matched,ai_rerank
+82,promover cultura,100,Cultura Organizacional,1.0,matched,ai_rerank
+85,aprendizado não supervisionado,40,Machine Learning,1.0,matched,ai_rerank
+92,mudança organizacional,28,Gestão de Mudanças,1.0,matched,ai_rerank
+95,busca vetorial,44,Embeddings e Busca Vetorial,1.0,matched,ai_rerank
+2966,NoSQL MongoDB,59,MongoDB,1.0,matched,ai_rerank
+2983,consistência de dados,55,Modelagem de Dados,1.0,matched,ai_rerank
+2985,mediação de conflitos,3,Resolução de Conflitos,1.0,matched,ai_rerank
+1982,amazon web services,66,AWS,1.0,matched,ai_rerank
+1989,langchain chains,83,LangChain,1.0,matched,ai_rerank
+1992,queries de banco de dados,59,MongoDB,1.0,matched,ai_rerank
+1178,tomar decisões,8,Tomada de Decisão,1.0,matched,ai_rerank
+1180,redes neurais,41,Deep Learning,1.0,matched,ai_rerank
+1187,métricas de modelos,46,Avaliação de Modelos,1.0,matched,ai_rerank
+1188,roadmap de produto,87,Gestão de Produto,1.0,matched,ai_rerank
+1191,trabalho em equipe,1,Gestão de Pessoas,1.0,matched,ai_rerank
+1197,spring boot,34,Java,1.0,matched,ai_rerank
+1200,Amazon Web Services,66,AWS,1.0,matched,ai_rerank
+1202,modelos financeiros,92,Modelagem Financeira,1.0,matched,ai_rerank
+1205,mudança organizacional,28,Gestão de Mudanças,1.0,matched,ai_rerank
+1882,extração de dados,51,Engenharia de Dados,1.0,matched,ai_rerank
+1884,estatística,49,Estatística Aplicada,1.0,matched,ai_rerank
+1125,análise de séries temporais,47,Séries Temporais,1.0,matched,ai_rerank
+1133,storytelling de dados,21,Storytelling com Dados,1.0,matched,ai_rerank
+1138,priorizar tarefas,10,Gestão do Tempo,1.0,matched,ai_rerank
+1154,liderar tecnicamente,25,Liderança Técnica,1.0,matched,ai_rerank
+1163,comunicação profissional,23,Escrita Profissional,1.0,matched,ai_rerank
+1165,métricas de modelos,46,Avaliação de Modelos,1.0,matched,ai_rerank
+1966,avaliação de LLMs em produção,46,Avaliação de Modelos,1.0,matched,ai_rerank
+1967,banco NoSQL,59,MongoDB,1.0,matched,ai_rerank
+1969,análise estatística,33,R,1.0,matched,ai_rerank
+1973,análise estatística,33,R,1.0,matched,ai_rerank
+1974,visão estratégica de produto,14,Visão de Produto,1.0,matched,ai_rerank
+2072,cultura e estrutura organizacional,100,Cultura Organizacional,1.0,matched,ai_rerank
+2083,redes neurais,41,Deep Learning,1.0,matched,ai_rerank
+2087,capacidade de aprendizagem,98,Treinamento e Desenvolvimento,1.0,matched,ai_rerank
+2094,visualização de dados,33,R,1.0,matched,ai_rerank
+2096,modelagem estatística,49,Estatística Aplicada,1.0,matched,ai_rerank
+1084,APIs com FastAPI,62,FastAPI,1.0,matched,ai_rerank
+1088,dbt transformations,80,dbt,1.0,matched,ai_rerank
+1094,facilitar workshops,20,Facilitação,1.0,matched,ai_rerank
+1114,alinhar expectativas,26,Gestão de Stakeholders,1.0,matched,ai_rerank
+1994,habilidades de negociação,5,Negociação,1.0,matched,ai_rerank
+2008,ML flow,84,MLflow,1.0,matched,ai_rerank
+2015,dados em tempo real,54,Streaming de Dados,1.0,matched,ai_rerank
+2020,tableau dashboards,77,Tableau,1.0,matched,ai_rerank
+2031,habilidades de negociação,5,Negociação,1.0,matched,ai_rerank
+1895,identificar causas raiz,7,Resolução de Problemas,1.0,matched,ai_rerank
+1899,planejamento de longo prazo,27,Planejamento Estratégico,1.0,matched,ai_rerank
+1909,facilitação de grupos,20,Facilitação,1.0,matched,ai_rerank
+1916,python fastapi,62,FastAPI,1.0,matched,ai_rerank
+1917,serviços AWS,66,AWS,1.0,matched,ai_rerank
+1218,adoção de mudanças,28,Gestão de Mudanças,1.0,matched,ai_rerank
+1235,tomar decisões,8,Tomada de Decisão,1.0,matched,ai_rerank
+1236,gestão de performance,97,Gestão de Desempenho,1.0,matched,ai_rerank
+1237,alinhar expectativas,26,Gestão de Stakeholders,1.0,matched,ai_rerank
+1245,java backend,34,Java,1.0,matched,ai_rerank
+1251,LLM pipelines,85,Langfuse,1.0,matched,ai_rerank
+1263,scala programming,37,Scala,1.0,matched,ai_rerank
+2124,LLM pipelines,85,Langfuse,1.0,matched,ai_rerank
+2129,desenvolvimento java,34,Java,1.0,matched,ai_rerank
+2136,tomar decisões,8,Tomada de Decisão,1.0,matched,ai_rerank
+2142,programas de aprendizado,98,Treinamento e Desenvolvimento,1.0,matched,ai_rerank
+2155,feedback de desempenho,97,Gestão de Desempenho,1.0,matched,ai_rerank
+1057,banco de dados vetorial,44,Embeddings e Busca Vetorial,1.0,matched,ai_rerank
+1059,arquitetura de dados,60,Redis,1.0,matched,ai_rerank
+1062,monitoramento de LLM,85,Langfuse,1.0,matched,ai_rerank
+1071,consultas SQL,32,SQL,1.0,matched,ai_rerank
+1077,definição de OKRs,90,OKRs,1.0,matched,ai_rerank
+2049,liderança de engenharia,25,Liderança Técnica,1.0,matched,ai_rerank
+2059,java backend,34,Java,1.0,matched,ai_rerank
+2178,roadmap de produto,87,Gestão de Produto,1.0,matched,ai_rerank
+2186,facilitar workshops,20,Facilitação,1.0,matched,ai_rerank
+965,java backend,34,Java,1.0,matched,ai_rerank
+968,scala programming,37,Scala,1.0,matched,ai_rerank
+971,orquestração de workflows,53,Orquestração de Pipelines,1.0,matched,ai_rerank
+989,relatórios power bi,76,Power BI,1.0,matched,ai_rerank
+996,visão estratégica de produto,14,Visão de Produto,1.0,matched,ai_rerank
+1000,dashboards power bi,76,Power BI,1.0,matched,ai_rerank
+1004,inferência estatística,49,Estatística Aplicada,1.0,matched,ai_rerank
+1018,consistência de dados,55,Modelagem de Dados,1.0,matched,ai_rerank
+2100,pensamento analítico,6,Pensamento Crítico,1.0,matched,ai_rerank
+2106,gerenciamento de projetos,18,Gestão de Projetos,1.0,matched,ai_rerank
+2113,comunicação escrita,23,Escrita Profissional,1.0,matched,ai_rerank
+2120,aplicações com LLM,83,LangChain,1.0,matched,ai_rerank
+2219,extração de dados,51,Engenharia de Dados,1.0,matched,ai_rerank
+919,planejamento de projetos,18,Gestão de Projetos,1.0,matched,ai_rerank
+927,python fastapi,62,FastAPI,1.0,matched,ai_rerank
+937,visualização de dados,33,R,1.0,matched,ai_rerank
+940,indicadores financeiros,91,Análise Financeira,1.0,matched,ai_rerank
+941,gerenciamento de riscos,93,Gestão de Riscos,1.0,matched,ai_rerank
+953,liderança de equipes,25,Liderança Técnica,1.0,matched,ai_rerank
+954,linguagem R,33,R,1.0,matched,ai_rerank
+2167,comunicação clara,2,Comunicação Assertiva,1.0,matched,ai_rerank
+2170,risco operacional,93,Gestão de Riscos,1.0,matched,ai_rerank
+2177,frontend javascript,35,JavaScript,1.0,matched,ai_rerank
+1850,aprendizagem contínua,12,Aprendizado Contínuo,1.0,matched,ai_rerank
+1854,projeções financeiras,92,Modelagem Financeira,1.0,matched,ai_rerank
+1856,hugging face models,86,Hugging Face,1.0,matched,ai_rerank
+1859,testes de integração,73,Testes Automatizados,1.0,matched,ai_rerank
+1861,arquitetura de sistemas,74,Arquitetura de Software,1.0,matched,ai_rerank
+1866,processamento em tempo real,54,Streaming de Dados,1.0,matched,ai_rerank
+1873,regulação,94,Compliance e Regulação,1.0,matched,ai_rerank
+1773,experimentos controlados,50,Experimentação e Testes A/B,1.0,matched,ai_rerank
+1815,indicadores financeiros,91,Análise Financeira,1.0,matched,ai_rerank
+1817,cultura e estrutura organizacional,100,Cultura Organizacional,1.0,matched,ai_rerank
+2269,aplicações com LLM,83,LangChain,1.0,matched,ai_rerank
+2270,resistência a mudanças,28,Gestão de Mudanças,1.0,matched,ai_rerank
+864,modelagem relacional,55,Modelagem de Dados,1.0,matched,ai_rerank
+868,processamento de texto,42,Processamento de Linguagem Natural,1.0,matched,ai_rerank
+884,monitoramento de LLM,85,Langfuse,1.0,matched,ai_rerank
+885,práticas ágeis,19,Metodologias Ágeis,1.0,matched,ai_rerank
+914,negociação estratégica,5,Negociação,1.0,matched,ai_rerank
+916,comunicação de feedbacks,2,Comunicação Assertiva,1.0,matched,ai_rerank
+2195,modelos de ML,84,MLflow,1.0,matched,ai_rerank
+2197,liderança de engenharia,25,Liderança Técnica,1.0,matched,ai_rerank
+2200,API com python fastapi,62,FastAPI,1.0,matched,ai_rerank
+2213,langchain memory,83,LangChain,1.0,matched,ai_rerank
+2215,gerenciamento de riscos,93,Gestão de Riscos,1.0,matched,ai_rerank
+2285,monitoramento de LLM,85,Langfuse,1.0,matched,ai_rerank
+2286,execução de projetos,18,Gestão de Projetos,1.0,matched,ai_rerank
+2307,cenários financeiros,92,Modelagem Financeira,1.0,matched,ai_rerank
+808,testes A/B,50,Experimentação e Testes A/B,1.0,matched,ai_rerank
+809,ML flow,84,MLflow,1.0,matched,ai_rerank
+826,modelagem estatística,49,Estatística Aplicada,1.0,matched,ai_rerank
+828,arquitetura de dados,60,Redis,1.0,matched,ai_rerank
+830,mlflow models,84,MLflow,1.0,matched,ai_rerank
+837,identificar causas raiz,7,Resolução de Problemas,1.0,matched,ai_rerank
+843,conduzir workshops,20,Facilitação,1.0,matched,ai_rerank
+852,facilitar workshops,20,Facilitação,1.0,matched,ai_rerank
+2235,pipelines de dados,51,Engenharia de Dados,1.0,matched,ai_rerank
+2254,comunicar dados,21,Storytelling com Dados,1.0,matched,ai_rerank
+2262,liderança de equipes,25,Liderança Técnica,1.0,matched,ai_rerank
+2344,construção de pipelines,51,Engenharia de Dados,1.0,matched,ai_rerank
+734,visão estratégica de produto,14,Visão de Produto,1.0,matched,ai_rerank
+738,performance de modelos,55,Modelagem de Dados,1.0,matched,ai_rerank
+749,transformação organizacional,28,Gestão de Mudanças,1.0,matched,ai_rerank
+769,redes neurais profundas,41,Deep Learning,1.0,matched,ai_rerank
+771,desenvolvimento de pessoas,1,Gestão de Pessoas,1.0,matched,ai_rerank
+775,proteção de dados,71,Segurança de Dados,1.0,matched,ai_rerank
+783,scripts bash,38,Bash e Shell Script,1.0,matched,ai_rerank
+785,aprendizagem contínua,12,Aprendizado Contínuo,1.0,matched,ai_rerank
+795,roadmap de produto,87,Gestão de Produto,1.0,matched,ai_rerank
+2274,redis cache,60,Redis,1.0,matched,ai_rerank
+2275,transformação de dados,80,dbt,1.0,matched,ai_rerank
+2278,decisões baseadas em dados,15,Orientação a Dados,1.0,matched,ai_rerank
+2283,conduzir negociações,5,Negociação,1.0,matched,ai_rerank
+1818,pesquisa com usuários,88,UX Research,1.0,matched,ai_rerank
+1821,orquestração de containers,64,Kubernetes,1.0,matched,ai_rerank
+1283,dados em tempo real,54,Streaming de Dados,1.0,matched,ai_rerank
+1291,engenheiro de dados,51,Engenharia de Dados,1.0,matched,ai_rerank
+1298,risco operacional,93,Gestão de Riscos,1.0,matched,ai_rerank
+1304,liderar tecnicamente,25,Liderança Técnica,1.0,matched,ai_rerank
+1740,conduzir workshops,20,Facilitação,1.0,matched,ai_rerank
+1743,processamento em tempo real,54,Streaming de Dados,1.0,matched,ai_rerank
+1761,adoção de mudanças,28,Gestão de Mudanças,1.0,matched,ai_rerank
+2385,entender o produto,14,Visão de Produto,1.0,matched,ai_rerank
+2390,arquitetura de dados,60,Redis,1.0,matched,ai_rerank
+2400,testes unitários,73,Testes Automatizados,1.0,matched,ai_rerank
+2403,kubernetes deployment,64,Kubernetes,1.0,matched,ai_rerank
+696,decisões baseadas em dados,15,Orientação a Dados,1.0,matched,ai_rerank
+725,gerenciar projetos,18,Gestão de Projetos,1.0,matched,ai_rerank
+2314,identificar oportunidades,30,Empreendedorismo,1.0,matched,ai_rerank
+2315,planejamento de longo prazo,27,Planejamento Estratégico,1.0,matched,ai_rerank
+2316,classificação de imagens,48,Visão Computacional,1.0,matched,ai_rerank
+2322,aws services,66,AWS,1.0,matched,ai_rerank
+2328,conduzir negociações,5,Negociação,1.0,matched,ai_rerank
+2342,javascript frontend,35,JavaScript,1.0,matched,ai_rerank
+2439,experiment design,50,Experimentação e Testes A/B,1.0,matched,ai_rerank
+663,similaridade semântica,44,Embeddings e Busca Vetorial,1.0,matched,ai_rerank
+667,orquestração de containers,64,Kubernetes,1.0,matched,ai_rerank
+668,aprendizado de máquina,40,Machine Learning,1.0,matched,ai_rerank
+669,avaliação de riscos,93,Gestão de Riscos,1.0,matched,ai_rerank
+671,trabalho em equipe,1,Gestão de Pessoas,1.0,matched,ai_rerank
+677,automação de testes,73,Testes Automatizados,1.0,matched,ai_rerank
+680,modelagem estatística,49,Estatística Aplicada,1.0,matched,ai_rerank
+683,OKR framework,90,OKRs,1.0,matched,ai_rerank
+2352,queries de banco de dados,59,MongoDB,1.0,matched,ai_rerank
+2354,bash e shell,38,Bash e Shell Script,1.0,matched,ai_rerank
+2357,transformação de dados,80,dbt,1.0,matched,ai_rerank
+2372,java backend,34,Java,1.0,matched,ai_rerank
+2455,redis cache,60,Redis,1.0,matched,ai_rerank
+2458,experimentos controlados,50,Experimentação e Testes A/B,1.0,matched,ai_rerank
+2467,testes unitários,73,Testes Automatizados,1.0,matched,ai_rerank
+2471,banco de documentos,59,MongoDB,1.0,matched,ai_rerank
+2480,desenvolvimento de pessoas,1,Gestão de Pessoas,1.0,matched,ai_rerank
+2481,spring boot,34,Java,1.0,matched,ai_rerank
+2486,liderar equipes,1,Gestão de Pessoas,1.0,matched,ai_rerank
+2491,Amazon Web Services,66,AWS,1.0,matched,ai_rerank
+2497,langchain agents,83,LangChain,1.0,matched,ai_rerank
+2416,banco de documentos,59,MongoDB,1.0,matched,ai_rerank
+2425,normas e regulamentações,94,Compliance e Regulação,1.0,matched,ai_rerank
+2434,processo seletivo,95,Recrutamento e Seleção,1.0,matched,ai_rerank
+2435,resolver divergências,3,Resolução de Conflitos,1.0,matched,ai_rerank
+2437,promover cultura,100,Cultura Organizacional,1.0,matched,ai_rerank
+1314,métricas de modelos,46,Avaliação de Modelos,1.0,matched,ai_rerank
+1317,relatórios power bi,76,Power BI,1.0,matched,ai_rerank
+1329,shell scripting,38,Bash e Shell Script,1.0,matched,ai_rerank
+1337,programação scala,37,Scala,1.0,matched,ai_rerank
+1358,busca vetorial,44,Embeddings e Busca Vetorial,1.0,matched,ai_rerank
+1359,modelos de embedding,44,Embeddings e Busca Vetorial,1.0,matched,ai_rerank
+1364,modelagem relacional,55,Modelagem de Dados,1.0,matched,ai_rerank
+1368,exploração de dados,39,Análise de Dados,1.0,matched,ai_rerank
+1397,programação scala,37,Scala,1.0,matched,ai_rerank
+1412,postgresql avançado,58,PostgreSQL,1.0,matched,ai_rerank
+1417,ciclo de vida de modelos,84,MLflow,1.0,matched,ai_rerank
+2525,trabalho em equipe,1,Gestão de Pessoas,1.0,matched,ai_rerank
+2540,classificação de texto,42,Processamento de Linguagem Natural,1.0,matched,ai_rerank
+567,roadmap de produto,87,Gestão de Produto,1.0,matched,ai_rerank
+573,limpeza de dados,39,Análise de Dados,1.0,matched,ai_rerank
+584,mudança organizacional,28,Gestão de Mudanças,1.0,matched,ai_rerank
+590,langchain chains,83,LangChain,1.0,matched,ai_rerank
+605,risco operacional,93,Gestão de Riscos,1.0,matched,ai_rerank
+613,javascript backend,35,JavaScript,1.0,matched,ai_rerank
+626,apache spark,81,Spark,1.0,matched,ai_rerank
+642,mudança organizacional,28,Gestão de Mudanças,1.0,matched,ai_rerank
+2452,embedding models,44,Embeddings e Busca Vetorial,1.0,matched,ai_rerank
+2571,narrativa com dados,21,Storytelling com Dados,1.0,matched,ai_rerank
+2577,avaliar modelos,46,Avaliação de Modelos,1.0,matched,ai_rerank
+2580,transformação de dados,80,dbt,1.0,matched,ai_rerank
+501,javascript backend,35,JavaScript,1.0,matched,ai_rerank
+507,monitoramento de LLM,85,Langfuse,1.0,matched,ai_rerank
+515,mitigação de riscos,93,Gestão de Riscos,1.0,matched,ai_rerank
+523,facilitar workshops,20,Facilitação,1.0,matched,ai_rerank
+527,engajamento de stakeholders,26,Gestão de Stakeholders,1.0,matched,ai_rerank
+530,rastreamento de prompts,85,Langfuse,1.0,matched,ai_rerank
+2503,postgresql avançado,58,PostgreSQL,1.0,matched,ai_rerank
+2510,Apache Spark,81,Spark,1.0,matched,ai_rerank
+2516,experimentos controlados,50,Experimentação e Testes A/B,1.0,matched,ai_rerank
+1714,liderar pessoas,1,Gestão de Pessoas,1.0,matched,ai_rerank
+1423,capacidade de aprendizagem,98,Treinamento e Desenvolvimento,1.0,matched,ai_rerank
+1464,langchain agents,83,LangChain,1.0,matched,ai_rerank
+1465,habilidades de comunicação,2,Comunicação Assertiva,1.0,matched,ai_rerank
+1625,experiment design,50,Experimentação e Testes A/B,1.0,matched,ai_rerank
+1634,decisões baseadas em dados,15,Orientação a Dados,1.0,matched,ai_rerank
+2632,redes neurais profundas,41,Deep Learning,1.0,matched,ai_rerank
+2634,pensar estrategicamente,17,Pensamento Estratégico,1.0,matched,ai_rerank
+449,gerenciamento de riscos,93,Gestão de Riscos,1.0,matched,ai_rerank
+451,tomar decisões,8,Tomada de Decisão,1.0,matched,ai_rerank
+453,cache redis,60,Redis,1.0,matched,ai_rerank
+454,projeções financeiras,92,Modelagem Financeira,1.0,matched,ai_rerank
+464,amazon web services,66,AWS,1.0,matched,ai_rerank
+466,testes unitários,73,Testes Automatizados,1.0,matched,ai_rerank
+470,avaliação de desempenho,97,Gestão de Desempenho,1.0,matched,ai_rerank
+494,comunicação direta,2,Comunicação Assertiva,1.0,matched,ai_rerank
+2542,employer brand,99,Employer Branding,1.0,matched,ai_rerank
+2543,dados em tempo real,54,Streaming de Dados,1.0,matched,ai_rerank
+2545,looker dashboards,79,Looker,1.0,matched,ai_rerank
+389,práticas ágeis,19,Metodologias Ágeis,1.0,matched,ai_rerank
+2654,LLM pipelines,85,Langfuse,1.0,matched,ai_rerank
+2671,identificar causas raiz,7,Resolução de Problemas,1.0,matched,ai_rerank
+2672,hugging face models,86,Hugging Face,1.0,matched,ai_rerank
+2680,modelagem relacional,55,Modelagem de Dados,1.0,matched,ai_rerank
+2683,langchain memory,83,LangChain,1.0,matched,ai_rerank
+400,employer brand,99,Employer Branding,1.0,matched,ai_rerank
+410,liderança de engenharia,25,Liderança Técnica,1.0,matched,ai_rerank
+2600,mitigação de riscos,93,Gestão de Riscos,1.0,matched,ai_rerank
+2602,programas de aprendizado,98,Treinamento e Desenvolvimento,1.0,matched,ai_rerank
+2615,mentalidade empreendedora,30,Empreendedorismo,1.0,matched,ai_rerank
+2620,capacidade de aprendizagem,98,Treinamento e Desenvolvimento,1.0,matched,ai_rerank
+2624,shell script,38,Bash e Shell Script,1.0,matched,ai_rerank
+2709,pesquisa com usuários,88,UX Research,1.0,matched,ai_rerank
+2720,risco operacional,93,Gestão de Riscos,1.0,matched,ai_rerank
+326,aprendizado não supervisionado,40,Machine Learning,1.0,matched,ai_rerank
+327,visualização de dados,33,R,1.0,matched,ai_rerank
+333,inferência estatística,49,Estatística Aplicada,1.0,matched,ai_rerank
+338,aprendizado de máquina,40,Machine Learning,1.0,matched,ai_rerank
+356,avaliar modelos,46,Avaliação de Modelos,1.0,matched,ai_rerank
+369,comunicação escrita,23,Escrita Profissional,1.0,matched,ai_rerank
+374,comunicação escrita,23,Escrita Profissional,1.0,matched,ai_rerank
+379,resolver divergências,3,Resolução de Conflitos,1.0,matched,ai_rerank
+388,embeddings,44,Embeddings e Busca Vetorial,1.0,matched,ai_rerank
+1638,postgresql queries,58,PostgreSQL,1.0,matched,ai_rerank
+1645,Apache Spark,81,Spark,1.0,matched,ai_rerank
+1664,entender o produto,14,Visão de Produto,1.0,matched,ai_rerank
+1481,armazém de dados,82,Hadoop,1.0,matched,ai_rerank
+1483,engajamento de stakeholders,26,Gestão de Stakeholders,1.0,matched,ai_rerank
+1496,resolução de divergências,3,Resolução de Conflitos,1.0,matched,ai_rerank
+1506,processamento de texto,42,Processamento de Linguagem Natural,1.0,matched,ai_rerank
+1510,rastreamento de experimentos,84,MLflow,1.0,matched,ai_rerank
+1516,storytelling de dados,21,Storytelling com Dados,1.0,matched,ai_rerank
+1573,dashboards power bi,76,Power BI,1.0,matched,ai_rerank
+1586,tableau dashboards,77,Tableau,1.0,matched,ai_rerank
+1589,mentalidade de dono,30,Empreendedorismo,1.0,matched,ai_rerank
+2765,construção de pipelines,51,Engenharia de Dados,1.0,matched,ai_rerank
+301,promover cultura,100,Cultura Organizacional,1.0,matched,ai_rerank
+304,performance de modelos,55,Modelagem de Dados,1.0,matched,ai_rerank
+308,avaliação de LLMs em produção,46,Avaliação de Modelos,1.0,matched,ai_rerank
+309,embedding models,44,Embeddings e Busca Vetorial,1.0,matched,ai_rerank
+313,gerenciar projetos,18,Gestão de Projetos,1.0,matched,ai_rerank
+314,comunicação profissional,23,Escrita Profissional,1.0,matched,ai_rerank
+2689,liderança de engenharia,25,Liderança Técnica,1.0,matched,ai_rerank
+2690,classificação de texto,42,Processamento de Linguagem Natural,1.0,matched,ai_rerank
+2693,habilidades de escrita,23,Escrita Profissional,1.0,matched,ai_rerank
+2694,deep learning models,41,Deep Learning,1.0,matched,ai_rerank
+2697,análise estatística em R,33,R,1.0,matched,ai_rerank
+2808,programação scala,37,Scala,1.0,matched,ai_rerank
+244,modelos de ML,84,MLflow,1.0,matched,ai_rerank
+245,facilitar reuniões,20,Facilitação,1.0,matched,ai_rerank
+248,dados temporais,47,Séries Temporais,1.0,matched,ai_rerank
+260,construção de APIs,61,Desenvolvimento de APIs,1.0,matched,ai_rerank
+261,completude de dados,57,Qualidade de Dados,1.0,matched,ai_rerank
+265,automação de testes,73,Testes Automatizados,1.0,matched,ai_rerank
+284,aprendizado supervisionado,40,Machine Learning,1.0,matched,ai_rerank
+2730,rastreamento de prompts,85,Langfuse,1.0,matched,ai_rerank
+2735,Apache Spark,81,Spark,1.0,matched,ai_rerank
+2738,priorizar tarefas,10,Gestão do Tempo,1.0,matched,ai_rerank
+2739,rastreamento de prompts,85,Langfuse,1.0,matched,ai_rerank
+2740,transformação de dados,80,dbt,1.0,matched,ai_rerank
+2754,rastreamento de prompts,85,Langfuse,1.0,matched,ai_rerank
+192,visualização de dados,33,R,1.0,matched,ai_rerank
+193,RESTful API,61,Desenvolvimento de APIs,1.0,matched,ai_rerank
+195,alinhar expectativas,26,Gestão de Stakeholders,1.0,matched,ai_rerank
+196,frontend javascript,35,JavaScript,1.0,matched,ai_rerank
+202,shell scripting,38,Bash e Shell Script,1.0,matched,ai_rerank
+206,completude de dados,57,Qualidade de Dados,1.0,matched,ai_rerank
+218,desenvolvimento de equipes,98,Treinamento e Desenvolvimento,1.0,matched,ai_rerank
+219,dbt transformations,80,dbt,1.0,matched,ai_rerank
+220,mentalidade empreendedora,30,Empreendedorismo,1.0,matched,ai_rerank
+2770,frontend javascript,35,JavaScript,1.0,matched,ai_rerank
+2777,arquitetura de sistemas,74,Arquitetura de Software,1.0,matched,ai_rerank
+2791,RESTful API,61,Desenvolvimento de APIs,1.0,matched,ai_rerank
+2794,monitoramento,70,Monitoramento e Observabilidade,1.0,matched,ai_rerank
+2801,gestão de prioridades,87,Gestão de Produto,1.0,matched,ai_rerank
+2905,avaliação de riscos,93,Gestão de Riscos,1.0,matched,ai_rerank
+148,google cloud,67,Google Cloud Platform,1.0,matched,ai_rerank
+151,pipelines de dados,51,Engenharia de Dados,1.0,matched,ai_rerank
+168,cultura e estrutura organizacional,100,Cultura Organizacional,1.0,matched,ai_rerank
+172,mediação de conflitos,3,Resolução de Conflitos,1.0,matched,ai_rerank
+173,typescript frontend,36,TypeScript,1.0,matched,ai_rerank
+2818,consultas SQL,32,SQL,1.0,matched,ai_rerank
+2834,langchain chains,83,LangChain,1.0,matched,ai_rerank
+2843,esquema de dados,55,Modelagem de Dados,1.0,matched,ai_rerank
+2850,habilidades de escrita,23,Escrita Profissional,1.0,matched,ai_rerank
+188,gestão de escopo,18,Gestão de Projetos,1.0,matched,ai_rerank
+190,modelos financeiros,92,Modelagem Financeira,1.0,matched,ai_rerank
+1595,banco de dados vetorial,44,Embeddings e Busca Vetorial,1.0,matched,ai_rerank
+1598,observabilidade de LLMs,85,Langfuse,1.0,matched,ai_rerank
+1605,google cloud ML,67,Google Cloud Platform,1.0,matched,ai_rerank
+1607,design de experimentos,50,Experimentação e Testes A/B,1.0,matched,ai_rerank
+1609,liderar pessoas,1,Gestão de Pessoas,1.0,matched,ai_rerank
+1611,dashboards power bi,76,Power BI,1.0,matched,ai_rerank
+1538,typescript backend,36,TypeScript,1.0,matched,ai_rerank
+1541,mitigação de riscos,93,Gestão de Riscos,1.0,matched,ai_rerank
+1543,avaliação de desempenho,97,Gestão de Desempenho,1.0,matched,ai_rerank
+1546,containerização,63,Docker,1.0,matched,ai_rerank
+2986,testes A/B,50,Experimentação e Testes A/B,1.0,matched,ai_rerank
+141,construção de APIs,61,Desenvolvimento de APIs,1.0,matched,ai_rerank
+137,gestão de performance,97,Gestão de Desempenho,1.0,matched,ai_rerank
+130,javascript backend,35,JavaScript,1.0,matched,ai_rerank
+2998,dados em tempo real,54,Streaming de Dados,1.0,matched,ai_rerank
+3002,facilitar reuniões,20,Facilitação,1.0,matched,ai_rerank
+105,apache spark,81,Spark,1.0,matched,ai_rerank
+3026,comunicar dados,21,Storytelling com Dados,1.0,matched,ai_rerank
+3015,postgresql queries,58,PostgreSQL,1.0,matched,ai_rerank
+3019,cultura da empresa,99,Employer Branding,1.0,matched,ai_rerank

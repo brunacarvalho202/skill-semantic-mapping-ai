@@ -1,0 +1,3031 @@
+﻿new_skill_id,skill_raw,taxonomy_id,skill_name,confidence_score,match_status,strategy_used
+1,gestão de pessoas,1,Gestão de Pessoas,1.0,matched,fuzzy_match
+2,People Management,1,Gestão de Pessoas,1.0,matched,ai_rerank
+3,SQL,32,SQL,1.0,matched,fuzzy_match
+4,sql avançado,58,PostgreSQL,0.82,matched,ai_rerank
+5,machine learning,40,Machine Learning,1.0,matched,fuzzy_match
+6,comunicação assertiva,2,Comunicação Assertiva,1.0,matched,fuzzy_match
+7,python,31,Python,1.0,matched,fuzzy_match
+8,PYTHON,31,Python,1.0,matched,fuzzy_match
+9,análise de dados,39,Análise de Dados,1.0,matched,fuzzy_match
+10,resolução de conflitos,3,Resolução de Conflitos,1.0,matched,fuzzy_match
+11,power bi,76,Power BI,1.0,matched,fuzzy_match
+12,PowerBI,76,Power BI,1.0,matched,ai_rerank
+13,espiritualidade,—,—,0.05,no_match,insufficient_confidence
+14,excel avançado,78,Excel Avançado,1.0,matched,fuzzy_match
+15,scrum,—,—,0.24,no_match,insufficient_confidence
+16,Metodologias Ágeis,19,Metodologias Ágeis,1.0,matched,fuzzy_match
+17,storytelling com dados,21,Storytelling com Dados,1.0,matched,fuzzy_match
+18,pensamento crítico,6,Pensamento Crítico,1.0,matched,fuzzy_match
+19,Critical Thinking,6,Pensamento Crítico,1.0,matched,ai_rerank
+20,versionamento de código,72,Versionamento de Código,1.0,matched,fuzzy_match
+21,Git,—,—,0.15,no_match,insufficient_confidence
+22,cloud computing,81,Spark,0.54,matched,ai_rerank
+23,AWS,66,AWS,1.0,matched,fuzzy_match
+24,engenharia de dados,51,Engenharia de Dados,1.0,matched,fuzzy_match
+25,ETL,52,ETL e ELT,0.99,matched,ai_rerank
+26,visão de produto,14,Visão de Produto,1.0,matched,fuzzy_match
+27,Product Sense,14,Visão de Produto,0.92,matched,ai_rerank
+28,Alinhamento com o universo,—,—,0.01,no_match,insufficient_confidence
+29,inteligência emocional,4,Inteligência Emocional,1.0,matched,fuzzy_match
+30,negociação,5,Negociação,1.0,matched,fuzzy_match
+31,data governance,—,—,0.12,no_match,insufficient_confidence
+32,feature extraction,—,—,0.05,no_match,insufficient_confidence
+33,auto-organização,11,Autogestão,0.56,matched,ai_rerank
+34,excel básico,—,—,0.1,no_match,insufficient_confidence
+35,SQL,32,SQL,1.0,matched,fuzzy_match
+36,trabalho colaborativo,13,Colaboração,0.97,matched,ai_rerank
+37,emotional regulation,—,—,0.07,no_match,insufficient_confidence
+38,risk management,93,Gestão de Riscos,1.0,matched,ai_rerank
+39,cash flow analysis,—,—,0.03,no_match,insufficient_confidence
+40,imagens docker,—,—,0.41,no_match,insufficient_confidence
+41,micro services,75,Microsserviços,1.0,matched,ai_rerank
+42,orientação a dados,15,Orientação a Dados,1.0,matched,fuzzy_match
+43,modelos de embedding,44,Embeddings e Busca Vetorial,0.93,matched,ai_rerank
+44,statistical experimentation,50,Experimentação e Testes A/B,0.9,matched,ai_rerank
+45,gestão de capital humano,—,—,0.14,no_match,insufficient_confidence
+46,empathy mapping,—,—,0.02,no_match,insufficient_confidence
+47,infrastructure automation,—,—,0.14,no_match,insufficient_confidence
+48,versatilidade,—,—,0.14,no_match,insufficient_confidence
+49,supporting growth,24,Mentoria,0.88,matched,ai_rerank
+50,BDD,80,dbt,0.96,matched,ai_rerank
+51,redação profissional,23,Escrita Profissional,0.95,matched,ai_rerank
+52,DCF,—,—,0.08,no_match,insufficient_confidence
+53,git,—,—,0.23,no_match,insufficient_confidence
+54,negotiation tactics,—,—,0.34,no_match,insufficient_confidence
+55,organização pessoal,1,Gestão de Pessoas,0.64,matched,ai_rerank
+56,python avançado,—,—,0.29,no_match,insufficient_confidence
+57,data schema,—,—,0.07,no_match,insufficient_confidence
+58,gerenciamento de projetos,18,Gestão de Projetos,1.0,matched,ai_rerank
+59,multivariate testing,—,—,0.11,no_match,insufficient_confidence
+60,independent execution,11,Autogestão,0.78,matched,ai_rerank
+61,vector databases,44,Embeddings e Busca Vetorial,0.66,matched,ai_rerank
+62,people manager,1,Gestão de Pessoas,0.99,matched,ai_rerank
+63,personal organization,—,—,0.43,no_match,insufficient_confidence
+64,desenvolvimento de APIs,61,Desenvolvimento de APIs,1.0,matched,fuzzy_match
+65,power bi,76,Power BI,1.0,matched,fuzzy_match
+66,dealing with change,—,—,0.15,no_match,insufficient_confidence
+67,hive,—,—,0.29,no_match,insufficient_confidence
+68,continuous integration,65,CI/CD,0.92,matched,ai_rerank
+69,mentalidade de dono,30,Empreendedorismo,0.73,matched,ai_rerank
+70,version control,—,—,0.04,no_match,insufficient_confidence
+71,spark SQL,81,Spark,0.84,matched,ai_rerank
+72,balance sheet analysis,—,—,0.1,no_match,insufficient_confidence
+73,object detection,—,—,0.05,no_match,insufficient_confidence
+74,employee development,—,—,0.43,no_match,insufficient_confidence
+75,managing group dynamics,20,Facilitação,0.52,matched,ai_rerank
+76,OLAP,—,—,0.33,no_match,insufficient_confidence
+77,js,—,—,0.32,no_match,insufficient_confidence
+78,tech lead,25,Liderança Técnica,1.0,matched,ai_rerank
+79,orquestração de workflows,—,—,0.29,no_match,insufficient_confidence
+80,negociação comercial,—,—,0.36,no_match,insufficient_confidence
+81,visualização de dados,—,—,0.39,no_match,insufficient_confidence
+82,promover cultura,100,Cultura Organizacional,0.93,matched,ai_rerank
+83,gerenciamento de times,10,Gestão do Tempo,0.97,matched,ai_rerank
+84,LGPD compliance,71,Segurança de Dados,0.57,matched,ai_rerank
+85,aprendizado não supervisionado,40,Machine Learning,0.99,matched,ai_rerank
+86,fluxo de caixa descontado,—,—,0.01,no_match,insufficient_confidence
+87,langchain,83,LangChain,1.0,matched,fuzzy_match
+88,priorização,—,—,0.23,no_match,insufficient_confidence
+89,validação de modelos,46,Avaliação de Modelos,1.0,matched,fuzzy_match
+90,team conflict resolution,3,Resolução de Conflitos,1.0,matched,ai_rerank
+91,APM,—,—,0.21,no_match,insufficient_confidence
+92,mudança organizacional,28,Gestão de Mudanças,0.84,matched,ai_rerank
+93,integridade de dados,—,—,0.08,no_match,insufficient_confidence
+94,pipeline de ML,85,Langfuse,0.89,matched,ai_rerank
+95,busca vetorial,44,Embeddings e Busca Vetorial,0.95,matched,ai_rerank
+96,image processing,—,—,0.1,no_match,insufficient_confidence
+97,pensar como empreendedor,30,Empreendedorismo,0.76,matched,ai_rerank
+98,people leadership,1,Gestão de Pessoas,1.0,matched,ai_rerank
+99,automação de workflows,—,—,0.06,no_match,insufficient_confidence
+100,model monitoring,46,Avaliação de Modelos,0.96,matched,ai_rerank
+101,real-time processing,54,Streaming de Dados,0.95,matched,ai_rerank
+102,transformers architecture,—,—,0.05,no_match,insufficient_confidence
+103,deep learning,41,Deep Learning,1.0,matched,fuzzy_match
+104,transformar dados em histórias,21,Storytelling com Dados,0.63,matched,ai_rerank
+105,apache spark,81,Spark,1.0,matched,ai_rerank
+106,estratégia de branches,—,—,0.04,no_match,insufficient_confidence
+107,SOLID principles,—,—,0.03,no_match,insufficient_confidence
+108,gestão emocional,4,Inteligência Emocional,0.87,matched,ai_rerank
+109,named entity recognition,—,—,0.01,no_match,insufficient_confidence
+110,análise de dados avançada,—,—,0.17,no_match,insufficient_confidence
+111,test-driven development,—,—,0.04,no_match,insufficient_confidence
+112,seleção de candidatos,—,—,0.48,no_match,insufficient_confidence
+113,sourcing de talentos,—,—,0.04,no_match,insufficient_confidence
+114,hdfs,—,—,0.1,no_match,insufficient_confidence
+115,busca semântica,—,—,0.44,no_match,insufficient_confidence
+116,google cloud services,67,Google Cloud Platform,1.0,matched,ai_rerank
+117,container,63,Docker,0.78,matched,ai_rerank
+118,retrieval augmented generation,—,—,0.0,no_match,insufficient_confidence
+119,fórmulas excel,—,—,0.25,no_match,insufficient_confidence
+120,seleção de candidatos,—,—,0.48,no_match,insufficient_confidence
+121,psql,—,—,0.27,no_match,insufficient_confidence
+122,excel,78,Excel Avançado,0.51,matched,ai_rerank
+123,spark streaming,54,Streaming de Dados,0.97,matched,ai_rerank
+124,definir estratégia,17,Pensamento Estratégico,0.85,matched,ai_rerank
+125,apache airflow,—,—,0.37,no_match,insufficient_confidence
+126,risk assessment,93,Gestão de Riscos,0.89,matched,ai_rerank
+127,DCF,—,—,0.08,no_match,insufficient_confidence
+128,kubernetes scaling,64,Kubernetes,0.98,matched,ai_rerank
+129,pull request,—,—,0.01,no_match,insufficient_confidence
+130,javascript backend,35,JavaScript,1.0,matched,ai_rerank
+131,text processing,42,Processamento de Linguagem Natural,0.94,matched,ai_rerank
+132,estatística aplicada,49,Estatística Aplicada,1.0,matched,fuzzy_match
+133,user research,88,UX Research,0.96,matched,ai_rerank
+134,product discovery,88,UX Research,0.58,matched,ai_rerank
+135,data workflow management,—,—,0.09,no_match,insufficient_confidence
+136,named entity recognition,—,—,0.01,no_match,insufficient_confidence
+137,gestão de performance,97,Gestão de Desempenho,1.0,matched,ai_rerank
+138,autoconsciência emocional,—,—,0.2,no_match,insufficient_confidence
+139,product strategy,87,Gestão de Produto,0.87,matched,ai_rerank
+140,quantitative thinking,—,—,0.08,no_match,insufficient_confidence
+141,construção de APIs,61,Desenvolvimento de APIs,0.99,matched,ai_rerank
+142,learning new skills,12,Aprendizado Contínuo,0.98,matched,ai_rerank
+143,análise de texto,—,—,0.22,no_match,insufficient_confidence
+144,distributed computing spark,81,Spark,1.0,matched,ai_rerank
+145,métricas,—,—,0.15,no_match,insufficient_confidence
+146,comunicação transparente,—,—,0.14,no_match,insufficient_confidence
+147,estratégia de produto,—,—,0.44,no_match,insufficient_confidence
+148,google cloud,67,Google Cloud Platform,1.0,matched,ai_rerank
+149,python para dados,31,Python,0.99,matched,ai_rerank
+150,data engineering,51,Engenharia de Dados,1.0,matched,ai_rerank
+151,pipelines de dados,51,Engenharia de Dados,0.97,matched,ai_rerank
+152,written communication,23,Escrita Profissional,0.91,matched,ai_rerank
+153,large language models,43,Large Language Models,1.0,matched,fuzzy_match
+154,emotional awareness,4,Inteligência Emocional,0.61,matched,ai_rerank
+155,change adoption,—,—,0.41,no_match,insufficient_confidence
+156,own initiative,—,—,0.44,no_match,insufficient_confidence
+157,model validation,46,Avaliação de Modelos,0.99,matched,ai_rerank
+158,ETL development,52,ETL e ELT,1.0,matched,ai_rerank
+159,entender o cliente,16,Foco no Cliente,0.86,matched,ai_rerank
+160,customer success mindset,—,—,0.27,no_match,insufficient_confidence
+161,gestão do tempo,10,Gestão do Tempo,1.0,matched,fuzzy_match
+162,GDPR,—,—,0.27,no_match,insufficient_confidence
+163,people coaching,—,—,0.46,no_match,insufficient_confidence
+164,screening candidates,—,—,0.04,no_match,insufficient_confidence
+165,scrum master,—,—,0.05,no_match,insufficient_confidence
+166,testes automatizados,73,Testes Automatizados,1.0,matched,fuzzy_match
+167,CNN,—,—,0.32,no_match,insufficient_confidence
+168,cultura e estrutura organizacional,100,Cultura Organizacional,1.0,matched,ai_rerank
+169,looker analytics,79,Looker,1.0,matched,ai_rerank
+170,self-starter,—,—,0.22,no_match,insufficient_confidence
+171,RCA,—,—,0.18,no_match,insufficient_confidence
+172,mediação de conflitos,3,Resolução de Conflitos,0.99,matched,ai_rerank
+173,typescript frontend,36,TypeScript,1.0,matched,ai_rerank
+174,integridade de dados,—,—,0.08,no_match,insufficient_confidence
+175,sklearn,—,—,0.19,no_match,insufficient_confidence
+176,Docker,63,Docker,1.0,matched,fuzzy_match
+177,OLAP,—,—,0.33,no_match,insufficient_confidence
+178,user-centric thinking,89,Design Thinking,0.96,matched,ai_rerank
+179,cloud data warehouse,56,Data Warehouse,1.0,matched,fuzzy_match
+180,resolução de problemas complexos,7,Resolução de Problemas,1.0,matched,fuzzy_match
+181,detecção de anomalias,—,—,0.44,no_match,insufficient_confidence
+182,cobertura de testes,—,—,0.05,no_match,insufficient_confidence
+183,organizar tarefas,10,Gestão do Tempo,0.67,matched,ai_rerank
+184,aws lambda,66,AWS,0.77,matched,ai_rerank
+185,business strategy,27,Planejamento Estratégico,0.59,matched,ai_rerank
+186,deep learning development,41,Deep Learning,1.0,matched,ai_rerank
+187,foco no usuário,16,Foco no Cliente,0.95,matched,ai_rerank
+188,gestão de escopo,18,Gestão de Projetos,0.7,matched,ai_rerank
+189,vendor negotiation,—,—,0.08,no_match,insufficient_confidence
+190,modelos financeiros,92,Modelagem Financeira,1.0,matched,ai_rerank
+191,advanced SQL,58,PostgreSQL,0.9,matched,ai_rerank
+192,visualização de dados,—,—,0.39,no_match,insufficient_confidence
+193,RESTful API,61,Desenvolvimento de APIs,0.84,matched,ai_rerank
+194,financial modeling,92,Modelagem Financeira,1.0,matched,ai_rerank
+195,alinhar expectativas,26,Gestão de Stakeholders,0.85,matched,ai_rerank
+196,frontend javascript,35,JavaScript,1.0,matched,ai_rerank
+197,regulatory knowledge,94,Compliance e Regulação,0.98,matched,ai_rerank
+198,container deployment,64,Kubernetes,0.88,matched,ai_rerank
+199,colaboração,13,Colaboração,1.0,matched,fuzzy_match
+200,data infrastructure,—,—,0.4,no_match,insufficient_confidence
+201,langchain development,83,LangChain,1.0,matched,ai_rerank
+202,shell scripting,38,Bash e Shell Script,1.0,matched,ai_rerank
+203,resolução de problemas,7,Resolução de Problemas,1.0,matched,fuzzy_match
+204,problem solving,3,Resolução de Conflitos,0.92,matched,ai_rerank
+205,people manager,1,Gestão de Pessoas,0.99,matched,ai_rerank
+206,completude de dados,—,—,0.44,no_match,insufficient_confidence
+207,API architecture,—,—,0.36,no_match,insufficient_confidence
+208,image segmentation,—,—,0.08,no_match,insufficient_confidence
+209,testes de hipótese,50,Experimentação e Testes A/B,0.82,matched,ai_rerank
+210,tech mentor,24,Mentoria,0.57,matched,ai_rerank
+211,managing resistance to change,—,—,0.42,no_match,insufficient_confidence
+212,data engineer,51,Engenharia de Dados,0.99,matched,ai_rerank
+213,data transformation para modelos,—,—,0.28,no_match,insufficient_confidence
+214,looker reports,79,Looker,0.64,matched,ai_rerank
+215,conformidade regulatória,94,Compliance e Regulação,1.0,matched,ai_rerank
+216,resolução de conflitos,3,Resolução de Conflitos,1.0,matched,fuzzy_match
+217,python,31,Python,1.0,matched,fuzzy_match
+218,desenvolvimento de equipes,98,Treinamento e Desenvolvimento,0.96,matched,ai_rerank
+219,dbt transformations,80,dbt,1.0,matched,ai_rerank
+220,mentalidade empreendedora,30,Empreendedorismo,0.99,matched,ai_rerank
+221,task prioritization,10,Gestão do Tempo,0.79,matched,ai_rerank
+222,team collaboration,13,Colaboração,0.58,matched,ai_rerank
+223,conflict resolution,3,Resolução de Conflitos,1.0,matched,ai_rerank
+224,customer-centric,16,Foco no Cliente,0.93,matched,ai_rerank
+225,descoberta de produto,—,—,0.26,no_match,insufficient_confidence
+226,time series forecasting,47,Séries Temporais,1.0,matched,ai_rerank
+227,negotiation,5,Negociação,0.98,matched,ai_rerank
+228,design técnico,—,—,0.29,no_match,insufficient_confidence
+229,trabalhar em time,—,—,0.22,no_match,insufficient_confidence
+230,human-centered design,—,—,0.03,no_match,insufficient_confidence
+231,audience engagement,—,—,0.23,no_match,insufficient_confidence
+232,microsserviços,75,Microsserviços,1.0,matched,fuzzy_match
+233,product development,—,—,0.24,no_match,insufficient_confidence
+234,resolver problemas,7,Resolução de Problemas,1.0,matched,ai_rerank
+235,TS,—,—,0.14,no_match,insufficient_confidence
+236,image recognition,99,Employer Branding,0.55,matched,ai_rerank
+237,resilience,—,—,0.47,no_match,insufficient_confidence
+238,programação em python,31,Python,0.62,matched,ai_rerank
+239,yarn,—,—,0.37,no_match,insufficient_confidence
+240,scrum,—,—,0.24,no_match,insufficient_confidence
+241,variáveis preditivas,—,—,0.02,no_match,insufficient_confidence
+242,statistics,—,—,0.41,no_match,insufficient_confidence
+243,normalização de dados,—,—,0.06,no_match,insufficient_confidence
+244,modelos de ML,84,MLflow,0.57,matched,ai_rerank
+245,facilitar reuniões,20,Facilitação,0.99,matched,ai_rerank
+246,organizational growth,96,Desenvolvimento Organizacional,1.0,matched,ai_rerank
+247,ideation,29,Inovação,0.87,matched,ai_rerank
+248,dados temporais,47,Séries Temporais,0.84,matched,ai_rerank
+249,interpersonal communication,—,—,0.13,no_match,insufficient_confidence
+250,intrapreneurship,—,—,0.27,no_match,insufficient_confidence
+251,contract negotiation,5,Negociação,0.58,matched,ai_rerank
+252,power bi service,76,Power BI,1.0,matched,ai_rerank
+253,data exploration,39,Análise de Dados,0.99,matched,ai_rerank
+254,classification models,—,—,0.04,no_match,insufficient_confidence
+255,SOLID,—,—,0.05,no_match,insufficient_confidence
+256,advanced python,—,—,0.42,no_match,insufficient_confidence
+257,trabalho independente,—,—,0.12,no_match,insufficient_confidence
+258,R language,33,R,1.0,matched,ai_rerank
+259,deliver presentations,—,—,0.06,no_match,insufficient_confidence
+260,construção de APIs,61,Desenvolvimento de APIs,0.99,matched,ai_rerank
+261,completude de dados,—,—,0.44,no_match,insufficient_confidence
+262,growth mindset,24,Mentoria,0.74,matched,ai_rerank
+263,python para dados,31,Python,0.99,matched,ai_rerank
+264,coaching de pessoas,—,—,0.23,no_match,insufficient_confidence
+265,automação de testes,73,Testes Automatizados,1.0,matched,ai_rerank
+266,orientação ao cliente,16,Foco no Cliente,0.58,matched,ai_rerank
+267,data analysis,39,Análise de Dados,1.0,matched,ai_rerank
+268,gerir colaboradores,1,Gestão de Pessoas,0.78,matched,ai_rerank
+269,kubernetes scaling,64,Kubernetes,0.98,matched,ai_rerank
+270,conformidade regulatória,94,Compliance e Regulação,1.0,matched,ai_rerank
+271,gestão de produto,87,Gestão de Produto,1.0,matched,fuzzy_match
+272,retrieval augmented generation,—,—,0.0,no_match,insufficient_confidence
+273,service mesh,—,—,0.23,no_match,insufficient_confidence
+274,streaming de dados,54,Streaming de Dados,1.0,matched,fuzzy_match
+275,prioritization,—,—,0.26,no_match,insufficient_confidence
+276,talent acquisition,—,—,0.22,no_match,insufficient_confidence
+277,PostgreSQL,58,PostgreSQL,1.0,matched,fuzzy_match
+278,machine learning models,40,Machine Learning,1.0,matched,fuzzy_match
+279,gestão de conflitos,—,—,0.49,no_match,insufficient_confidence
+280,mentoria,24,Mentoria,1.0,matched,fuzzy_match
+281,mentalidade adaptativa,9,Adaptabilidade,0.66,matched,ai_rerank
+282,análise de decisão,8,Tomada de Decisão,0.6,matched,ai_rerank
+283,root cause analysis,—,—,0.14,no_match,insufficient_confidence
+284,aprendizado supervisionado,40,Machine Learning,0.98,matched,ai_rerank
+285,validação de dados,—,—,0.22,no_match,insufficient_confidence
+286,facilitation techniques,20,Facilitação,0.66,matched,ai_rerank
+287,PySpark,—,—,0.14,no_match,insufficient_confidence
+288,versatility,—,—,0.12,no_match,insufficient_confidence
+289,pensar no longo prazo,17,Pensamento Estratégico,0.8,matched,ai_rerank
+290,apresentar ideias,—,—,0.17,no_match,insufficient_confidence
+291,influenciar sem autoridade,—,—,0.01,no_match,insufficient_confidence
+292,REST API,—,—,0.38,no_match,insufficient_confidence
+293,build automation,65,CI/CD,0.58,matched,ai_rerank
+294,hadoop,82,Hadoop,1.0,matched,fuzzy_match
+295,cache distribuído,—,—,0.03,no_match,insufficient_confidence
+296,sistemas distribuídos,82,Hadoop,0.58,matched,ai_rerank
+297,aws cloud,66,AWS,0.91,matched,ai_rerank
+298,experiência do usuário,—,—,0.13,no_match,insufficient_confidence
+299,lean agile,—,—,0.2,no_match,insufficient_confidence
+300,critical judgment,17,Pensamento Estratégico,0.65,matched,ai_rerank
+301,promover cultura,100,Cultura Organizacional,0.93,matched,ai_rerank
+302,google cloud data,67,Google Cloud Platform,0.97,matched,ai_rerank
+303,gestão de stakeholders,26,Gestão de Stakeholders,1.0,matched,fuzzy_match
+304,performance de modelos,45,Engenharia de Features,0.67,matched,ai_rerank
+305,metas e resultados,—,—,0.08,no_match,insufficient_confidence
+306,team management,1,Gestão de Pessoas,0.98,matched,ai_rerank
+307,scripting python,62,FastAPI,0.74,matched,ai_rerank
+308,avaliação de LLMs em produção,85,Langfuse,0.97,matched,ai_rerank
+309,embedding models,44,Embeddings e Busca Vetorial,0.97,matched,ai_rerank
+310,neural nets,—,—,0.39,no_match,insufficient_confidence
+311,observabilidade,70,Monitoramento e Observabilidade,0.87,matched,ai_rerank
+312,criação de variáveis,45,Engenharia de Features,0.84,matched,ai_rerank
+313,gerenciar projetos,18,Gestão de Projetos,1.0,matched,ai_rerank
+314,comunicação profissional,23,Escrita Profissional,0.97,matched,ai_rerank
+315,react,9,Adaptabilidade,0.66,matched,ai_rerank
+316,data protection,71,Segurança de Dados,0.96,matched,ai_rerank
+317,streaming de dados,54,Streaming de Dados,1.0,matched,fuzzy_match
+318,maturidade emocional,—,—,0.08,no_match,insufficient_confidence
+319,github actions,—,—,0.07,no_match,insufficient_confidence
+320,tableau analytics,77,Tableau,0.97,matched,ai_rerank
+321,context switching,—,—,0.07,no_match,insufficient_confidence
+322,planejamento anual,—,—,0.01,no_match,insufficient_confidence
+323,airflow,53,Orquestração de Pipelines,0.84,matched,ai_rerank
+324,cache distribuído,—,—,0.03,no_match,insufficient_confidence
+325,k8s,—,—,0.08,no_match,insufficient_confidence
+326,aprendizado não supervisionado,40,Machine Learning,0.99,matched,ai_rerank
+327,visualização de dados,—,—,0.39,no_match,insufficient_confidence
+328,governança de dados,—,—,0.07,no_match,insufficient_confidence
+329,lang chain,83,LangChain,1.0,matched,ai_rerank
+330,reconhecimento de imagens,—,—,0.02,no_match,insufficient_confidence
+331,cultura de inovação,—,—,0.24,no_match,insufficient_confidence
+332,spark streaming,54,Streaming de Dados,0.97,matched,ai_rerank
+333,inferência estatística,49,Estatística Aplicada,0.72,matched,ai_rerank
+334,typescript development,36,TypeScript,1.0,matched,ai_rerank
+335,drive innovation,29,Inovação,0.51,matched,ai_rerank
+336,python para dados,31,Python,0.99,matched,ai_rerank
+337,DQ,—,—,0.21,no_match,insufficient_confidence
+338,aprendizado de máquina,40,Machine Learning,1.0,matched,ai_rerank
+339,gestão de mudanças,28,Gestão de Mudanças,1.0,matched,fuzzy_match
+340,git,—,—,0.23,no_match,insufficient_confidence
+341,desenvolvimento de colaboradores,—,—,0.21,no_match,insufficient_confidence
+342,financial modeling,92,Modelagem Financeira,1.0,matched,ai_rerank
+343,customer empathy,—,—,0.1,no_match,insufficient_confidence
+344,raciocínio lógico,—,—,0.12,no_match,insufficient_confidence
+345,stakeholder communication,—,—,0.48,no_match,insufficient_confidence
+346,javascript,35,JavaScript,1.0,matched,fuzzy_match
+347,precision recall,—,—,0.01,no_match,insufficient_confidence
+348,documentation,—,—,0.15,no_match,insufficient_confidence
+349,product owner,—,—,0.12,no_match,insufficient_confidence
+350,comunicar bem,—,—,0.23,no_match,insufficient_confidence
+351,cloudformation,69,Infrastructure as Code,0.71,matched,ai_rerank
+352,long-term thinking,17,Pensamento Estratégico,0.86,matched,ai_rerank
+353,functional scala,—,—,0.29,no_match,insufficient_confidence
+354,project execution,18,Gestão de Projetos,0.83,matched,ai_rerank
+355,classification models,—,—,0.04,no_match,insufficient_confidence
+356,avaliar modelos,46,Avaliação de Modelos,1.0,matched,ai_rerank
+357,python para dados,31,Python,0.99,matched,ai_rerank
+358,arquitetura limpa,—,—,0.03,no_match,insufficient_confidence
+359,financial statements analysis,91,Análise Financeira,0.99,matched,ai_rerank
+360,power bi analytics,76,Power BI,1.0,matched,ai_rerank
+361,desenvolvimento organizacional,96,Desenvolvimento Organizacional,1.0,matched,fuzzy_match
+362,prefect,53,Orquestração de Pipelines,0.66,matched,ai_rerank
+363,innovative solutions,29,Inovação,0.58,matched,ai_rerank
+364,spreadsheets,—,—,0.24,no_match,insufficient_confidence
+365,registro de modelos,—,—,0.13,no_match,insufficient_confidence
+366,testes de hipótese,50,Experimentação e Testes A/B,0.82,matched,ai_rerank
+367,pipeline scheduling,53,Orquestração de Pipelines,0.91,matched,ai_rerank
+368,tomada de decisão,8,Tomada de Decisão,1.0,matched,fuzzy_match
+369,comunicação escrita,21,Storytelling com Dados,0.65,matched,ai_rerank
+370,TypeScript,36,TypeScript,1.0,matched,fuzzy_match
+371,vector store,—,—,0.34,no_match,insufficient_confidence
+372,database queries,—,—,0.46,no_match,insufficient_confidence
+373,dbt cloud,80,dbt,0.7,matched,ai_rerank
+374,comunicação escrita,21,Storytelling com Dados,0.65,matched,ai_rerank
+375,deploy automatizado,65,CI/CD,0.91,matched,ai_rerank
+376,planejar estrategicamente,27,Planejamento Estratégico,1.0,matched,ai_rerank
+377,balance sheet analysis,—,—,0.1,no_match,insufficient_confidence
+378,creative problem solving,—,—,0.41,no_match,insufficient_confidence
+379,resolver divergências,3,Resolução de Conflitos,1.0,matched,ai_rerank
+380,agilidade de aprendizado,—,—,0.03,no_match,insufficient_confidence
+381,decision-making,8,Tomada de Decisão,0.99,matched,ai_rerank
+382,containers,63,Docker,0.55,matched,ai_rerank
+383,fine-tuning LLMs,43,Large Language Models,0.91,matched,ai_rerank
+384,user-centric thinking,89,Design Thinking,0.96,matched,ai_rerank
+385,openness to change,—,—,0.27,no_match,insufficient_confidence
+386,adaptability,9,Adaptabilidade,1.0,matched,ai_rerank
+387,big data spark,81,Spark,1.0,matched,ai_rerank
+388,embeddings,44,Embeddings e Busca Vetorial,0.76,matched,ai_rerank
+389,práticas ágeis,19,Metodologias Ágeis,0.98,matched,ai_rerank
+390,system monitoring,70,Monitoramento e Observabilidade,0.98,matched,ai_rerank
+391,DW,—,—,0.34,no_match,insufficient_confidence
+392,unittest,73,Testes Automatizados,0.9,matched,ai_rerank
+393,foco no usuário,16,Foco no Cliente,0.95,matched,ai_rerank
+394,comunicação com stakeholders,—,—,0.25,no_match,insufficient_confidence
+395,professional writing,23,Escrita Profissional,1.0,matched,ai_rerank
+396,scope management,—,—,0.16,no_match,insufficient_confidence
+397,escrita clara,23,Escrita Profissional,0.78,matched,ai_rerank
+398,senso de produto,14,Visão de Produto,0.93,matched,ai_rerank
+399,programar em python,—,—,0.28,no_match,insufficient_confidence
+400,employer brand,99,Employer Branding,1.0,matched,ai_rerank
+401,power bi desktop,76,Power BI,0.99,matched,ai_rerank
+402,lang chain,83,LangChain,1.0,matched,ai_rerank
+403,compliance e regulação,94,Compliance e Regulação,1.0,matched,fuzzy_match
+404,trabalhar sem supervisão,—,—,0.32,no_match,insufficient_confidence
+405,retrieval augmented generation,—,—,0.0,no_match,insufficient_confidence
+406,comunicação com stakeholders,—,—,0.25,no_match,insufficient_confidence
+407,emotional management,4,Inteligência Emocional,0.84,matched,ai_rerank
+408,salary negotiation,—,—,0.01,no_match,insufficient_confidence
+409,strategic thinking,17,Pensamento Estratégico,1.0,matched,ai_rerank
+410,liderança de engenharia,25,Liderança Técnica,0.99,matched,ai_rerank
+411,Python,31,Python,1.0,matched,fuzzy_match
+412,risk analysis,93,Gestão de Riscos,0.9,matched,ai_rerank
+413,people care,—,—,0.26,no_match,insufficient_confidence
+414,data security,71,Segurança de Dados,0.99,matched,ai_rerank
+415,data cleaning,—,—,0.2,no_match,insufficient_confidence
+416,fechar acordos,—,—,0.05,no_match,insufficient_confidence
+417,LookML,—,—,0.13,no_match,insufficient_confidence
+418,decision-making,8,Tomada de Decisão,0.99,matched,ai_rerank
+419,planilhas,77,Tableau,0.8,matched,ai_rerank
+420,risk taking,—,—,0.14,no_match,insufficient_confidence
+421,postgresql optimization,58,PostgreSQL,0.94,matched,ai_rerank
+422,context switching,—,—,0.07,no_match,insufficient_confidence
+423,ggplot2,—,—,0.02,no_match,insufficient_confidence
+424,SQL writing,32,SQL,1.0,matched,ai_rerank
+425,fastapi,62,FastAPI,1.0,matched,fuzzy_match
+426,sentiment analysis,—,—,0.12,no_match,insufficient_confidence
+427,LLM development,83,LangChain,0.96,matched,ai_rerank
+428,logging,—,—,0.18,no_match,insufficient_confidence
+429,compelling data presentations,—,—,0.11,no_match,insufficient_confidence
+430,product strategy,87,Gestão de Produto,0.87,matched,ai_rerank
+431,scala functional programming,37,Scala,0.98,matched,ai_rerank
+432,SQL avançado,58,PostgreSQL,0.82,matched,ai_rerank
+433,airflow,53,Orquestração de Pipelines,0.84,matched,ai_rerank
+434,self-management,11,Autogestão,0.59,matched,ai_rerank
+435,culture of innovation,—,—,0.18,no_match,insufficient_confidence
+436,FastAPI backend,62,FastAPI,0.64,matched,ai_rerank
+437,API development,62,FastAPI,0.98,matched,ai_rerank
+438,command line scripting,—,—,0.06,no_match,insufficient_confidence
+439,pipeline scheduling,53,Orquestração de Pipelines,0.91,matched,ai_rerank
+440,API REST,—,—,0.45,no_match,insufficient_confidence
+441,discounted cash flow,—,—,0.0,no_match,insufficient_confidence
+442,empathy mapping,—,—,0.02,no_match,insufficient_confidence
+443,data orientation,15,Orientação a Dados,0.83,matched,ai_rerank
+444,agilidade,—,—,0.18,no_match,insufficient_confidence
+445,LLMs,83,LangChain,0.87,matched,ai_rerank
+446,azure machine learning,40,Machine Learning,1.0,matched,fuzzy_match
+447,technical team guidance,25,Liderança Técnica,1.0,matched,ai_rerank
+448,normalização de dados,—,—,0.06,no_match,insufficient_confidence
+449,gerenciamento de riscos,93,Gestão de Riscos,1.0,matched,ai_rerank
+450,infrastructure provisioning,69,Infrastructure as Code,0.96,matched,ai_rerank
+451,tomar decisões,8,Tomada de Decisão,1.0,matched,ai_rerank
+452,pytest,—,—,0.11,no_match,insufficient_confidence
+453,cache redis,60,Redis,1.0,matched,ai_rerank
+454,projeções financeiras,92,Modelagem Financeira,0.58,matched,ai_rerank
+455,TypeScript,36,TypeScript,1.0,matched,fuzzy_match
+456,salary negotiation,—,—,0.01,no_match,insufficient_confidence
+457,programação java,34,Java,0.88,matched,ai_rerank
+458,indicadores-chave,—,—,0.02,no_match,insufficient_confidence
+459,angular,—,—,0.27,no_match,insufficient_confidence
+460,pitching,—,—,0.06,no_match,insufficient_confidence
+461,extração de features,—,—,0.06,no_match,insufficient_confidence
+462,independent services,75,Microsserviços,0.52,matched,ai_rerank
+463,kubernetes pods,64,Kubernetes,0.51,matched,ai_rerank
+464,amazon web services,66,AWS,1.0,matched,ai_rerank
+465,data integrity,—,—,0.3,no_match,insufficient_confidence
+466,testes unitários,73,Testes Automatizados,0.89,matched,ai_rerank
+467,HDFS,—,—,0.1,no_match,insufficient_confidence
+468,gerenciamento de pessoas,1,Gestão de Pessoas,1.0,matched,ai_rerank
+469,mapa de empatia,—,—,0.02,no_match,insufficient_confidence
+470,avaliação de desempenho,97,Gestão de Desempenho,0.83,matched,ai_rerank
+471,javascript,35,JavaScript,1.0,matched,fuzzy_match
+472,GIT,—,—,0.15,no_match,insufficient_confidence
+473,agile frameworks,19,Metodologias Ágeis,0.98,matched,ai_rerank
+474,entrevistas de emprego,—,—,0.05,no_match,insufficient_confidence
+475,self-management,11,Autogestão,0.59,matched,ai_rerank
+476,risk-based decision,—,—,0.14,no_match,insufficient_confidence
+477,SLI SLO SLA,—,—,0.01,no_match,insufficient_confidence
+478,gke,—,—,0.32,no_match,insufficient_confidence
+479,strategic mindset,17,Pensamento Estratégico,0.99,matched,ai_rerank
+480,valores organizacionais,—,—,0.27,no_match,insufficient_confidence
+481,mineração de texto,—,—,0.01,no_match,insufficient_confidence
+482,stakeholder management,26,Gestão de Stakeholders,1.0,matched,ai_rerank
+483,ser mentor,24,Mentoria,0.88,matched,ai_rerank
+484,problem solving,3,Resolução de Conflitos,0.92,matched,ai_rerank
+485,mediation skills,24,Mentoria,0.84,matched,ai_rerank
+486,java,34,Java,1.0,matched,fuzzy_match
+487,análise de vídeo,48,Visão Computacional,0.69,matched,ai_rerank
+488,PSQL,—,—,0.39,no_match,insufficient_confidence
+489,autonomous work,11,Autogestão,0.64,matched,ai_rerank
+490,python scripting,62,FastAPI,0.81,matched,ai_rerank
+491,logs,—,—,0.24,no_match,insufficient_confidence
+492,capability building,—,—,0.47,no_match,insufficient_confidence
+493,data manipulation,—,—,0.3,no_match,insufficient_confidence
+494,comunicação direta,2,Comunicação Assertiva,0.74,matched,ai_rerank
+495,design de sistemas,—,—,0.03,no_match,insufficient_confidence
+496,inteligência emocional,4,Inteligência Emocional,1.0,matched,fuzzy_match
+497,data-driven mindset,—,—,0.39,no_match,insufficient_confidence
+498,dbt models,80,dbt,0.82,matched,ai_rerank
+499,comunicação no trabalho,—,—,0.27,no_match,insufficient_confidence
+500,workflow automation,—,—,0.06,no_match,insufficient_confidence
+501,javascript backend,35,JavaScript,1.0,matched,ai_rerank
+502,datadog,—,—,0.27,no_match,insufficient_confidence
+503,cloudformation,69,Infrastructure as Code,0.71,matched,ai_rerank
+504,intrapreneurship,—,—,0.27,no_match,insufficient_confidence
+505,cross-validation,—,—,0.02,no_match,insufficient_confidence
+506,compliance,94,Compliance e Regulação,0.99,matched,ai_rerank
+507,monitoramento de LLM,85,Langfuse,1.0,matched,ai_rerank
+508,KPIs,—,—,0.35,no_match,insufficient_confidence
+509,risk analysis,93,Gestão de Riscos,0.9,matched,ai_rerank
+510,vector search,44,Embeddings e Busca Vetorial,0.97,matched,ai_rerank
+511,organizational culture,100,Cultura Organizacional,1.0,matched,ai_rerank
+512,AWS,66,AWS,1.0,matched,fuzzy_match
+513,lidar com conflitos,—,—,0.28,no_match,insufficient_confidence
+514,resolver conflitos interpessoais,3,Resolução de Conflitos,0.85,matched,ai_rerank
+515,mitigação de riscos,93,Gestão de Riscos,0.78,matched,ai_rerank
+516,fast api,62,FastAPI,1.0,matched,ai_rerank
+517,expressing ideas clearly,2,Comunicação Assertiva,0.99,matched,ai_rerank
+518,trabalhar sem supervisão,—,—,0.32,no_match,insufficient_confidence
+519,clarity in communication,2,Comunicação Assertiva,0.7,matched,ai_rerank
+520,dockerfile,63,Docker,0.82,matched,ai_rerank
+521,job interviews,—,—,0.22,no_match,insufficient_confidence
+522,cloud AWS,66,AWS,0.74,matched,ai_rerank
+523,facilitar workshops,20,Facilitação,0.98,matched,ai_rerank
+524,containerization,63,Docker,0.97,matched,ai_rerank
+525,business writing,23,Escrita Profissional,0.78,matched,ai_rerank
+526,team building,—,—,0.24,no_match,insufficient_confidence
+527,engajamento de stakeholders,26,Gestão de Stakeholders,0.8,matched,ai_rerank
+528,people ops,—,—,0.13,no_match,insufficient_confidence
+529,customer needs understanding,16,Foco no Cliente,1.0,matched,ai_rerank
+530,rastreamento de prompts,85,Langfuse,0.78,matched,ai_rerank
+531,infrastructure automation,—,—,0.14,no_match,insufficient_confidence
+532,LLM applications,83,LangChain,0.94,matched,ai_rerank
+533,learning programs,98,Treinamento e Desenvolvimento,0.85,matched,ai_rerank
+534,entidade relacionamento,—,—,0.14,no_match,insufficient_confidence
+535,teamwork,13,Colaboração,0.52,matched,ai_rerank
+536,gerenciamento do tempo,10,Gestão do Tempo,1.0,matched,ai_rerank
+537,flexibility,—,—,0.31,no_match,insufficient_confidence
+538,redshift,—,—,0.25,no_match,insufficient_confidence
+539,análise de decisão,8,Tomada de Decisão,0.6,matched,ai_rerank
+540,managing projects,18,Gestão de Projetos,1.0,matched,ai_rerank
+541,LGPD,71,Segurança de Dados,0.74,matched,ai_rerank
+542,clean architecture,—,—,0.05,no_match,insufficient_confidence
+543,react,9,Adaptabilidade,0.66,matched,ai_rerank
+544,text analysis,—,—,0.39,no_match,insufficient_confidence
+545,comunicação interpessoal,—,—,0.15,no_match,insufficient_confidence
+546,dagster,—,—,0.42,no_match,insufficient_confidence
+547,containers,63,Docker,0.55,matched,ai_rerank
+548,análise de dados,39,Análise de Dados,1.0,matched,fuzzy_match
+549,UX insights,—,—,0.43,no_match,insufficient_confidence
+550,langchain,83,LangChain,1.0,matched,fuzzy_match
+551,prometheus,—,—,0.22,no_match,insufficient_confidence
+552,system architecture,74,Arquitetura de Software,0.89,matched,ai_rerank
+553,corporate culture,100,Cultura Organizacional,0.86,matched,ai_rerank
+554,managing deadlines,10,Gestão do Tempo,0.75,matched,ai_rerank
+555,stream processing,54,Streaming de Dados,0.99,matched,ai_rerank
+556,estatística aplicada,49,Estatística Aplicada,1.0,matched,fuzzy_match
+557,EVP,—,—,0.32,no_match,insufficient_confidence
+558,client focus,16,Foco no Cliente,1.0,matched,ai_rerank
+559,engineering leadership,25,Liderança Técnica,1.0,matched,ai_rerank
+560,kubernetes scaling,64,Kubernetes,0.98,matched,ai_rerank
+561,monitoramento de modelos,46,Avaliação de Modelos,0.98,matched,ai_rerank
+562,negotiation techniques,—,—,0.25,no_match,insufficient_confidence
+563,análise de sentimentos,—,—,0.06,no_match,insufficient_confidence
+564,negotiating deals,8,Tomada de Decisão,0.53,matched,ai_rerank
+565,contratação,—,—,0.49,no_match,insufficient_confidence
+566,integração de dados,—,—,0.08,no_match,insufficient_confidence
+567,roadmap de produto,87,Gestão de Produto,0.83,matched,ai_rerank
+568,privacidade de dados,71,Segurança de Dados,0.66,matched,ai_rerank
+569,metodologias ágeis,19,Metodologias Ágeis,1.0,matched,fuzzy_match
+570,professional coaching,—,—,0.31,no_match,insufficient_confidence
+571,obsessão pelo cliente,—,—,0.4,no_match,insufficient_confidence
+572,inference hugging face,86,Hugging Face,1.0,matched,ai_rerank
+573,limpeza de dados,—,—,0.43,no_match,insufficient_confidence
+574,key performance indicators,—,—,0.32,no_match,insufficient_confidence
+575,spirit of collaboration,—,—,0.3,no_match,insufficient_confidence
+576,SQL manipulation,—,—,0.08,no_match,insufficient_confidence
+577,fastapi development,62,FastAPI,1.0,matched,ai_rerank
+578,prefect,53,Orquestração de Pipelines,0.66,matched,ai_rerank
+579,good writing,—,—,0.43,no_match,insufficient_confidence
+580,product strategy,87,Gestão de Produto,0.87,matched,ai_rerank
+581,PM,—,—,0.22,no_match,insufficient_confidence
+582,Terraform,—,—,0.31,no_match,insufficient_confidence
+583,anomaly detection in time series,47,Séries Temporais,1.0,matched,ai_rerank
+584,mudança organizacional,28,Gestão de Mudanças,0.84,matched,ai_rerank
+585,probabilidade,—,—,0.14,no_match,insufficient_confidence
+586,python avançado,—,—,0.29,no_match,insufficient_confidence
+587,event streaming,—,—,0.03,no_match,insufficient_confidence
+588,Git,—,—,0.15,no_match,insufficient_confidence
+589,empreendedorismo,30,Empreendedorismo,1.0,matched,fuzzy_match
+590,langchain chains,83,LangChain,0.99,matched,ai_rerank
+591,PBI,91,Análise Financeira,0.51,matched,ai_rerank
+592,project oversight,—,—,0.25,no_match,insufficient_confidence
+593,data pipelines,51,Engenharia de Dados,0.99,matched,ai_rerank
+594,product ownership,—,—,0.23,no_match,insufficient_confidence
+595,validação de dados,—,—,0.22,no_match,insufficient_confidence
+596,kubernetes,64,Kubernetes,1.0,matched,fuzzy_match
+597,people performance,—,—,0.4,no_match,insufficient_confidence
+598,SOLID principles,—,—,0.03,no_match,insufficient_confidence
+599,willingness to learn,—,—,0.35,no_match,insufficient_confidence
+600,empreendedorismo,30,Empreendedorismo,1.0,matched,fuzzy_match
+601,test coverage,—,—,0.05,no_match,insufficient_confidence
+602,estratégia de produto,—,—,0.44,no_match,insufficient_confidence
+603,critical mindset,6,Pensamento Crítico,1.0,matched,ai_rerank
+604,cloudformation,69,Infrastructure as Code,0.71,matched,ai_rerank
+605,risco operacional,93,Gestão de Riscos,0.87,matched,ai_rerank
+606,shell automation,38,Bash e Shell Script,0.62,matched,ai_rerank
+607,statistical analysis,39,Análise de Dados,0.72,matched,ai_rerank
+608,RDS,—,—,0.2,no_match,insufficient_confidence
+609,assumir riscos,30,Empreendedorismo,0.69,matched,ai_rerank
+610,reconhecimento de imagens,—,—,0.02,no_match,insufficient_confidence
+611,operational risk,93,Gestão de Riscos,0.89,matched,ai_rerank
+612,public speaking,23,Escrita Profissional,0.72,matched,ai_rerank
+613,javascript backend,35,JavaScript,1.0,matched,ai_rerank
+614,data transformation,80,dbt,0.74,matched,ai_rerank
+615,learning agility,—,—,0.13,no_match,insufficient_confidence
+616,text generation,42,Processamento de Linguagem Natural,0.69,matched,ai_rerank
+617,PM,—,—,0.22,no_match,insufficient_confidence
+618,VBA,—,—,0.18,no_match,insufficient_confidence
+619,ideação,29,Inovação,0.69,matched,ai_rerank
+620,product management,87,Gestão de Produto,1.0,matched,ai_rerank
+621,corporate culture,100,Cultura Organizacional,0.86,matched,ai_rerank
+622,pensamento quantitativo,—,—,0.03,no_match,insufficient_confidence
+623,people coaching,—,—,0.46,no_match,insufficient_confidence
+624,GDPR compliance,—,—,0.06,no_match,insufficient_confidence
+625,cross-functional collaboration,—,—,0.03,no_match,insufficient_confidence
+626,apache spark,81,Spark,1.0,matched,ai_rerank
+627,problem-solving,7,Resolução de Problemas,1.0,matched,ai_rerank
+628,SQL avançado,58,PostgreSQL,0.82,matched,ai_rerank
+629,customer centricity,—,—,0.03,no_match,insufficient_confidence
+630,alinhamento de stakeholders,26,Gestão de Stakeholders,0.81,matched,ai_rerank
+631,modelagem dimensional,55,Modelagem de Dados,0.84,matched,ai_rerank
+632,Hugging Face,86,Hugging Face,1.0,matched,fuzzy_match
+633,model evaluation,46,Avaliação de Modelos,1.0,matched,ai_rerank
+634,deliver presentations,—,—,0.06,no_match,insufficient_confidence
+635,previsão de séries temporais,—,—,0.47,no_match,insufficient_confidence
+636,apresentar dados,—,—,0.26,no_match,insufficient_confidence
+637,FAISS,—,—,0.14,no_match,insufficient_confidence
+638,questionar premissas,—,—,0.04,no_match,insufficient_confidence
+639,independent work,—,—,0.31,no_match,insufficient_confidence
+640,cloud run,67,Google Cloud Platform,0.69,matched,ai_rerank
+641,treinamento corporativo,—,—,0.15,no_match,insufficient_confidence
+642,mudança organizacional,28,Gestão de Mudanças,0.84,matched,ai_rerank
+643,T&D,—,—,0.26,no_match,insufficient_confidence
+644,tracing,—,—,0.17,no_match,insufficient_confidence
+645,SQL básico,32,SQL,0.62,matched,ai_rerank
+646,descriptive statistics,—,—,0.1,no_match,insufficient_confidence
+647,spreadsheet,—,—,0.24,no_match,insufficient_confidence
+648,coordenação de projetos,—,—,0.39,no_match,insufficient_confidence
+649,oral communication,—,—,0.25,no_match,insufficient_confidence
+650,compliance de dados,—,—,0.29,no_match,insufficient_confidence
+651,data completeness,57,Qualidade de Dados,0.89,matched,ai_rerank
+652,LGPD,71,Segurança de Dados,0.74,matched,ai_rerank
+653,temporal modeling,47,Séries Temporais,0.99,matched,ai_rerank
+654,managing group dynamics,20,Facilitação,0.52,matched,ai_rerank
+655,effective communication,—,—,0.39,no_match,insufficient_confidence
+656,hadoop,82,Hadoop,1.0,matched,fuzzy_match
+657,resolver problemas,7,Resolução de Problemas,1.0,matched,ai_rerank
+658,detecção de objetos,—,—,0.13,no_match,insufficient_confidence
+659,agile mindset,—,—,0.07,no_match,insufficient_confidence
+660,azure AI,68,Azure,0.91,matched,ai_rerank
+661,web development javascript,35,JavaScript,1.0,matched,ai_rerank
+662,proatividade,—,—,0.48,no_match,insufficient_confidence
+663,similaridade semântica,—,—,0.28,no_match,insufficient_confidence
+664,verbal communication,—,—,0.15,no_match,insufficient_confidence
+665,hugging face,86,Hugging Face,1.0,matched,fuzzy_match
+666,semantic search,—,—,0.37,no_match,insufficient_confidence
+667,orquestração de containers,64,Kubernetes,1.0,matched,ai_rerank
+668,aprendizado de máquina,40,Machine Learning,1.0,matched,ai_rerank
+669,avaliação de riscos,93,Gestão de Riscos,0.91,matched,ai_rerank
+670,risk taking,—,—,0.14,no_match,insufficient_confidence
+671,trabalho em equipe,—,—,0.24,no_match,insufficient_confidence
+672,data extraction,54,Streaming de Dados,0.77,matched,ai_rerank
+673,power query,—,—,0.03,no_match,insufficient_confidence
+674,NoSQL database,59,MongoDB,0.95,matched,ai_rerank
+675,structured query language,—,—,0.06,no_match,insufficient_confidence
+676,habilidades de apresentação,22,Apresentação e Oratória,0.9,matched,ai_rerank
+677,automação de testes,73,Testes Automatizados,1.0,matched,ai_rerank
+678,serviços independentes,—,—,0.39,no_match,insufficient_confidence
+679,programação em python,31,Python,0.62,matched,ai_rerank
+680,modelagem estatística,49,Estatística Aplicada,0.66,matched,ai_rerank
+681,data integrity,—,—,0.3,no_match,insufficient_confidence
+682,EQ,—,—,0.44,no_match,insufficient_confidence
+683,OKR framework,90,OKRs,1.0,matched,ai_rerank
+684,abertura a mudanças,—,—,0.07,no_match,insufficient_confidence
+685,microservices,75,Microsserviços,1.0,matched,ai_rerank
+686,clean architecture,—,—,0.05,no_match,insufficient_confidence
+687,kafka,54,Streaming de Dados,0.76,matched,ai_rerank
+688,comunicação com stakeholders,—,—,0.25,no_match,insufficient_confidence
+689,treinamento e desenvolvimento,98,Treinamento e Desenvolvimento,1.0,matched,fuzzy_match
+690,negotiating deals,8,Tomada de Decisão,0.53,matched,ai_rerank
+691,comunicação assertiva,2,Comunicação Assertiva,1.0,matched,fuzzy_match
+692,excel formulas,—,—,0.3,no_match,insufficient_confidence
+693,data quality,57,Qualidade de Dados,1.0,matched,ai_rerank
+694,Postgres,58,PostgreSQL,0.95,matched,ai_rerank
+695,engenharia de dados,51,Engenharia de Dados,1.0,matched,fuzzy_match
+696,decisões baseadas em dados,15,Orientação a Dados,0.97,matched,ai_rerank
+697,time series forecasting,47,Séries Temporais,1.0,matched,ai_rerank
+698,definir estratégia,17,Pensamento Estratégico,0.85,matched,ai_rerank
+699,atração de talentos,99,Employer Branding,0.79,matched,ai_rerank
+700,coordenação de projetos,—,—,0.39,no_match,insufficient_confidence
+701,testing,50,Experimentação e Testes A/B,0.68,matched,ai_rerank
+702,negociar com clientes,—,—,0.16,no_match,insufficient_confidence
+703,gestão de capital humano,—,—,0.14,no_match,insufficient_confidence
+704,azure cloud,68,Azure,0.75,matched,ai_rerank
+705,document writing,—,—,0.19,no_match,insufficient_confidence
+706,critical thinking,6,Pensamento Crítico,1.0,matched,ai_rerank
+707,excel básico,—,—,0.1,no_match,insufficient_confidence
+708,análise exploratória,39,Análise de Dados,0.62,matched,ai_rerank
+709,cultura organizacional,100,Cultura Organizacional,1.0,matched,fuzzy_match
+710,conflict resolution,3,Resolução de Conflitos,1.0,matched,ai_rerank
+711,spreadsheets,—,—,0.24,no_match,insufficient_confidence
+712,AB tests,—,—,0.35,no_match,insufficient_confidence
+713,decisão sob incerteza,8,Tomada de Decisão,0.8,matched,ai_rerank
+714,design research,88,UX Research,0.98,matched,ai_rerank
+715,gerenciar desentendimentos,—,—,0.15,no_match,insufficient_confidence
+716,monitoramento de modelos,46,Avaliação de Modelos,0.98,matched,ai_rerank
+717,self-learning,12,Aprendizado Contínuo,0.52,matched,ai_rerank
+718,decoupled services,75,Microsserviços,0.62,matched,ai_rerank
+719,vontade de aprender,—,—,0.09,no_match,insufficient_confidence
+720,time management,10,Gestão do Tempo,1.0,matched,ai_rerank
+721,model performance,45,Engenharia de Features,0.65,matched,ai_rerank
+722,testes de usabilidade,—,—,0.02,no_match,insufficient_confidence
+723,change adoption,—,—,0.41,no_match,insufficient_confidence
+724,séries temporais,47,Séries Temporais,1.0,matched,fuzzy_match
+725,gerenciar projetos,18,Gestão de Projetos,1.0,matched,ai_rerank
+726,ggplot,—,—,0.07,no_match,insufficient_confidence
+727,organizational effectiveness,96,Desenvolvimento Organizacional,0.53,matched,ai_rerank
+728,python scripting,62,FastAPI,0.81,matched,ai_rerank
+729,trabalho independente,—,—,0.12,no_match,insufficient_confidence
+730,dimensional modeling,55,Modelagem de Dados,0.84,matched,ai_rerank
+731,user stories,—,—,0.1,no_match,insufficient_confidence
+732,análise de fluxo de caixa,—,—,0.01,no_match,insufficient_confidence
+733,comunicação transparente,—,—,0.14,no_match,insufficient_confidence
+734,visão estratégica de produto,14,Visão de Produto,0.98,matched,ai_rerank
+735,information security,71,Segurança de Dados,0.98,matched,ai_rerank
+736,merge,—,—,0.15,no_match,insufficient_confidence
+737,vontade de aprender,—,—,0.09,no_match,insufficient_confidence
+738,performance de modelos,45,Engenharia de Features,0.67,matched,ai_rerank
+739,resolução de conflitos,3,Resolução de Conflitos,1.0,matched,fuzzy_match
+740,big data spark,81,Spark,1.0,matched,ai_rerank
+741,HuggingFace,86,Hugging Face,1.0,matched,fuzzy_match
+742,organizational effectiveness,96,Desenvolvimento Organizacional,0.53,matched,ai_rerank
+743,Git,—,—,0.15,no_match,insufficient_confidence
+744,postgres,58,PostgreSQL,0.95,matched,ai_rerank
+745,presenting to stakeholders,—,—,0.08,no_match,insufficient_confidence
+746,negotiation,5,Negociação,0.98,matched,ai_rerank
+747,kubectl,—,—,0.37,no_match,insufficient_confidence
+748,good writing,—,—,0.43,no_match,insufficient_confidence
+749,transformação organizacional,28,Gestão de Mudanças,0.81,matched,ai_rerank
+750,kafka,54,Streaming de Dados,0.76,matched,ai_rerank
+751,mediation skills,24,Mentoria,0.84,matched,ai_rerank
+752,falar em público,—,—,0.14,no_match,insufficient_confidence
+753,autogestão,11,Autogestão,1.0,matched,fuzzy_match
+754,espírito de equipe,—,—,0.09,no_match,insufficient_confidence
+755,liderança de time,10,Gestão do Tempo,0.65,matched,ai_rerank
+756,talent sourcing,—,—,0.07,no_match,insufficient_confidence
+757,ggplot2,—,—,0.02,no_match,insufficient_confidence
+758,gestão de talentos,—,—,0.07,no_match,insufficient_confidence
+759,financial scenarios,92,Modelagem Financeira,0.59,matched,ai_rerank
+760,insights communication,2,Comunicação Assertiva,0.97,matched,ai_rerank
+761,critical decision making,6,Pensamento Crítico,0.93,matched,ai_rerank
+762,machine learning engineer,40,Machine Learning,1.0,matched,ai_rerank
+763,HuggingFace,86,Hugging Face,1.0,matched,fuzzy_match
+764,comunicação verbal,—,—,0.24,no_match,insufficient_confidence
+765,apresentar ideias,—,—,0.17,no_match,insufficient_confidence
+766,planejamento empresarial,—,—,0.44,no_match,insufficient_confidence
+767,commits,—,—,0.1,no_match,insufficient_confidence
+768,Terraform,—,—,0.31,no_match,insufficient_confidence
+769,redes neurais profundas,41,Deep Learning,1.0,matched,ai_rerank
+770,gerenciar prazos,10,Gestão do Tempo,0.85,matched,ai_rerank
+771,desenvolvimento de pessoas,—,—,0.43,no_match,insufficient_confidence
+772,innovative solutions,29,Inovação,0.58,matched,ai_rerank
+773,data manipulation,—,—,0.3,no_match,insufficient_confidence
+774,JAVA,34,Java,1.0,matched,fuzzy_match
+775,proteção de dados,71,Segurança de Dados,0.95,matched,ai_rerank
+776,gestão de mudanças,28,Gestão de Mudanças,1.0,matched,fuzzy_match
+777,intellectual curiosity,—,—,0.09,no_match,insufficient_confidence
+778,análise de demonstrativos,91,Análise Financeira,0.6,matched,ai_rerank
+779,making decisions,8,Tomada de Decisão,0.93,matched,ai_rerank
+780,design de sistemas,—,—,0.03,no_match,insufficient_confidence
+781,kafka,54,Streaming de Dados,0.76,matched,ai_rerank
+782,fórmulas excel,—,—,0.25,no_match,insufficient_confidence
+783,scripts bash,38,Bash e Shell Script,1.0,matched,ai_rerank
+784,descriptive analytics,—,—,0.39,no_match,insufficient_confidence
+785,aprendizagem contínua,12,Aprendizado Contínuo,0.99,matched,ai_rerank
+786,adaptive mindset,9,Adaptabilidade,0.57,matched,ai_rerank
+787,negociação de salários,—,—,0.01,no_match,insufficient_confidence
+788,JS,—,—,0.32,no_match,insufficient_confidence
+789,disruptive thinking,—,—,0.04,no_match,insufficient_confidence
+790,emotional resilience,4,Inteligência Emocional,0.56,matched,ai_rerank
+791,code review,—,—,0.5,no_match,insufficient_confidence
+792,Excel,78,Excel Avançado,0.51,matched,ai_rerank
+793,liderança humana,—,—,0.35,no_match,insufficient_confidence
+794,mentorship skills,24,Mentoria,0.89,matched,ai_rerank
+795,roadmap de produto,87,Gestão de Produto,0.83,matched,ai_rerank
+796,js,—,—,0.32,no_match,insufficient_confidence
+797,mlflow,84,MLflow,1.0,matched,fuzzy_match
+798,privacidade de dados,71,Segurança de Dados,0.66,matched,ai_rerank
+799,tableau public,—,—,0.06,no_match,insufficient_confidence
+800,SQL queries,32,SQL,0.85,matched,ai_rerank
+801,learning new skills,12,Aprendizado Contínuo,0.98,matched,ai_rerank
+802,soluções inovadoras,—,—,0.4,no_match,insufficient_confidence
+803,cli scripting,—,—,0.05,no_match,insufficient_confidence
+804,microservices architecture,75,Microsserviços,1.0,matched,ai_rerank
+805,HuggingFace,86,Hugging Face,1.0,matched,fuzzy_match
+806,model evaluation,46,Avaliação de Modelos,1.0,matched,ai_rerank
+807,planilhas,77,Tableau,0.8,matched,ai_rerank
+808,testes A/B,50,Experimentação e Testes A/B,1.0,matched,ai_rerank
+809,ML flow,84,MLflow,1.0,matched,ai_rerank
+810,mentalidade data-driven,—,—,0.3,no_match,insufficient_confidence
+811,critical evaluation,—,—,0.27,no_match,insufficient_confidence
+812,compliance program,94,Compliance e Regulação,0.61,matched,ai_rerank
+813,microsserviços,75,Microsserviços,1.0,matched,fuzzy_match
+814,BI reports,76,Power BI,0.99,matched,ai_rerank
+815,problem-solving,7,Resolução de Problemas,1.0,matched,ai_rerank
+816,strategic negotiation,5,Negociação,0.99,matched,ai_rerank
+817,emotional maturity,—,—,0.05,no_match,insufficient_confidence
+818,autonomia,11,Autogestão,0.73,matched,ai_rerank
+819,deep learning development,41,Deep Learning,1.0,matched,ai_rerank
+820,negotiating disagreements,3,Resolução de Conflitos,0.97,matched,ai_rerank
+821,pg,—,—,0.17,no_match,insufficient_confidence
+822,pg,—,—,0.17,no_match,insufficient_confidence
+823,cloud GCP,67,Google Cloud Platform,0.99,matched,ai_rerank
+824,commits,—,—,0.1,no_match,insufficient_confidence
+825,tableau,77,Tableau,1.0,matched,fuzzy_match
+826,modelagem estatística,49,Estatística Aplicada,0.66,matched,ai_rerank
+827,macros excel,—,—,0.03,no_match,insufficient_confidence
+828,arquitetura de dados,56,Data Warehouse,0.73,matched,ai_rerank
+829,excel avançado,78,Excel Avançado,1.0,matched,fuzzy_match
+830,mlflow models,84,MLflow,1.0,matched,ai_rerank
+831,spark dataframes,81,Spark,0.95,matched,ai_rerank
+832,datadog,—,—,0.27,no_match,insufficient_confidence
+833,jenkins,—,—,0.05,no_match,insufficient_confidence
+834,sql,32,SQL,1.0,matched,fuzzy_match
+835,entrepreneurship,30,Empreendedorismo,1.0,matched,ai_rerank
+836,conflict mitigation,3,Resolução de Conflitos,0.98,matched,ai_rerank
+837,identificar causas raiz,7,Resolução de Problemas,0.98,matched,ai_rerank
+838,pipeline de ML,85,Langfuse,0.89,matched,ai_rerank
+839,next.js,—,—,0.1,no_match,insufficient_confidence
+840,pensamento lógico,—,—,0.27,no_match,insufficient_confidence
+841,expressing ideas clearly,2,Comunicação Assertiva,0.99,matched,ai_rerank
+842,empatia,—,—,0.23,no_match,insufficient_confidence
+843,conduzir workshops,20,Facilitação,0.98,matched,ai_rerank
+844,critical mindset,6,Pensamento Crítico,1.0,matched,ai_rerank
+845,estatística com R,33,R,0.98,matched,ai_rerank
+846,org development,—,—,0.17,no_match,insufficient_confidence
+847,understanding customers,16,Foco no Cliente,0.98,matched,ai_rerank
+848,logging,—,—,0.18,no_match,insufficient_confidence
+849,negotiation skills,5,Negociação,0.99,matched,ai_rerank
+850,event-driven data,—,—,0.06,no_match,insufficient_confidence
+851,MapReduce,—,—,0.09,no_match,insufficient_confidence
+852,facilitar workshops,20,Facilitação,0.98,matched,ai_rerank
+853,excel,78,Excel Avançado,0.51,matched,ai_rerank
+854,handling disagreements,3,Resolução de Conflitos,0.95,matched,ai_rerank
+855,aligning expectations,26,Gestão de Stakeholders,0.81,matched,ai_rerank
+856,estatística descritiva,—,—,0.11,no_match,insufficient_confidence
+857,monitoramento e observabilidade,70,Monitoramento e Observabilidade,1.0,matched,fuzzy_match
+858,sourcing de talentos,—,—,0.04,no_match,insufficient_confidence
+859,hiring,95,Recrutamento e Seleção,0.69,matched,ai_rerank
+860,objectives and key results,—,—,0.27,no_match,insufficient_confidence
+861,organizational values,—,—,0.28,no_match,insufficient_confidence
+862,liderança de colaboradores,1,Gestão de Pessoas,0.54,matched,ai_rerank
+863,design thinking,89,Design Thinking,1.0,matched,fuzzy_match
+864,modelagem relacional,55,Modelagem de Dados,0.81,matched,ai_rerank
+865,clustering,—,—,0.27,no_match,insufficient_confidence
+866,document writing,—,—,0.19,no_match,insufficient_confidence
+867,gitlab CI,—,—,0.07,no_match,insufficient_confidence
+868,processamento de texto,42,Processamento de Linguagem Natural,0.73,matched,ai_rerank
+869,data architecture,56,Data Warehouse,0.86,matched,ai_rerank
+870,autoconsciência emocional,—,—,0.2,no_match,insufficient_confidence
+871,data security,71,Segurança de Dados,0.99,matched,ai_rerank
+872,controle de versão,—,—,0.03,no_match,insufficient_confidence
+873,People Management,1,Gestão de Pessoas,1.0,matched,ai_rerank
+874,setting strategy,—,—,0.1,no_match,insufficient_confidence
+875,Redis,60,Redis,1.0,matched,fuzzy_match
+876,Scala,37,Scala,1.0,matched,fuzzy_match
+877,SQL postgres,58,PostgreSQL,1.0,matched,ai_rerank
+878,regulatory compliance,94,Compliance e Regulação,1.0,matched,ai_rerank
+879,estratégia de branches,—,—,0.04,no_match,insufficient_confidence
+880,cliente em primeiro lugar,—,—,0.1,no_match,insufficient_confidence
+881,deep learning development,41,Deep Learning,1.0,matched,ai_rerank
+882,bash,38,Bash e Shell Script,0.9,matched,ai_rerank
+883,análise de balanço,—,—,0.12,no_match,insufficient_confidence
+884,monitoramento de LLM,85,Langfuse,1.0,matched,ai_rerank
+885,práticas ágeis,19,Metodologias Ágeis,0.98,matched,ai_rerank
+886,candidate selection,95,Recrutamento e Seleção,0.77,matched,ai_rerank
+887,normalização de dados,—,—,0.06,no_match,insufficient_confidence
+888,tensorflow,—,—,0.08,no_match,insufficient_confidence
+889,real-time processing,54,Streaming de Dados,0.95,matched,ai_rerank
+890,SQS,32,SQL,0.72,matched,ai_rerank
+891,emotional self-regulation,—,—,0.44,no_match,insufficient_confidence
+892,aprendizado autodidata,12,Aprendizado Contínuo,0.55,matched,ai_rerank
+893,project oversight,—,—,0.25,no_match,insufficient_confidence
+894,data wrangling,54,Streaming de Dados,0.93,matched,ai_rerank
+895,modelagem de dados,55,Modelagem de Dados,1.0,matched,fuzzy_match
+896,product sense,14,Visão de Produto,0.92,matched,ai_rerank
+897,decision making,8,Tomada de Decisão,0.98,matched,ai_rerank
+898,aquisição de talentos,—,—,0.13,no_match,insufficient_confidence
+899,UX research,88,UX Research,1.0,matched,fuzzy_match
+900,postgresql,58,PostgreSQL,1.0,matched,fuzzy_match
+901,alerting,—,—,0.09,no_match,insufficient_confidence
+902,postgresql,58,PostgreSQL,1.0,matched,fuzzy_match
+903,corporate training,—,—,0.23,no_match,insufficient_confidence
+904,gestão de pessoas,1,Gestão de Pessoas,1.0,matched,fuzzy_match
+905,Employer Branding,99,Employer Branding,1.0,matched,fuzzy_match
+906,real-time data,54,Streaming de Dados,0.75,matched,ai_rerank
+907,design sprint,—,—,0.04,no_match,insufficient_confidence
+908,orientar pessoas,24,Mentoria,0.83,matched,ai_rerank
+909,team building,—,—,0.24,no_match,insufficient_confidence
+910,risk management,93,Gestão de Riscos,1.0,matched,ai_rerank
+911,aws infrastructure,66,AWS,0.98,matched,ai_rerank
+912,time series analysis,47,Séries Temporais,1.0,matched,ai_rerank
+913,programação em R,—,—,0.28,no_match,insufficient_confidence
+914,negociação estratégica,5,Negociação,1.0,matched,ai_rerank
+915,saber se comunicar,—,—,0.1,no_match,insufficient_confidence
+916,comunicação de feedbacks,2,Comunicação Assertiva,0.98,matched,ai_rerank
+917,gestão das próprias emoções,4,Inteligência Emocional,0.99,matched,ai_rerank
+918,meeting facilitation,20,Facilitação,0.99,matched,ai_rerank
+919,planejamento de projetos,18,Gestão de Projetos,0.84,matched,ai_rerank
+920,ARIMA,—,—,0.09,no_match,insufficient_confidence
+921,transformações dbt,80,dbt,1.0,matched,ai_rerank
+922,ETL,52,ETL e ELT,0.99,matched,ai_rerank
+923,cultura e clima,—,—,0.02,no_match,insufficient_confidence
+924,raciocínio lógico,—,—,0.12,no_match,insufficient_confidence
+925,excel avançado,78,Excel Avançado,1.0,matched,fuzzy_match
+926,gerenciar prazos,10,Gestão do Tempo,0.85,matched,ai_rerank
+927,python fastapi,62,FastAPI,1.0,matched,ai_rerank
+928,pull request,—,—,0.01,no_match,insufficient_confidence
+929,employer marketing,99,Employer Branding,0.99,matched,ai_rerank
+930,meeting facilitation,20,Facilitação,0.99,matched,ai_rerank
+931,inovação,29,Inovação,1.0,matched,fuzzy_match
+932,decision analysis,8,Tomada de Decisão,0.9,matched,ai_rerank
+933,terraform,—,—,0.31,no_match,insufficient_confidence
+934,entrevistas de emprego,—,—,0.05,no_match,insufficient_confidence
+935,monitoramento e observabilidade,70,Monitoramento e Observabilidade,1.0,matched,fuzzy_match
+936,prompt tracking,85,Langfuse,0.79,matched,ai_rerank
+937,visualização de dados,—,—,0.39,no_match,insufficient_confidence
+938,python developer,31,Python,1.0,matched,ai_rerank
+939,computer vision,48,Visão Computacional,1.0,matched,ai_rerank
+940,indicadores financeiros,—,—,0.36,no_match,insufficient_confidence
+941,gerenciamento de riscos,93,Gestão de Riscos,1.0,matched,ai_rerank
+942,agile methodologies,19,Metodologias Ágeis,1.0,matched,ai_rerank
+943,gestão de stakeholders,26,Gestão de Stakeholders,1.0,matched,fuzzy_match
+944,microsoft excel,78,Excel Avançado,0.95,matched,ai_rerank
+945,grafana,—,—,0.14,no_match,insufficient_confidence
+946,career mentoring,24,Mentoria,0.68,matched,ai_rerank
+947,generative AI,—,—,0.08,no_match,insufficient_confidence
+948,bigquery,—,—,0.23,no_match,insufficient_confidence
+949,openai api,—,—,0.13,no_match,insufficient_confidence
+950,PBI,91,Análise Financeira,0.51,matched,ai_rerank
+951,validação cruzada,—,—,0.0,no_match,insufficient_confidence
+952,technical team guidance,25,Liderança Técnica,1.0,matched,ai_rerank
+953,liderança de equipes,1,Gestão de Pessoas,0.95,matched,ai_rerank
+954,linguagem R,33,R,1.0,matched,ai_rerank
+955,strategic mindset,17,Pensamento Estratégico,0.99,matched,ai_rerank
+956,fine-tuning,—,—,0.26,no_match,insufficient_confidence
+957,IA generativa,—,—,0.06,no_match,insufficient_confidence
+958,ML pipeline,85,Langfuse,0.97,matched,ai_rerank
+959,shell automation,38,Bash e Shell Script,0.62,matched,ai_rerank
+960,CNN,—,—,0.32,no_match,insufficient_confidence
+961,design técnico,—,—,0.29,no_match,insufficient_confidence
+962,statistical analysis,39,Análise de Dados,0.72,matched,ai_rerank
+963,team culture,—,—,0.13,no_match,insufficient_confidence
+964,comunicar insights,21,Storytelling com Dados,0.95,matched,ai_rerank
+965,java backend,34,Java,1.0,matched,ai_rerank
+966,model metrics,46,Avaliação de Modelos,0.96,matched,ai_rerank
+967,excel avançado,78,Excel Avançado,1.0,matched,fuzzy_match
+968,scala programming,37,Scala,1.0,matched,ai_rerank
+969,MLflow,84,MLflow,1.0,matched,fuzzy_match
+970,object detection,—,—,0.05,no_match,insufficient_confidence
+971,orquestração de workflows,—,—,0.29,no_match,insufficient_confidence
+972,retrospectiva,—,—,0.13,no_match,insufficient_confidence
+973,looker reports,79,Looker,0.64,matched,ai_rerank
+974,Scala,37,Scala,1.0,matched,fuzzy_match
+975,PSQL,—,—,0.39,no_match,insufficient_confidence
+976,access control,—,—,0.06,no_match,insufficient_confidence
+977,k8s cluster,—,—,0.02,no_match,insufficient_confidence
+978,complex problem solving,7,Resolução de Problemas,0.95,matched,ai_rerank
+979,collaboration,13,Colaboração,1.0,matched,ai_rerank
+980,data storytelling,21,Storytelling com Dados,1.0,matched,ai_rerank
+981,ML pipeline,85,Langfuse,0.97,matched,ai_rerank
+982,planejamento anual,—,—,0.01,no_match,insufficient_confidence
+983,data build tool,—,—,0.4,no_match,insufficient_confidence
+984,emotional management,4,Inteligência Emocional,0.84,matched,ai_rerank
+985,design centrado no humano,—,—,0.06,no_match,insufficient_confidence
+986,empatia com o cliente,—,—,0.03,no_match,insufficient_confidence
+987,financial analysis,91,Análise Financeira,1.0,matched,ai_rerank
+988,tableau,77,Tableau,1.0,matched,fuzzy_match
+989,relatórios power bi,76,Power BI,1.0,matched,ai_rerank
+990,logical thinking,6,Pensamento Crítico,0.75,matched,ai_rerank
+991,facilitation techniques,20,Facilitação,0.66,matched,ai_rerank
+992,NLP,42,Processamento de Linguagem Natural,0.95,matched,ai_rerank
+993,looker studio,79,Looker,0.94,matched,ai_rerank
+994,model evaluation,46,Avaliação de Modelos,1.0,matched,ai_rerank
+995,data ingestion,54,Streaming de Dados,0.78,matched,ai_rerank
+996,visão estratégica de produto,14,Visão de Produto,0.98,matched,ai_rerank
+997,automação de build,65,CI/CD,0.61,matched,ai_rerank
+998,income statement,—,—,0.01,no_match,insufficient_confidence
+999,data security,71,Segurança de Dados,0.99,matched,ai_rerank
+1000,dashboards power bi,76,Power BI,1.0,matched,ai_rerank
+1001,valores organizacionais,—,—,0.27,no_match,insufficient_confidence
+1002,critical evaluation,—,—,0.27,no_match,insufficient_confidence
+1003,regulação emocional,—,—,0.04,no_match,insufficient_confidence
+1004,inferência estatística,49,Estatística Aplicada,0.72,matched,ai_rerank
+1005,regression models,—,—,0.01,no_match,insufficient_confidence
+1006,objectives and key results,—,—,0.27,no_match,insufficient_confidence
+1007,RCA,—,—,0.18,no_match,insufficient_confidence
+1008,cultura de time,—,—,0.02,no_match,insufficient_confidence
+1009,criptografia,—,—,0.2,no_match,insufficient_confidence
+1010,vector databases,44,Embeddings e Busca Vetorial,0.66,matched,ai_rerank
+1011,feature selection,—,—,0.08,no_match,insufficient_confidence
+1012,pensar como PM,—,—,0.11,no_match,insufficient_confidence
+1013,facilitação,20,Facilitação,1.0,matched,fuzzy_match
+1014,azure services,68,Azure,1.0,matched,ai_rerank
+1015,pensamento estratégico,17,Pensamento Estratégico,1.0,matched,fuzzy_match
+1016,decisão estratégica,17,Pensamento Estratégico,0.98,matched,ai_rerank
+1017,entrepreneurial thinking,30,Empreendedorismo,0.87,matched,ai_rerank
+1018,consistência de dados,57,Qualidade de Dados,0.5,matched,ai_rerank
+1019,Langfuse,85,Langfuse,1.0,matched,fuzzy_match
+1020,entrepreneurial mindset,30,Empreendedorismo,0.86,matched,ai_rerank
+1021,web services,66,AWS,0.93,matched,ai_rerank
+1022,database queries,—,—,0.46,no_match,insufficient_confidence
+1023,transformers library,—,—,0.02,no_match,insufficient_confidence
+1024,reconhecimento óptico de caracteres,—,—,0.0,no_match,insufficient_confidence
+1025,aws RDS,66,AWS,0.85,matched,ai_rerank
+1026,objectives and key results,—,—,0.27,no_match,insufficient_confidence
+1027,aws lambda,66,AWS,0.77,matched,ai_rerank
+1028,valuation,—,—,0.31,no_match,insufficient_confidence
+1029,azure ML,68,Azure,0.64,matched,ai_rerank
+1030,vue.js,—,—,0.11,no_match,insufficient_confidence
+1031,GCP,67,Google Cloud Platform,0.91,matched,ai_rerank
+1032,company culture,99,Employer Branding,0.65,matched,ai_rerank
+1033,Bash,38,Bash e Shell Script,0.9,matched,ai_rerank
+1034,nodejs,—,—,0.17,no_match,insufficient_confidence
+1035,workshop facilitation,20,Facilitação,1.0,matched,ai_rerank
+1036,test automation,73,Testes Automatizados,1.0,matched,ai_rerank
+1037,customer-centric,16,Foco no Cliente,0.93,matched,ai_rerank
+1038,SQL analytics,32,SQL,0.93,matched,ai_rerank
+1039,tidyverse,—,—,0.11,no_match,insufficient_confidence
+1040,vector search,44,Embeddings e Busca Vetorial,0.97,matched,ai_rerank
+1041,change communication,—,—,0.1,no_match,insufficient_confidence
+1042,DRE,—,—,0.18,no_match,insufficient_confidence
+1043,autonomia,11,Autogestão,0.73,matched,ai_rerank
+1044,cash flow analysis,—,—,0.03,no_match,insufficient_confidence
+1045,pull request,—,—,0.01,no_match,insufficient_confidence
+1046,postgresql,58,PostgreSQL,1.0,matched,fuzzy_match
+1047,migração de dados,—,—,0.12,no_match,insufficient_confidence
+1048,written communication,23,Escrita Profissional,0.91,matched,ai_rerank
+1049,maturidade emocional,—,—,0.08,no_match,insufficient_confidence
+1050,RAG,—,—,0.42,no_match,insufficient_confidence
+1051,learning programs,98,Treinamento e Desenvolvimento,0.85,matched,ai_rerank
+1052,project delivery,—,—,0.05,no_match,insufficient_confidence
+1053,metrics,—,—,0.23,no_match,insufficient_confidence
+1054,gerenciar equipes,1,Gestão de Pessoas,0.97,matched,ai_rerank
+1055,eks,—,—,0.19,no_match,insufficient_confidence
+1056,azure,68,Azure,1.0,matched,fuzzy_match
+1057,banco de dados vetorial,44,Embeddings e Busca Vetorial,0.86,matched,ai_rerank
+1058,LangChain,83,LangChain,1.0,matched,fuzzy_match
+1059,arquitetura de dados,56,Data Warehouse,0.73,matched,ai_rerank
+1060,recruitment,95,Recrutamento e Seleção,0.99,matched,ai_rerank
+1061,application performance monitoring,—,—,0.2,no_match,insufficient_confidence
+1062,monitoramento de LLM,85,Langfuse,1.0,matched,ai_rerank
+1063,LLM deployment,—,—,0.49,no_match,insufficient_confidence
+1064,dar feedback,—,—,0.09,no_match,insufficient_confidence
+1065,azure machine learning,40,Machine Learning,1.0,matched,fuzzy_match
+1066,ELT,52,ETL e ELT,0.99,matched,ai_rerank
+1067,design research,88,UX Research,0.98,matched,ai_rerank
+1068,snowflake,—,—,0.18,no_match,insufficient_confidence
+1069,facilitation skills,20,Facilitação,0.98,matched,ai_rerank
+1070,pitch de ideias,—,—,0.02,no_match,insufficient_confidence
+1071,consultas SQL,32,SQL,1.0,matched,ai_rerank
+1072,FastAPI backend,62,FastAPI,0.64,matched,ai_rerank
+1073,agile mindset,—,—,0.07,no_match,insufficient_confidence
+1074,azure devops,—,—,0.22,no_match,insufficient_confidence
+1075,document writing,—,—,0.19,no_match,insufficient_confidence
+1076,administrar conflitos,—,—,0.18,no_match,insufficient_confidence
+1077,definição de OKRs,90,OKRs,1.0,matched,ai_rerank
+1078,feedback communication,2,Comunicação Assertiva,0.99,matched,ai_rerank
+1079,critical analysis,6,Pensamento Crítico,0.99,matched,ai_rerank
+1080,agile,—,—,0.29,no_match,insufficient_confidence
+1081,technical leadership,25,Liderança Técnica,1.0,matched,ai_rerank
+1082,web API,—,—,0.09,no_match,insufficient_confidence
+1083,micro services,75,Microsserviços,1.0,matched,ai_rerank
+1084,APIs com FastAPI,62,FastAPI,1.0,matched,ai_rerank
+1085,recrutamento e seleção,95,Recrutamento e Seleção,1.0,matched,fuzzy_match
+1086,business analytics,—,—,0.35,no_match,insufficient_confidence
+1087,técnicas de facilitação,20,Facilitação,0.66,matched,ai_rerank
+1088,dbt transformations,80,dbt,1.0,matched,ai_rerank
+1089,design sprint,—,—,0.04,no_match,insufficient_confidence
+1090,building APIs,61,Desenvolvimento de APIs,0.98,matched,ai_rerank
+1091,integração de APIs,—,—,0.06,no_match,insufficient_confidence
+1092,negociar com clientes,—,—,0.16,no_match,insufficient_confidence
+1093,fluxo de caixa descontado,—,—,0.01,no_match,insufficient_confidence
+1094,facilitar workshops,20,Facilitação,0.98,matched,ai_rerank
+1095,hadoop ecosystem,82,Hadoop,1.0,matched,ai_rerank
+1096,falar em público,—,—,0.14,no_match,insufficient_confidence
+1097,probabilidade,—,—,0.14,no_match,insufficient_confidence
+1098,azure AI,68,Azure,0.91,matched,ai_rerank
+1099,visão de longo prazo,—,—,0.08,no_match,insufficient_confidence
+1100,project coordination,18,Gestão de Projetos,0.66,matched,ai_rerank
+1101,system monitoring,70,Monitoramento e Observabilidade,0.98,matched,ai_rerank
+1102,cultura de time,—,—,0.02,no_match,insufficient_confidence
+1103,LLM monitoring,85,Langfuse,1.0,matched,ai_rerank
+1104,building pipelines,51,Engenharia de Dados,0.83,matched,ai_rerank
+1105,product thinking,14,Visão de Produto,1.0,matched,ai_rerank
+1106,system design,—,—,0.05,no_match,insufficient_confidence
+1107,growth mindset,24,Mentoria,0.74,matched,ai_rerank
+1108,acompanhar OKRs,90,OKRs,1.0,matched,ai_rerank
+1109,pensamento centrado no usuário,89,Design Thinking,0.99,matched,ai_rerank
+1110,model fairness,46,Avaliação de Modelos,0.93,matched,ai_rerank
+1111,sprints,—,—,0.08,no_match,insufficient_confidence
+1112,aprendizado contínuo,12,Aprendizado Contínuo,1.0,matched,fuzzy_match
+1113,cliente em primeiro lugar,—,—,0.1,no_match,insufficient_confidence
+1114,alinhar expectativas,26,Gestão de Stakeholders,0.85,matched,ai_rerank
+1115,lifelong learning,12,Aprendizado Contínuo,0.97,matched,ai_rerank
+1116,schema design,—,—,0.46,no_match,insufficient_confidence
+1117,gestão de riscos,93,Gestão de Riscos,1.0,matched,fuzzy_match
+1118,analytics engineering,51,Engenharia de Dados,0.82,matched,ai_rerank
+1119,REST API,—,—,0.38,no_match,insufficient_confidence
+1120,tableau server,—,—,0.13,no_match,insufficient_confidence
+1121,extração de features,—,—,0.06,no_match,insufficient_confidence
+1122,text processing,42,Processamento de Linguagem Natural,0.94,matched,ai_rerank
+1123,indicadores-chave,—,—,0.02,no_match,insufficient_confidence
+1124,goals and key results,—,—,0.44,no_match,insufficient_confidence
+1125,análise de séries temporais,47,Séries Temporais,1.0,matched,ai_rerank
+1126,documentação,—,—,0.12,no_match,insufficient_confidence
+1127,scala,37,Scala,1.0,matched,fuzzy_match
+1128,bigquery gcp,67,Google Cloud Platform,0.98,matched,ai_rerank
+1129,API architecture,—,—,0.36,no_match,insufficient_confidence
+1130,fomentar inovação,—,—,0.1,no_match,insufficient_confidence
+1131,huggingface transformers,86,Hugging Face,0.85,matched,ai_rerank
+1132,tabelas dinâmicas,—,—,0.15,no_match,insufficient_confidence
+1133,storytelling de dados,21,Storytelling com Dados,1.0,matched,ai_rerank
+1134,image classification,48,Visão Computacional,0.55,matched,ai_rerank
+1135,IA generativa,—,—,0.06,no_match,insufficient_confidence
+1136,SQL básico,32,SQL,0.62,matched,ai_rerank
+1137,SOLID,—,—,0.05,no_match,insufficient_confidence
+1138,priorizar tarefas,10,Gestão do Tempo,0.85,matched,ai_rerank
+1139,analytical thinking,6,Pensamento Crítico,0.92,matched,ai_rerank
+1140,python data,—,—,0.21,no_match,insufficient_confidence
+1141,retrospectiva,—,—,0.13,no_match,insufficient_confidence
+1142,technical writing,23,Escrita Profissional,0.59,matched,ai_rerank
+1143,team leadership,1,Gestão de Pessoas,0.97,matched,ai_rerank
+1144,pg,—,—,0.17,no_match,insufficient_confidence
+1145,data loading,54,Streaming de Dados,0.51,matched,ai_rerank
+1146,design de schema,—,—,0.28,no_match,insufficient_confidence
+1147,narrative with data,21,Storytelling com Dados,1.0,matched,ai_rerank
+1148,conflict management,3,Resolução de Conflitos,0.86,matched,ai_rerank
+1149,execução autônoma,—,—,0.32,no_match,insufficient_confidence
+1150,data migration,—,—,0.33,no_match,insufficient_confidence
+1151,IaC tools,—,—,0.12,no_match,insufficient_confidence
+1152,entrega ágil,—,—,0.11,no_match,insufficient_confidence
+1153,applied statistics,49,Estatística Aplicada,1.0,matched,ai_rerank
+1154,liderar tecnicamente,25,Liderança Técnica,1.0,matched,ai_rerank
+1155,resolução de problemas,7,Resolução de Problemas,1.0,matched,fuzzy_match
+1156,ELT,52,ETL e ELT,0.99,matched,ai_rerank
+1157,deploy com docker,63,Docker,0.51,matched,ai_rerank
+1158,gerenciar mudanças,28,Gestão de Mudanças,1.0,matched,ai_rerank
+1159,entrega de projetos,—,—,0.04,no_match,insufficient_confidence
+1160,CD pipeline,65,CI/CD,0.99,matched,ai_rerank
+1161,GCP,67,Google Cloud Platform,0.91,matched,ai_rerank
+1162,task organization,—,—,0.4,no_match,insufficient_confidence
+1163,comunicação profissional,23,Escrita Profissional,0.97,matched,ai_rerank
+1164,Git,—,—,0.15,no_match,insufficient_confidence
+1165,métricas de modelos,46,Avaliação de Modelos,0.93,matched,ai_rerank
+1166,self-starter,—,—,0.22,no_match,insufficient_confidence
+1167,resiliência emocional,—,—,0.1,no_match,insufficient_confidence
+1168,pensamento quantitativo,—,—,0.03,no_match,insufficient_confidence
+1169,product discovery,88,UX Research,0.58,matched,ai_rerank
+1170,DAX,—,—,0.3,no_match,insufficient_confidence
+1171,organização pessoal,1,Gestão de Pessoas,0.64,matched,ai_rerank
+1172,service-oriented architecture,75,Microsserviços,0.89,matched,ai_rerank
+1173,hive,—,—,0.29,no_match,insufficient_confidence
+1174,document database,—,—,0.26,no_match,insufficient_confidence
+1175,cli scripting,—,—,0.05,no_match,insufficient_confidence
+1176,feedback communication,2,Comunicação Assertiva,0.99,matched,ai_rerank
+1177,dbt cloud,80,dbt,0.7,matched,ai_rerank
+1178,tomar decisões,8,Tomada de Decisão,1.0,matched,ai_rerank
+1179,entrepreneurial thinking,30,Empreendedorismo,0.87,matched,ai_rerank
+1180,redes neurais,41,Deep Learning,0.54,matched,ai_rerank
+1181,typescript development,36,TypeScript,1.0,matched,ai_rerank
+1182,LLMs,83,LangChain,0.87,matched,ai_rerank
+1183,product roadmap,87,Gestão de Produto,0.87,matched,ai_rerank
+1184,independent execution,11,Autogestão,0.78,matched,ai_rerank
+1185,SQL writing,32,SQL,1.0,matched,ai_rerank
+1186,controle de versão,—,—,0.03,no_match,insufficient_confidence
+1187,métricas de modelos,46,Avaliação de Modelos,0.93,matched,ai_rerank
+1188,roadmap de produto,87,Gestão de Produto,0.83,matched,ai_rerank
+1189,redis queue,—,—,0.19,no_match,insufficient_confidence
+1190,feedback communication,2,Comunicação Assertiva,0.99,matched,ai_rerank
+1191,trabalho em equipe,—,—,0.24,no_match,insufficient_confidence
+1192,jenkins,—,—,0.05,no_match,insufficient_confidence
+1193,testes E2E,—,—,0.03,no_match,insufficient_confidence
+1194,tableau public,—,—,0.06,no_match,insufficient_confidence
+1195,time series,47,Séries Temporais,0.99,matched,ai_rerank
+1196,avaliação de empresas,—,—,0.12,no_match,insufficient_confidence
+1197,spring boot,34,Java,0.78,matched,ai_rerank
+1198,risk framework,—,—,0.17,no_match,insufficient_confidence
+1199,avaliação de modelos,46,Avaliação de Modelos,1.0,matched,fuzzy_match
+1200,Amazon Web Services,66,AWS,1.0,matched,ai_rerank
+1201,pinecone,—,—,0.03,no_match,insufficient_confidence
+1202,modelos financeiros,92,Modelagem Financeira,1.0,matched,ai_rerank
+1203,tensorflow,—,—,0.08,no_match,insufficient_confidence
+1204,reputação como empregador,—,—,0.43,no_match,insufficient_confidence
+1205,mudança organizacional,28,Gestão de Mudanças,0.84,matched,ai_rerank
+1206,priority management,87,Gestão de Produto,0.7,matched,ai_rerank
+1207,entrega ágil,—,—,0.11,no_match,insufficient_confidence
+1208,PO,—,—,0.24,no_match,insufficient_confidence
+1209,image classification,48,Visão Computacional,0.55,matched,ai_rerank
+1210,gitlab,72,Versionamento de Código,0.72,matched,ai_rerank
+1211,SLI SLO SLA,—,—,0.01,no_match,insufficient_confidence
+1212,estratégia de negócios,17,Pensamento Estratégico,0.53,matched,ai_rerank
+1213,NER,—,—,0.27,no_match,insufficient_confidence
+1214,variáveis preditivas,—,—,0.02,no_match,insufficient_confidence
+1215,hadoop ecosystem,82,Hadoop,1.0,matched,ai_rerank
+1216,sound judgment,—,—,0.04,no_match,insufficient_confidence
+1217,OKRs,90,OKRs,1.0,matched,fuzzy_match
+1218,adoção de mudanças,28,Gestão de Mudanças,0.73,matched,ai_rerank
+1219,inteligência emocional,4,Inteligência Emocional,1.0,matched,fuzzy_match
+1220,observability,70,Monitoramento e Observabilidade,0.89,matched,ai_rerank
+1221,split testing,—,—,0.04,no_match,insufficient_confidence
+1222,cloud data warehouse,56,Data Warehouse,1.0,matched,fuzzy_match
+1223,azure data factory,68,Azure,0.68,matched,ai_rerank
+1224,prompting,24,Mentoria,0.58,matched,ai_rerank
+1225,problem decomposition,—,—,0.46,no_match,insufficient_confidence
+1226,data security,71,Segurança de Dados,0.99,matched,ai_rerank
+1227,Apache Hive,—,—,0.14,no_match,insufficient_confidence
+1228,integridade de dados,—,—,0.08,no_match,insufficient_confidence
+1229,open source LLMs,—,—,0.21,no_match,insufficient_confidence
+1230,building pipelines,51,Engenharia de Dados,0.83,matched,ai_rerank
+1231,metodologias ágeis,19,Metodologias Ágeis,1.0,matched,fuzzy_match
+1232,design research,88,UX Research,0.98,matched,ai_rerank
+1233,influence without authority,—,—,0.1,no_match,insufficient_confidence
+1234,Postgres,58,PostgreSQL,0.95,matched,ai_rerank
+1235,tomar decisões,8,Tomada de Decisão,1.0,matched,ai_rerank
+1236,gestão de performance,97,Gestão de Desempenho,1.0,matched,ai_rerank
+1237,alinhar expectativas,26,Gestão de Stakeholders,0.85,matched,ai_rerank
+1238,foco no cliente,16,Foco no Cliente,1.0,matched,fuzzy_match
+1239,financial analysis,91,Análise Financeira,1.0,matched,ai_rerank
+1240,pipeline scheduling,53,Orquestração de Pipelines,0.91,matched,ai_rerank
+1241,presenting ideas,—,—,0.17,no_match,insufficient_confidence
+1242,DQ,—,—,0.21,no_match,insufficient_confidence
+1243,resolução de conflitos,3,Resolução de Conflitos,1.0,matched,fuzzy_match
+1244,basic SQL,32,SQL,0.61,matched,ai_rerank
+1245,java backend,34,Java,1.0,matched,ai_rerank
+1246,python3,—,—,0.38,no_match,insufficient_confidence
+1247,sistemas distribuídos,82,Hadoop,0.58,matched,ai_rerank
+1248,presenting data,—,—,0.16,no_match,insufficient_confidence
+1249,UX research,88,UX Research,1.0,matched,fuzzy_match
+1250,Git,—,—,0.15,no_match,insufficient_confidence
+1251,LLM pipelines,85,Langfuse,1.0,matched,ai_rerank
+1252,managing people,1,Gestão de Pessoas,1.0,matched,ai_rerank
+1253,avaliação de empresas,—,—,0.12,no_match,insufficient_confidence
+1254,ggplot,—,—,0.07,no_match,insufficient_confidence
+1255,advanced data analysis,—,—,0.43,no_match,insufficient_confidence
+1256,python development,31,Python,1.0,matched,ai_rerank
+1257,access control,—,—,0.06,no_match,insufficient_confidence
+1258,integração de APIs,—,—,0.06,no_match,insufficient_confidence
+1259,R language,33,R,1.0,matched,ai_rerank
+1260,data validation,—,—,0.2,no_match,insufficient_confidence
+1261,user experience,—,—,0.09,no_match,insufficient_confidence
+1262,project manager skills,18,Gestão de Projetos,0.99,matched,ai_rerank
+1263,scala programming,37,Scala,1.0,matched,ai_rerank
+1264,tomada de decisão,8,Tomada de Decisão,1.0,matched,fuzzy_match
+1265,insights communication,2,Comunicação Assertiva,0.97,matched,ai_rerank
+1266,project planning,18,Gestão de Projetos,0.93,matched,ai_rerank
+1267,evidence-based decisions,15,Orientação a Dados,0.74,matched,ai_rerank
+1268,working together,13,Colaboração,0.73,matched,ai_rerank
+1269,Power BI,76,Power BI,1.0,matched,fuzzy_match
+1270,group facilitation,20,Facilitação,1.0,matched,ai_rerank
+1271,supervised learning,40,Machine Learning,0.97,matched,ai_rerank
+1272,data workflow management,—,—,0.09,no_match,insufficient_confidence
+1273,escrita técnica,—,—,0.21,no_match,insufficient_confidence
+1274,sistemas distribuídos,82,Hadoop,0.58,matched,ai_rerank
+1275,business analytics,—,—,0.35,no_match,insufficient_confidence
+1276,comunicação com stakeholders,—,—,0.25,no_match,insufficient_confidence
+1277,software testing,—,—,0.34,no_match,insufficient_confidence
+1278,node.js,35,JavaScript,0.7,matched,ai_rerank
+1279,organizar tarefas,10,Gestão do Tempo,0.67,matched,ai_rerank
+1280,spring framework,34,Java,0.93,matched,ai_rerank
+1281,data mart,—,—,0.06,no_match,insufficient_confidence
+1282,conduzir retrospectivas,—,—,0.01,no_match,insufficient_confidence
+1283,dados em tempo real,54,Streaming de Dados,0.89,matched,ai_rerank
+1284,direção técnica,25,Liderança Técnica,0.77,matched,ai_rerank
+1285,annual planning,—,—,0.04,no_match,insufficient_confidence
+1286,vector store,—,—,0.34,no_match,insufficient_confidence
+1287,alinhamento de stakeholders,26,Gestão de Stakeholders,0.81,matched,ai_rerank
+1288,excel avançado,78,Excel Avançado,1.0,matched,fuzzy_match
+1289,warehouse architecture,56,Data Warehouse,0.97,matched,ai_rerank
+1290,spring framework,34,Java,0.93,matched,ai_rerank
+1291,engenheiro de dados,51,Engenharia de Dados,0.98,matched,ai_rerank
+1292,R&S,—,—,0.28,no_match,insufficient_confidence
+1293,pipeline orchestration,53,Orquestração de Pipelines,1.0,matched,ai_rerank
+1294,big picture thinking,—,—,0.06,no_match,insufficient_confidence
+1295,continuous integration,65,CI/CD,0.92,matched,ai_rerank
+1296,reskilling programs,—,—,0.04,no_match,insufficient_confidence
+1297,FastAPI,62,FastAPI,1.0,matched,fuzzy_match
+1298,risco operacional,93,Gestão de Riscos,0.87,matched,ai_rerank
+1299,java programming,34,Java,1.0,matched,ai_rerank
+1300,empreender,30,Empreendedorismo,0.91,matched,ai_rerank
+1301,product strategy,87,Gestão de Produto,0.87,matched,ai_rerank
+1302,dbt core,80,dbt,0.84,matched,ai_rerank
+1303,construção de cultura,—,—,0.08,no_match,insufficient_confidence
+1304,liderar tecnicamente,25,Liderança Técnica,1.0,matched,ai_rerank
+1305,acompanhar OKRs,90,OKRs,1.0,matched,ai_rerank
+1306,data ingestion,54,Streaming de Dados,0.78,matched,ai_rerank
+1307,customer orientation,16,Foco no Cliente,0.84,matched,ai_rerank
+1308,datadog,—,—,0.27,no_match,insufficient_confidence
+1309,typed javascript,36,TypeScript,0.61,matched,ai_rerank
+1310,troubleshooting,7,Resolução de Problemas,0.99,matched,ai_rerank
+1311,web API,—,—,0.09,no_match,insufficient_confidence
+1312,programação em R,—,—,0.28,no_match,insufficient_confidence
+1313,PySpark,—,—,0.14,no_match,insufficient_confidence
+1314,métricas de modelos,46,Avaliação de Modelos,0.93,matched,ai_rerank
+1315,coaching profissional,—,—,0.24,no_match,insufficient_confidence
+1316,long-term planning,27,Planejamento Estratégico,0.96,matched,ai_rerank
+1317,relatórios power bi,76,Power BI,1.0,matched,ai_rerank
+1318,abertura a mudanças,—,—,0.07,no_match,insufficient_confidence
+1319,Prophet,—,—,0.2,no_match,insufficient_confidence
+1320,text classification,—,—,0.24,no_match,insufficient_confidence
+1321,scikit-learn,—,—,0.07,no_match,insufficient_confidence
+1322,comunicar ideias,2,Comunicação Assertiva,0.96,matched,ai_rerank
+1323,deadline management,10,Gestão do Tempo,0.99,matched,ai_rerank
+1324,EQ,—,—,0.44,no_match,insufficient_confidence
+1325,continuous delivery,65,CI/CD,0.67,matched,ai_rerank
+1326,data privacy,71,Segurança de Dados,0.73,matched,ai_rerank
+1327,vector databases,44,Embeddings e Busca Vetorial,0.66,matched,ai_rerank
+1328,microservices architecture,75,Microsserviços,1.0,matched,ai_rerank
+1329,shell scripting,38,Bash e Shell Script,1.0,matched,ai_rerank
+1330,agile project management,18,Gestão de Projetos,0.67,matched,ai_rerank
+1331,innovative thinking,29,Inovação,0.75,matched,ai_rerank
+1332,colaboração interfuncional,—,—,0.08,no_match,insufficient_confidence
+1333,growth mindset,24,Mentoria,0.74,matched,ai_rerank
+1334,independent services,75,Microsserviços,0.52,matched,ai_rerank
+1335,modelos de linguagem grandes,43,Large Language Models,1.0,matched,ai_rerank
+1336,flink,54,Streaming de Dados,0.81,matched,ai_rerank
+1337,programação scala,37,Scala,1.0,matched,ai_rerank
+1338,managing deadlines,10,Gestão do Tempo,0.75,matched,ai_rerank
+1339,lidar com mudanças,—,—,0.1,no_match,insufficient_confidence
+1340,js,—,—,0.32,no_match,insufficient_confidence
+1341,client focus,16,Foco no Cliente,1.0,matched,ai_rerank
+1342,bash,38,Bash e Shell Script,0.9,matched,ai_rerank
+1343,foco no cliente,16,Foco no Cliente,1.0,matched,fuzzy_match
+1344,change management,28,Gestão de Mudanças,1.0,matched,ai_rerank
+1345,redação profissional,23,Escrita Profissional,0.95,matched,ai_rerank
+1346,SOLID principles,—,—,0.03,no_match,insufficient_confidence
+1347,customer centricity,—,—,0.03,no_match,insufficient_confidence
+1348,ci/cd,65,CI/CD,1.0,matched,fuzzy_match
+1349,PySpark,—,—,0.14,no_match,insufficient_confidence
+1350,solução de problemas,7,Resolução de Problemas,1.0,matched,fuzzy_match
+1351,SQL postgres,58,PostgreSQL,1.0,matched,ai_rerank
+1352,corporate training,—,—,0.23,no_match,insufficient_confidence
+1353,Employer Branding,99,Employer Branding,1.0,matched,fuzzy_match
+1354,julgamento sólido,—,—,0.06,no_match,insufficient_confidence
+1355,feature selection,—,—,0.08,no_match,insufficient_confidence
+1356,microservices architecture,75,Microsserviços,1.0,matched,ai_rerank
+1357,lean agile,—,—,0.2,no_match,insufficient_confidence
+1358,busca vetorial,44,Embeddings e Busca Vetorial,0.95,matched,ai_rerank
+1359,modelos de embedding,44,Embeddings e Busca Vetorial,0.93,matched,ai_rerank
+1360,segurança de dados,71,Segurança de Dados,1.0,matched,fuzzy_match
+1361,text mining,—,—,0.34,no_match,insufficient_confidence
+1362,intrapreneurship,—,—,0.27,no_match,insufficient_confidence
+1363,Python,31,Python,1.0,matched,fuzzy_match
+1364,modelagem relacional,55,Modelagem de Dados,0.81,matched,ai_rerank
+1365,PYTHON,31,Python,1.0,matched,fuzzy_match
+1366,seleção de features,—,—,0.11,no_match,insufficient_confidence
+1367,problem decomposition,—,—,0.46,no_match,insufficient_confidence
+1368,exploração de dados,39,Análise de Dados,0.94,matched,ai_rerank
+1369,contract negotiation,5,Negociação,0.58,matched,ai_rerank
+1370,power bi desktop,76,Power BI,0.99,matched,ai_rerank
+1371,power query excel,78,Excel Avançado,0.59,matched,ai_rerank
+1372,tableau reports,—,—,0.16,no_match,insufficient_confidence
+1373,scikit-learn,—,—,0.07,no_match,insufficient_confidence
+1374,decomposição de problemas,—,—,0.13,no_match,insufficient_confidence
+1375,solução de problemas,7,Resolução de Problemas,1.0,matched,fuzzy_match
+1376,workflow orchestration,—,—,0.36,no_match,insufficient_confidence
+1377,gestão do tempo,10,Gestão do Tempo,1.0,matched,fuzzy_match
+1378,python developer,31,Python,1.0,matched,ai_rerank
+1379,gke,—,—,0.32,no_match,insufficient_confidence
+1380,docker-compose,63,Docker,0.89,matched,ai_rerank
+1381,python,31,Python,1.0,matched,fuzzy_match
+1382,organizational effectiveness,96,Desenvolvimento Organizacional,0.53,matched,ai_rerank
+1383,time management,10,Gestão do Tempo,1.0,matched,ai_rerank
+1384,extração de insights,39,Análise de Dados,0.68,matched,ai_rerank
+1385,infraestrutura como código,69,Infrastructure as Code,1.0,matched,ai_rerank
+1386,validação de modelos,46,Avaliação de Modelos,1.0,matched,fuzzy_match
+1387,ideação,29,Inovação,0.69,matched,ai_rerank
+1388,estratégia de produto,—,—,0.44,no_match,insufficient_confidence
+1389,big data hadoop,82,Hadoop,0.92,matched,ai_rerank
+1390,apache airflow,—,—,0.37,no_match,insufficient_confidence
+1391,text processing,42,Processamento de Linguagem Natural,0.94,matched,ai_rerank
+1392,structured problem solving,3,Resolução de Conflitos,0.86,matched,ai_rerank
+1393,business modeling,92,Modelagem Financeira,0.94,matched,ai_rerank
+1394,data manipulation,—,—,0.3,no_match,insufficient_confidence
+1395,design técnico,—,—,0.29,no_match,insufficient_confidence
+1396,atração de talentos,99,Employer Branding,0.79,matched,ai_rerank
+1397,programação scala,37,Scala,1.0,matched,ai_rerank
+1398,extração de insights,39,Análise de Dados,0.68,matched,ai_rerank
+1399,emotional resilience,4,Inteligência Emocional,0.56,matched,ai_rerank
+1400,eks,—,—,0.19,no_match,insufficient_confidence
+1401,product roadmap,87,Gestão de Produto,0.87,matched,ai_rerank
+1402,teamwork,13,Colaboração,0.52,matched,ai_rerank
+1403,scala functional programming,37,Scala,0.98,matched,ai_rerank
+1404,código python,31,Python,0.85,matched,ai_rerank
+1405,triagem de candidatos,—,—,0.04,no_match,insufficient_confidence
+1406,social awareness,—,—,0.11,no_match,insufficient_confidence
+1407,ggplot,—,—,0.07,no_match,insufficient_confidence
+1408,cloud GCP,67,Google Cloud Platform,0.99,matched,ai_rerank
+1409,aligning expectations,26,Gestão de Stakeholders,0.81,matched,ai_rerank
+1410,pitching,—,—,0.06,no_match,insufficient_confidence
+1411,managing expectations,—,—,0.41,no_match,insufficient_confidence
+1412,postgresql avançado,58,PostgreSQL,1.0,matched,ai_rerank
+1413,complex problem solving,7,Resolução de Problemas,0.95,matched,ai_rerank
+1414,business intelligence,—,—,0.23,no_match,insufficient_confidence
+1415,PowerBI,76,Power BI,1.0,matched,ai_rerank
+1416,power bi service,76,Power BI,1.0,matched,ai_rerank
+1417,ciclo de vida de modelos,—,—,0.28,no_match,insufficient_confidence
+1418,ingestão de dados,—,—,0.27,no_match,insufficient_confidence
+1419,Dockerfile,63,Docker,0.82,matched,ai_rerank
+1420,data-driven decisions,15,Orientação a Dados,0.85,matched,ai_rerank
+1421,efetividade organizacional,—,—,0.19,no_match,insufficient_confidence
+1422,gerenciamento de pessoas,1,Gestão de Pessoas,1.0,matched,ai_rerank
+1423,capacidade de aprendizagem,98,Treinamento e Desenvolvimento,0.95,matched,ai_rerank
+1424,negociação comercial,—,—,0.36,no_match,insufficient_confidence
+1425,javascript,35,JavaScript,1.0,matched,fuzzy_match
+1426,SLI SLO SLA,—,—,0.01,no_match,insufficient_confidence
+1427,TDD,—,—,0.41,no_match,insufficient_confidence
+1428,self-organization,11,Autogestão,0.91,matched,ai_rerank
+1429,reconhecimento óptico de caracteres,—,—,0.0,no_match,insufficient_confidence
+1430,versatilidade,—,—,0.14,no_match,insufficient_confidence
+1431,scikit-learn,—,—,0.07,no_match,insufficient_confidence
+1432,continuous learning,12,Aprendizado Contínuo,1.0,matched,ai_rerank
+1433,DW,—,—,0.34,no_match,insufficient_confidence
+1434,decision analysis,8,Tomada de Decisão,0.9,matched,ai_rerank
+1435,análise financeira,91,Análise Financeira,1.0,matched,fuzzy_match
+1436,spark ML,—,—,0.39,no_match,insufficient_confidence
+1437,azure AI,68,Azure,0.91,matched,ai_rerank
+1438,planejamento estratégico,27,Planejamento Estratégico,1.0,matched,fuzzy_match
+1439,git flow,—,—,0.36,no_match,insufficient_confidence
+1440,bancos analíticos,—,—,0.23,no_match,insufficient_confidence
+1441,statistics,—,—,0.41,no_match,insufficient_confidence
+1442,L&D,—,—,0.28,no_match,insufficient_confidence
+1443,foco no usuário,16,Foco no Cliente,0.95,matched,ai_rerank
+1444,ser mentor,24,Mentoria,0.88,matched,ai_rerank
+1445,intraempreendedorismo,—,—,0.3,no_match,insufficient_confidence
+1446,problem solving,3,Resolução de Conflitos,0.92,matched,ai_rerank
+1447,technical leadership,25,Liderança Técnica,1.0,matched,ai_rerank
+1448,gcp,67,Google Cloud Platform,0.91,matched,ai_rerank
+1449,looker analytics,79,Looker,1.0,matched,ai_rerank
+1450,data visualization,—,—,0.46,no_match,insufficient_confidence
+1451,model training,40,Machine Learning,0.91,matched,ai_rerank
+1452,analytical orientation,—,—,0.31,no_match,insufficient_confidence
+1453,sourcing de talentos,—,—,0.04,no_match,insufficient_confidence
+1454,mudança de contexto,—,—,0.12,no_match,insufficient_confidence
+1455,gerenciamento de pessoas,1,Gestão de Pessoas,1.0,matched,ai_rerank
+1456,agile,—,—,0.29,no_match,insufficient_confidence
+1457,influenciar sem autoridade,—,—,0.01,no_match,insufficient_confidence
+1458,prototipagem,—,—,0.27,no_match,insufficient_confidence
+1459,container deployment,64,Kubernetes,0.88,matched,ai_rerank
+1460,communication skills,2,Comunicação Assertiva,0.75,matched,ai_rerank
+1461,k8s cluster,—,—,0.02,no_match,insufficient_confidence
+1462,azure devops,—,—,0.22,no_match,insufficient_confidence
+1463,product ownership,—,—,0.23,no_match,insufficient_confidence
+1464,langchain agents,83,LangChain,0.99,matched,ai_rerank
+1465,habilidades de comunicação,2,Comunicação Assertiva,0.88,matched,ai_rerank
+1466,liderança de pessoas,1,Gestão de Pessoas,0.98,matched,ai_rerank
+1467,probability,—,—,0.08,no_match,insufficient_confidence
+1468,APM,—,—,0.21,no_match,insufficient_confidence
+1469,business strategy,27,Planejamento Estratégico,0.59,matched,ai_rerank
+1470,R&S,—,—,0.28,no_match,insufficient_confidence
+1471,Excel,78,Excel Avançado,0.51,matched,ai_rerank
+1472,building APIs,61,Desenvolvimento de APIs,0.98,matched,ai_rerank
+1473,orientar pessoas,24,Mentoria,0.83,matched,ai_rerank
+1474,fila redis,60,Redis,0.99,matched,ai_rerank
+1475,looker,79,Looker,1.0,matched,fuzzy_match
+1476,soluções inovadoras,—,—,0.4,no_match,insufficient_confidence
+1477,OD,—,—,0.12,no_match,insufficient_confidence
+1478,gerenciar partes interessadas,26,Gestão de Stakeholders,1.0,matched,ai_rerank
+1479,weaviate,—,—,0.23,no_match,insufficient_confidence
+1480,pinecone,—,—,0.03,no_match,insufficient_confidence
+1481,armazém de dados,56,Data Warehouse,0.93,matched,ai_rerank
+1482,critical judgment,17,Pensamento Estratégico,0.65,matched,ai_rerank
+1483,engajamento de stakeholders,26,Gestão de Stakeholders,0.8,matched,ai_rerank
+1484,change leadership,28,Gestão de Mudanças,0.99,matched,ai_rerank
+1485,data-informed decisions,15,Orientação a Dados,0.71,matched,ai_rerank
+1486,spreadsheet,—,—,0.24,no_match,insufficient_confidence
+1487,pensamento racional,—,—,0.17,no_match,insufficient_confidence
+1488,technical lead,25,Liderança Técnica,1.0,matched,ai_rerank
+1489,Apache Hadoop,82,Hadoop,0.96,matched,ai_rerank
+1490,cooperação,13,Colaboração,0.98,matched,ai_rerank
+1491,distribuições estatísticas,—,—,0.01,no_match,insufficient_confidence
+1492,gestão de stakeholders,26,Gestão de Stakeholders,1.0,matched,fuzzy_match
+1493,mentor,24,Mentoria,0.98,matched,ai_rerank
+1494,usability testing,—,—,0.25,no_match,insufficient_confidence
+1495,problem resolution,7,Resolução de Problemas,1.0,matched,ai_rerank
+1496,resolução de divergências,3,Resolução de Conflitos,1.0,matched,ai_rerank
+1497,tech mentor,24,Mentoria,0.57,matched,ai_rerank
+1498,negociar com clientes,—,—,0.16,no_match,insufficient_confidence
+1499,otimização do tempo,—,—,0.02,no_match,insufficient_confidence
+1500,IaC tools,—,—,0.12,no_match,insufficient_confidence
+1501,data analysis,39,Análise de Dados,1.0,matched,ai_rerank
+1502,gestão de mudanças,28,Gestão de Mudanças,1.0,matched,fuzzy_match
+1503,gerir times,10,Gestão do Tempo,0.99,matched,ai_rerank
+1504,strategic negotiation,5,Negociação,0.99,matched,ai_rerank
+1505,gestão de projetos,18,Gestão de Projetos,1.0,matched,fuzzy_match
+1506,processamento de texto,42,Processamento de Linguagem Natural,0.73,matched,ai_rerank
+1507,strategy execution,—,—,0.03,no_match,insufficient_confidence
+1508,fast api,62,FastAPI,1.0,matched,ai_rerank
+1509,API integration,—,—,0.14,no_match,insufficient_confidence
+1510,rastreamento de experimentos,84,MLflow,0.96,matched,ai_rerank
+1511,API design,61,Desenvolvimento de APIs,0.66,matched,ai_rerank
+1512,java programming,34,Java,1.0,matched,ai_rerank
+1513,model training,40,Machine Learning,0.91,matched,ai_rerank
+1514,estatística aplicada,49,Estatística Aplicada,1.0,matched,fuzzy_match
+1515,open source LLMs,—,—,0.21,no_match,insufficient_confidence
+1516,storytelling de dados,21,Storytelling com Dados,1.0,matched,ai_rerank
+1517,SQL postgres,58,PostgreSQL,1.0,matched,ai_rerank
+1518,business planning,—,—,0.32,no_match,insufficient_confidence
+1519,merge,—,—,0.15,no_match,insufficient_confidence
+1520,emotional management,4,Inteligência Emocional,0.84,matched,ai_rerank
+1521,containers,63,Docker,0.55,matched,ai_rerank
+1522,application monitoring,66,AWS,0.89,matched,ai_rerank
+1523,storytelling com dados,21,Storytelling com Dados,1.0,matched,fuzzy_match
+1524,escrever SQL,32,SQL,1.0,matched,ai_rerank
+1525,setting strategy,—,—,0.1,no_match,insufficient_confidence
+1526,statistical analysis,39,Análise de Dados,0.72,matched,ai_rerank
+1527,efetividade organizacional,—,—,0.19,no_match,insufficient_confidence
+1528,culture building,—,—,0.13,no_match,insufficient_confidence
+1529,SOLID,—,—,0.05,no_match,insufficient_confidence
+1530,data security,71,Segurança de Dados,0.99,matched,ai_rerank
+1531,orientação analítica,—,—,0.05,no_match,insufficient_confidence
+1532,project management,18,Gestão de Projetos,1.0,matched,ai_rerank
+1533,VBA,—,—,0.18,no_match,insufficient_confidence
+1534,mentoria,24,Mentoria,1.0,matched,fuzzy_match
+1535,CI pipeline,65,CI/CD,1.0,matched,ai_rerank
+1536,gestão das próprias emoções,4,Inteligência Emocional,0.99,matched,ai_rerank
+1537,A/B testing,50,Experimentação e Testes A/B,1.0,matched,ai_rerank
+1538,typescript backend,36,TypeScript,1.0,matched,ai_rerank
+1539,liderança em mudanças,—,—,0.45,no_match,insufficient_confidence
+1540,clustering,—,—,0.27,no_match,insufficient_confidence
+1541,mitigação de riscos,93,Gestão de Riscos,0.78,matched,ai_rerank
+1542,postgres,58,PostgreSQL,0.95,matched,ai_rerank
+1543,avaliação de desempenho,97,Gestão de Desempenho,0.83,matched,ai_rerank
+1544,time management,10,Gestão do Tempo,1.0,matched,ai_rerank
+1545,gestão emocional,4,Inteligência Emocional,0.87,matched,ai_rerank
+1546,containerização,63,Docker,0.97,matched,ai_rerank
+1547,entrega contínua,65,CI/CD,0.67,matched,ai_rerank
+1548,product understanding,14,Visão de Produto,1.0,matched,ai_rerank
+1549,objectives and key results,—,—,0.27,no_match,insufficient_confidence
+1550,team management,1,Gestão de Pessoas,0.98,matched,ai_rerank
+1551,LLM,85,Langfuse,0.61,matched,ai_rerank
+1552,Assertive Communication,2,Comunicação Assertiva,1.0,matched,ai_rerank
+1553,DAX,—,—,0.3,no_match,insufficient_confidence
+1554,DW,—,—,0.34,no_match,insufficient_confidence
+1555,seleção de features,—,—,0.11,no_match,insufficient_confidence
+1556,complex problem solving,7,Resolução de Problemas,0.95,matched,ai_rerank
+1557,automação shell,38,Bash e Shell Script,0.65,matched,ai_rerank
+1558,data cleaning,—,—,0.2,no_match,insufficient_confidence
+1559,API design,61,Desenvolvimento de APIs,0.66,matched,ai_rerank
+1560,temporal modeling,47,Séries Temporais,0.99,matched,ai_rerank
+1561,apresentação e oratória,22,Apresentação e Oratória,1.0,matched,fuzzy_match
+1562,liderança de time,10,Gestão do Tempo,0.65,matched,ai_rerank
+1563,obsessão pelo cliente,—,—,0.4,no_match,insufficient_confidence
+1564,financial scenarios,92,Modelagem Financeira,0.59,matched,ai_rerank
+1565,container orchestration,64,Kubernetes,1.0,matched,ai_rerank
+1566,mongodb atlas,59,MongoDB,0.97,matched,ai_rerank
+1567,escrita profissional,23,Escrita Profissional,1.0,matched,fuzzy_match
+1568,L&D,—,—,0.28,no_match,insufficient_confidence
+1569,company culture,99,Employer Branding,0.65,matched,ai_rerank
+1570,infraestrutura de dados,—,—,0.22,no_match,insufficient_confidence
+1571,prototyping,—,—,0.4,no_match,insufficient_confidence
+1572,SQL avançado,58,PostgreSQL,0.82,matched,ai_rerank
+1573,dashboards power bi,76,Power BI,1.0,matched,ai_rerank
+1574,machine learning,40,Machine Learning,1.0,matched,fuzzy_match
+1575,comunicação oral,—,—,0.33,no_match,insufficient_confidence
+1576,real-time data,54,Streaming de Dados,0.75,matched,ai_rerank
+1577,career mentoring,24,Mentoria,0.68,matched,ai_rerank
+1578,java avançado,34,Java,0.76,matched,ai_rerank
+1579,human-centered design,—,—,0.03,no_match,insufficient_confidence
+1580,document writing,—,—,0.19,no_match,insufficient_confidence
+1581,modelagem financeira,92,Modelagem Financeira,1.0,matched,fuzzy_match
+1582,retrospective,—,—,0.17,no_match,insufficient_confidence
+1583,imagens docker,—,—,0.41,no_match,insufficient_confidence
+1584,emotional awareness,4,Inteligência Emocional,0.61,matched,ai_rerank
+1585,emotional management,4,Inteligência Emocional,0.84,matched,ai_rerank
+1586,tableau dashboards,77,Tableau,0.99,matched,ai_rerank
+1587,data pipelines,51,Engenharia de Dados,0.99,matched,ai_rerank
+1588,engenharia de features,45,Engenharia de Features,1.0,matched,fuzzy_match
+1589,mentalidade de dono,30,Empreendedorismo,0.73,matched,ai_rerank
+1590,coaching profissional,—,—,0.24,no_match,insufficient_confidence
+1591,workshop facilitation,20,Facilitação,1.0,matched,ai_rerank
+1592,data orientation,15,Orientação a Dados,0.83,matched,ai_rerank
+1593,azure functions,68,Azure,0.99,matched,ai_rerank
+1594,openness to change,—,—,0.27,no_match,insufficient_confidence
+1595,banco de dados vetorial,44,Embeddings e Busca Vetorial,0.86,matched,ai_rerank
+1596,relational modeling,55,Modelagem de Dados,0.89,matched,ai_rerank
+1597,problem decomposition,—,—,0.46,no_match,insufficient_confidence
+1598,observabilidade de LLMs,85,Langfuse,1.0,matched,ai_rerank
+1599,customer orientation,16,Foco no Cliente,0.84,matched,ai_rerank
+1600,translating data to story,21,Storytelling com Dados,0.8,matched,ai_rerank
+1601,change communication,—,—,0.1,no_match,insufficient_confidence
+1602,testes de usabilidade,—,—,0.02,no_match,insufficient_confidence
+1603,model validation,46,Avaliação de Modelos,0.99,matched,ai_rerank
+1604,detecção de anomalias,—,—,0.44,no_match,insufficient_confidence
+1605,google cloud ML,67,Google Cloud Platform,1.0,matched,ai_rerank
+1606,containerization,63,Docker,0.97,matched,ai_rerank
+1607,design de experimentos,50,Experimentação e Testes A/B,0.97,matched,ai_rerank
+1608,bayesian statistics,—,—,0.0,no_match,insufficient_confidence
+1609,liderar pessoas,1,Gestão de Pessoas,0.95,matched,ai_rerank
+1610,reskilling,—,—,0.12,no_match,insufficient_confidence
+1611,dashboards power bi,76,Power BI,1.0,matched,ai_rerank
+1612,microsoft BI,76,Power BI,0.89,matched,ai_rerank
+1613,conformidade,94,Compliance e Regulação,0.88,matched,ai_rerank
+1614,design thinking,89,Design Thinking,1.0,matched,fuzzy_match
+1615,guiding others,—,—,0.49,no_match,insufficient_confidence
+1616,comunicação com stakeholders,—,—,0.25,no_match,insufficient_confidence
+1617,conflict management,3,Resolução de Conflitos,0.86,matched,ai_rerank
+1618,terraform,—,—,0.31,no_match,insufficient_confidence
+1619,proactiveness,9,Adaptabilidade,0.52,matched,ai_rerank
+1620,agile delivery,—,—,0.23,no_match,insufficient_confidence
+1621,embeddings de texto,—,—,0.16,no_match,insufficient_confidence
+1622,java developer,34,Java,1.0,matched,ai_rerank
+1623,orientação analítica,—,—,0.05,no_match,insufficient_confidence
+1624,testes de hipótese,50,Experimentação e Testes A/B,0.82,matched,ai_rerank
+1625,experiment design,50,Experimentação e Testes A/B,0.98,matched,ai_rerank
+1626,gestão de riscos,93,Gestão de Riscos,1.0,matched,fuzzy_match
+1627,análise de causa raiz,—,—,0.49,no_match,insufficient_confidence
+1628,amazon cloud,—,—,0.16,no_match,insufficient_confidence
+1629,variáveis preditivas,—,—,0.02,no_match,insufficient_confidence
+1630,DT,—,—,0.33,no_match,insufficient_confidence
+1631,mongodb,59,MongoDB,1.0,matched,fuzzy_match
+1632,People Management,1,Gestão de Pessoas,1.0,matched,ai_rerank
+1633,consciência social,—,—,0.09,no_match,insufficient_confidence
+1634,decisões baseadas em dados,15,Orientação a Dados,0.97,matched,ai_rerank
+1635,data protection,71,Segurança de Dados,0.96,matched,ai_rerank
+1636,extract transform load,52,ETL e ELT,0.76,matched,ai_rerank
+1637,mentalidade de crescimento,—,—,0.36,no_match,insufficient_confidence
+1638,postgresql queries,58,PostgreSQL,1.0,matched,ai_rerank
+1639,usabilidade,—,—,0.11,no_match,insufficient_confidence
+1640,spring framework,34,Java,0.93,matched,ai_rerank
+1641,spreadsheet,—,—,0.24,no_match,insufficient_confidence
+1642,information security,71,Segurança de Dados,0.98,matched,ai_rerank
+1643,relational modeling,55,Modelagem de Dados,0.89,matched,ai_rerank
+1644,LLM evaluation,85,Langfuse,0.98,matched,ai_rerank
+1645,Apache Spark,81,Spark,1.0,matched,ai_rerank
+1646,python,31,Python,1.0,matched,fuzzy_match
+1647,adaptability,9,Adaptabilidade,1.0,matched,ai_rerank
+1648,lambda,—,—,0.08,no_match,insufficient_confidence
+1649,culture of innovation,—,—,0.18,no_match,insufficient_confidence
+1650,descoberta de produto,—,—,0.26,no_match,insufficient_confidence
+1651,self-management,11,Autogestão,0.59,matched,ai_rerank
+1652,stakeholder management,26,Gestão de Stakeholders,1.0,matched,ai_rerank
+1653,gestão das próprias emoções,4,Inteligência Emocional,0.99,matched,ai_rerank
+1654,upskilling,—,—,0.13,no_match,insufficient_confidence
+1655,SQL intermediário,—,—,0.08,no_match,insufficient_confidence
+1656,inference hugging face,86,Hugging Face,1.0,matched,ai_rerank
+1657,carga de dados,—,—,0.34,no_match,insufficient_confidence
+1658,linux scripting,—,—,0.09,no_match,insufficient_confidence
+1659,unittest,73,Testes Automatizados,0.9,matched,ai_rerank
+1660,real-time data,54,Streaming de Dados,0.75,matched,ai_rerank
+1661,functional scala,—,—,0.29,no_match,insufficient_confidence
+1662,git flow,—,—,0.36,no_match,insufficient_confidence
+1663,Kubernetes,64,Kubernetes,1.0,matched,fuzzy_match
+1664,entender o produto,14,Visão de Produto,0.98,matched,ai_rerank
+1665,PM,—,—,0.22,no_match,insufficient_confidence
+1666,application performance monitoring,—,—,0.2,no_match,insufficient_confidence
+1667,service-oriented architecture,75,Microsserviços,0.89,matched,ai_rerank
+1668,escrever bem,23,Escrita Profissional,0.64,matched,ai_rerank
+1669,pulumi,—,—,0.08,no_match,insufficient_confidence
+1670,guiar time técnico,25,Liderança Técnica,0.64,matched,ai_rerank
+1671,agendamento de pipelines,—,—,0.09,no_match,insufficient_confidence
+1672,machine learning models,40,Machine Learning,1.0,matched,fuzzy_match
+1673,emotional resilience,4,Inteligência Emocional,0.56,matched,ai_rerank
+1674,organizational culture,100,Cultura Organizacional,1.0,matched,ai_rerank
+1675,pipeline de ML,85,Langfuse,0.89,matched,ai_rerank
+1676,negociação,5,Negociação,1.0,matched,fuzzy_match
+1677,LLM observability,85,Langfuse,1.0,matched,ai_rerank
+1678,design centrado no humano,—,—,0.06,no_match,insufficient_confidence
+1679,business intelligence,—,—,0.23,no_match,insufficient_confidence
+1680,model monitoring,46,Avaliação de Modelos,0.96,matched,ai_rerank
+1681,MongoDB,59,MongoDB,1.0,matched,fuzzy_match
+1682,power bi,76,Power BI,1.0,matched,fuzzy_match
+1683,personal organization,—,—,0.43,no_match,insufficient_confidence
+1684,avaliação crítica,—,—,0.12,no_match,insufficient_confidence
+1685,presentation skills,22,Apresentação e Oratória,0.95,matched,ai_rerank
+1686,stakeholder communication,—,—,0.48,no_match,insufficient_confidence
+1687,comunicação eficaz,—,—,0.16,no_match,insufficient_confidence
+1688,k8s cluster,—,—,0.02,no_match,insufficient_confidence
+1689,excel analytics,—,—,0.32,no_match,insufficient_confidence
+1690,testes multivariados,—,—,0.06,no_match,insufficient_confidence
+1691,product owner,—,—,0.12,no_match,insufficient_confidence
+1692,cultura e clima,—,—,0.02,no_match,insufficient_confidence
+1693,gerenciar desentendimentos,—,—,0.15,no_match,insufficient_confidence
+1694,iniciativa própria,—,—,0.09,no_match,insufficient_confidence
+1695,risk assessment,93,Gestão de Riscos,0.89,matched,ai_rerank
+1696,cobertura de testes,—,—,0.05,no_match,insufficient_confidence
+1697,facilitação,20,Facilitação,1.0,matched,fuzzy_match
+1698,desenvolvedor python,31,Python,1.0,matched,ai_rerank
+1699,orientação ao cliente,16,Foco no Cliente,0.58,matched,ai_rerank
+1700,pytorch,—,—,0.2,no_match,insufficient_confidence
+1701,qualidade de dados,57,Qualidade de Dados,1.0,matched,fuzzy_match
+1702,complex problem solving,7,Resolução de Problemas,0.95,matched,ai_rerank
+1703,fluxo de caixa descontado,—,—,0.01,no_match,insufficient_confidence
+1704,criação de variáveis,45,Engenharia de Features,0.84,matched,ai_rerank
+1705,Microsoft Azure,68,Azure,1.0,matched,ai_rerank
+1706,manipulação de dados,—,—,0.06,no_match,insufficient_confidence
+1707,observabilidade,70,Monitoramento e Observabilidade,0.87,matched,ai_rerank
+1708,design organizacional,—,—,0.23,no_match,insufficient_confidence
+1709,microservices,75,Microsserviços,1.0,matched,ai_rerank
+1710,data cleansing,—,—,0.45,no_match,insufficient_confidence
+1711,looker reports,79,Looker,0.64,matched,ai_rerank
+1712,comunicação clara e objetiva,2,Comunicação Assertiva,0.84,matched,ai_rerank
+1713,cliente em primeiro lugar,—,—,0.1,no_match,insufficient_confidence
+1714,liderar pessoas,1,Gestão de Pessoas,0.95,matched,ai_rerank
+1715,mentor,24,Mentoria,0.98,matched,ai_rerank
+1716,análise com SQL,32,SQL,0.89,matched,ai_rerank
+1717,cloudformation,69,Infrastructure as Code,0.71,matched,ai_rerank
+1718,business writing,23,Escrita Profissional,0.78,matched,ai_rerank
+1719,azure machine learning,40,Machine Learning,1.0,matched,fuzzy_match
+1720,kubectl,—,—,0.37,no_match,insufficient_confidence
+1721,metodologias ágeis,19,Metodologias Ágeis,1.0,matched,fuzzy_match
+1722,Design Thinking,89,Design Thinking,1.0,matched,fuzzy_match
+1723,convolutional neural networks,—,—,0.07,no_match,insufficient_confidence
+1724,data pipelines,51,Engenharia de Dados,0.99,matched,ai_rerank
+1725,coworking,13,Colaboração,0.69,matched,ai_rerank
+1726,cloudformation,69,Infrastructure as Code,0.71,matched,ai_rerank
+1727,backlog management,—,—,0.08,no_match,insufficient_confidence
+1728,gestão por OKRs,90,OKRs,0.71,matched,ai_rerank
+1729,R data science,33,R,0.94,matched,ai_rerank
+1730,text embeddings,—,—,0.18,no_match,insufficient_confidence
+1731,feature engineering,45,Engenharia de Features,1.0,matched,ai_rerank
+1732,setting OKRs,90,OKRs,0.91,matched,ai_rerank
+1733,avaliação de modelos,46,Avaliação de Modelos,1.0,matched,fuzzy_match
+1734,chroma,—,—,0.04,no_match,insufficient_confidence
+1735,data engineering,51,Engenharia de Dados,1.0,matched,ai_rerank
+1736,critical mindset,6,Pensamento Crítico,1.0,matched,ai_rerank
+1737,L&D,—,—,0.28,no_match,insufficient_confidence
+1738,curiosidade intelectual,—,—,0.02,no_match,insufficient_confidence
+1739,data build tool,—,—,0.4,no_match,insufficient_confidence
+1740,conduzir workshops,20,Facilitação,0.98,matched,ai_rerank
+1741,entrepreneurship,30,Empreendedorismo,1.0,matched,ai_rerank
+1742,orientar pessoas,24,Mentoria,0.83,matched,ai_rerank
+1743,processamento em tempo real,54,Streaming de Dados,0.96,matched,ai_rerank
+1744,SQL intermediário,—,—,0.08,no_match,insufficient_confidence
+1745,estatística com R,33,R,0.98,matched,ai_rerank
+1746,upskilling,—,—,0.13,no_match,insufficient_confidence
+1747,resolução de problemas,7,Resolução de Problemas,1.0,matched,fuzzy_match
+1748,análise crítica,6,Pensamento Crítico,0.95,matched,ai_rerank
+1749,declarative infrastructure,69,Infrastructure as Code,0.97,matched,ai_rerank
+1750,thinking critically,6,Pensamento Crítico,1.0,matched,ai_rerank
+1751,self-awareness,—,—,0.33,no_match,insufficient_confidence
+1752,deep neural networks,41,Deep Learning,0.99,matched,ai_rerank
+1753,data infrastructure,—,—,0.4,no_match,insufficient_confidence
+1754,lidar com emoções,—,—,0.07,no_match,insufficient_confidence
+1755,langchain,83,LangChain,1.0,matched,fuzzy_match
+1756,QA testing,—,—,0.09,no_match,insufficient_confidence
+1757,estatística com R,33,R,0.98,matched,ai_rerank
+1758,commits,—,—,0.1,no_match,insufficient_confidence
+1759,document database,—,—,0.26,no_match,insufficient_confidence
+1760,consciência social,—,—,0.09,no_match,insufficient_confidence
+1761,adoção de mudanças,28,Gestão de Mudanças,0.73,matched,ai_rerank
+1762,detecção de anomalias,—,—,0.44,no_match,insufficient_confidence
+1763,comunicação verbal,—,—,0.24,no_match,insufficient_confidence
+1764,performance appraisal,—,—,0.15,no_match,insufficient_confidence
+1765,segurança da informação,71,Segurança de Dados,0.92,matched,ai_rerank
+1766,analytical databases,39,Análise de Dados,0.61,matched,ai_rerank
+1767,análise descritiva,—,—,0.21,no_match,insufficient_confidence
+1768,data validation,—,—,0.2,no_match,insufficient_confidence
+1769,compliance de dados,—,—,0.29,no_match,insufficient_confidence
+1770,critical mindset,6,Pensamento Crítico,1.0,matched,ai_rerank
+1771,NoSQL database,59,MongoDB,0.95,matched,ai_rerank
+1772,model metrics,46,Avaliação de Modelos,0.96,matched,ai_rerank
+1773,experimentos controlados,50,Experimentação e Testes A/B,1.0,matched,ai_rerank
+1774,continuous deployment,65,CI/CD,0.65,matched,ai_rerank
+1775,cross-functional collaboration,—,—,0.03,no_match,insufficient_confidence
+1776,entidade relacionamento,—,—,0.14,no_match,insufficient_confidence
+1777,deal making,8,Tomada de Decisão,0.54,matched,ai_rerank
+1778,customer first,—,—,0.1,no_match,insufficient_confidence
+1779,processamento de streams,54,Streaming de Dados,0.98,matched,ai_rerank
+1780,CI/CD,65,CI/CD,1.0,matched,fuzzy_match
+1781,scripting python,62,FastAPI,0.74,matched,ai_rerank
+1782,distribuições estatísticas,—,—,0.01,no_match,insufficient_confidence
+1783,padrões de design,—,—,0.04,no_match,insufficient_confidence
+1784,organizational development,96,Desenvolvimento Organizacional,1.0,matched,ai_rerank
+1785,decomposição de problemas,—,—,0.13,no_match,insufficient_confidence
+1786,análise descritiva,—,—,0.21,no_match,insufficient_confidence
+1787,execução autônoma,—,—,0.32,no_match,insufficient_confidence
+1788,real-time data,54,Streaming de Dados,0.75,matched,ai_rerank
+1789,EC2,—,—,0.1,no_match,insufficient_confidence
+1790,pitch de ideias,—,—,0.02,no_match,insufficient_confidence
+1791,fila redis,60,Redis,0.99,matched,ai_rerank
+1792,mentalidade estratégica,17,Pensamento Estratégico,0.91,matched,ai_rerank
+1793,data literacy,21,Storytelling com Dados,0.54,matched,ai_rerank
+1794,infrastructure as code,69,Infrastructure as Code,1.0,matched,fuzzy_match
+1795,integration tests,73,Testes Automatizados,0.83,matched,ai_rerank
+1796,análise crítica,6,Pensamento Crítico,0.95,matched,ai_rerank
+1797,container orchestration,64,Kubernetes,1.0,matched,ai_rerank
+1798,distributed tracing,—,—,0.29,no_match,insufficient_confidence
+1799,independent work,—,—,0.31,no_match,insufficient_confidence
+1800,critical reasoning,6,Pensamento Crítico,0.99,matched,ai_rerank
+1801,trabalho independente,—,—,0.12,no_match,insufficient_confidence
+1802,controle de versão,—,—,0.03,no_match,insufficient_confidence
+1803,reconhecimento óptico de caracteres,—,—,0.0,no_match,insufficient_confidence
+1804,LookML,—,—,0.13,no_match,insufficient_confidence
+1805,LLM observability,85,Langfuse,1.0,matched,ai_rerank
+1806,vertex ai,67,Google Cloud Platform,0.68,matched,ai_rerank
+1807,Hugging Face,86,Hugging Face,1.0,matched,fuzzy_match
+1808,google cloud platform,67,Google Cloud Platform,1.0,matched,fuzzy_match
+1809,decisão sob incerteza,8,Tomada de Decisão,0.8,matched,ai_rerank
+1810,NER,—,—,0.27,no_match,insufficient_confidence
+1811,power bi service,76,Power BI,1.0,matched,ai_rerank
+1812,data pipelines,51,Engenharia de Dados,0.99,matched,ai_rerank
+1813,technical team guidance,25,Liderança Técnica,1.0,matched,ai_rerank
+1814,planejamento anual,—,—,0.01,no_match,insufficient_confidence
+1815,indicadores financeiros,—,—,0.36,no_match,insufficient_confidence
+1816,escrita clara,23,Escrita Profissional,0.78,matched,ai_rerank
+1817,cultura e estrutura organizacional,100,Cultura Organizacional,1.0,matched,ai_rerank
+1818,pesquisa com usuários,88,UX Research,1.0,matched,ai_rerank
+1819,logical thinking,6,Pensamento Crítico,0.75,matched,ai_rerank
+1820,IaC,—,—,0.49,no_match,insufficient_confidence
+1821,orquestração de containers,64,Kubernetes,1.0,matched,ai_rerank
+1822,banco postgresql,58,PostgreSQL,0.79,matched,ai_rerank
+1823,unix scripting,38,Bash e Shell Script,1.0,matched,ai_rerank
+1824,organizational design,—,—,0.44,no_match,insufficient_confidence
+1825,controlled experiments,50,Experimentação e Testes A/B,1.0,matched,ai_rerank
+1826,azure services,68,Azure,1.0,matched,ai_rerank
+1827,opportunity spotting,—,—,0.08,no_match,insufficient_confidence
+1828,amazon cloud,—,—,0.16,no_match,insufficient_confidence
+1829,DW,—,—,0.34,no_match,insufficient_confidence
+1830,foco no cliente,16,Foco no Cliente,1.0,matched,fuzzy_match
+1831,financial KPIs,—,—,0.06,no_match,insufficient_confidence
+1832,trabalho conjunto,—,—,0.27,no_match,insufficient_confidence
+1833,understanding customers,16,Foco no Cliente,0.98,matched,ai_rerank
+1834,content writing,22,Apresentação e Oratória,0.7,matched,ai_rerank
+1835,planilhamento,—,—,0.08,no_match,insufficient_confidence
+1836,chatgpt api,—,—,0.03,no_match,insufficient_confidence
+1837,Java,34,Java,1.0,matched,fuzzy_match
+1838,gestão de riscos,93,Gestão de Riscos,1.0,matched,fuzzy_match
+1839,continuous learning,12,Aprendizado Contínuo,1.0,matched,ai_rerank
+1840,agile,—,—,0.29,no_match,insufficient_confidence
+1841,TS,—,—,0.14,no_match,insufficient_confidence
+1842,feature selection,—,—,0.08,no_match,insufficient_confidence
+1843,probabilidade,—,—,0.14,no_match,insufficient_confidence
+1844,deploy com docker,63,Docker,0.51,matched,ai_rerank
+1845,financial KPIs,—,—,0.06,no_match,insufficient_confidence
+1846,spark streaming,54,Streaming de Dados,0.97,matched,ai_rerank
+1847,data communication,21,Storytelling com Dados,0.96,matched,ai_rerank
+1848,data visualization,—,—,0.46,no_match,insufficient_confidence
+1849,data consistency,57,Qualidade de Dados,0.56,matched,ai_rerank
+1850,aprendizagem contínua,12,Aprendizado Contínuo,0.99,matched,ai_rerank
+1851,entrevistas com usuários,—,—,0.12,no_match,insufficient_confidence
+1852,integridade de dados,—,—,0.08,no_match,insufficient_confidence
+1853,liderança em tecnologia,25,Liderança Técnica,1.0,matched,ai_rerank
+1854,projeções financeiras,92,Modelagem Financeira,0.58,matched,ai_rerank
+1855,GPT,—,—,0.29,no_match,insufficient_confidence
+1856,hugging face models,86,Hugging Face,1.0,matched,ai_rerank
+1857,data integrity,—,—,0.3,no_match,insufficient_confidence
+1858,managing people,1,Gestão de Pessoas,1.0,matched,ai_rerank
+1859,testes de integração,73,Testes Automatizados,0.67,matched,ai_rerank
+1860,data build tool,—,—,0.4,no_match,insufficient_confidence
+1861,arquitetura de sistemas,74,Arquitetura de Software,0.95,matched,ai_rerank
+1862,probabilidade,—,—,0.14,no_match,insufficient_confidence
+1863,EDA,—,—,0.42,no_match,insufficient_confidence
+1864,rebase,—,—,0.08,no_match,insufficient_confidence
+1865,OKR planning,90,OKRs,0.64,matched,ai_rerank
+1866,processamento em tempo real,54,Streaming de Dados,0.96,matched,ai_rerank
+1867,data exploration,39,Análise de Dados,0.99,matched,ai_rerank
+1868,model assessment,46,Avaliação de Modelos,1.0,matched,ai_rerank
+1869,creative innovation,—,—,0.3,no_match,insufficient_confidence
+1870,gerenciar equipes,1,Gestão de Pessoas,0.97,matched,ai_rerank
+1871,descriptive analytics,—,—,0.39,no_match,insufficient_confidence
+1872,bash automation,38,Bash e Shell Script,0.92,matched,ai_rerank
+1873,regulação,—,—,0.37,no_match,insufficient_confidence
+1874,product understanding,14,Visão de Produto,1.0,matched,ai_rerank
+1875,agile practices,19,Metodologias Ágeis,0.94,matched,ai_rerank
+1876,planejar estrategicamente,27,Planejamento Estratégico,1.0,matched,ai_rerank
+1877,orientação analítica,—,—,0.05,no_match,insufficient_confidence
+1878,object detection,—,—,0.05,no_match,insufficient_confidence
+1879,test coverage,—,—,0.05,no_match,insufficient_confidence
+1880,manipulação de dados,—,—,0.06,no_match,insufficient_confidence
+1881,CI pipeline,65,CI/CD,1.0,matched,ai_rerank
+1882,extração de dados,52,ETL e ELT,0.62,matched,ai_rerank
+1883,infrastructure as code,69,Infrastructure as Code,1.0,matched,fuzzy_match
+1884,estatística,—,—,0.49,no_match,insufficient_confidence
+1885,tech lead,25,Liderança Técnica,1.0,matched,ai_rerank
+1886,llm development langchain,83,LangChain,1.0,matched,ai_rerank
+1887,insights communication,2,Comunicação Assertiva,0.97,matched,ai_rerank
+1888,pivot tables,—,—,0.08,no_match,insufficient_confidence
+1889,conflict management,3,Resolução de Conflitos,0.86,matched,ai_rerank
+1890,cloud data warehouse,56,Data Warehouse,1.0,matched,fuzzy_match
+1891,direção técnica,25,Liderança Técnica,0.77,matched,ai_rerank
+1892,prototyping,—,—,0.4,no_match,insufficient_confidence
+1893,revisão de código,72,Versionamento de Código,0.86,matched,ai_rerank
+1894,RAG,—,—,0.42,no_match,insufficient_confidence
+1895,identificar causas raiz,7,Resolução de Problemas,0.98,matched,ai_rerank
+1896,creative problem solving,—,—,0.41,no_match,insufficient_confidence
+1897,EVP,—,—,0.32,no_match,insufficient_confidence
+1898,gestão de capital humano,—,—,0.14,no_match,insufficient_confidence
+1899,planejamento de longo prazo,27,Planejamento Estratégico,0.98,matched,ai_rerank
+1900,organizational design,—,—,0.44,no_match,insufficient_confidence
+1901,inovação,29,Inovação,1.0,matched,fuzzy_match
+1902,LLM tracing,85,Langfuse,0.93,matched,ai_rerank
+1903,analytical databases,39,Análise de Dados,0.61,matched,ai_rerank
+1904,scope management,—,—,0.16,no_match,insufficient_confidence
+1905,lambda,—,—,0.08,no_match,insufficient_confidence
+1906,descriptive analytics,—,—,0.39,no_match,insufficient_confidence
+1907,Postgres,58,PostgreSQL,0.95,matched,ai_rerank
+1908,regulatory knowledge,94,Compliance e Regulação,0.98,matched,ai_rerank
+1909,facilitação de grupos,20,Facilitação,1.0,matched,ai_rerank
+1910,Python,31,Python,1.0,matched,fuzzy_match
+1911,quantitative thinking,—,—,0.08,no_match,insufficient_confidence
+1912,user stories,—,—,0.1,no_match,insufficient_confidence
+1913,MongoDB,59,MongoDB,1.0,matched,fuzzy_match
+1914,escrever SQL,32,SQL,1.0,matched,ai_rerank
+1915,independent execution,11,Autogestão,0.78,matched,ai_rerank
+1916,python fastapi,62,FastAPI,1.0,matched,ai_rerank
+1917,serviços AWS,66,AWS,1.0,matched,ai_rerank
+1918,text generation,42,Processamento de Linguagem Natural,0.69,matched,ai_rerank
+1919,experiment tracking,50,Experimentação e Testes A/B,0.98,matched,ai_rerank
+1920,data warehouse,56,Data Warehouse,1.0,matched,fuzzy_match
+1921,SQL queries,32,SQL,0.85,matched,ai_rerank
+1922,unsupervised learning,40,Machine Learning,0.92,matched,ai_rerank
+1923,productivity,—,—,0.35,no_match,insufficient_confidence
+1924,analytical orientation,—,—,0.31,no_match,insufficient_confidence
+1925,usar dados para decidir,15,Orientação a Dados,0.62,matched,ai_rerank
+1926,self-management,11,Autogestão,0.59,matched,ai_rerank
+1927,talent management,—,—,0.11,no_match,insufficient_confidence
+1928,gerenciamento de pessoas,1,Gestão de Pessoas,1.0,matched,ai_rerank
+1929,pg,—,—,0.17,no_match,insufficient_confidence
+1930,resilience,—,—,0.47,no_match,insufficient_confidence
+1931,testes multivariados,—,—,0.06,no_match,insufficient_confidence
+1932,spreadsheet skills,—,—,0.12,no_match,insufficient_confidence
+1933,troubleshooting,7,Resolução de Problemas,0.99,matched,ai_rerank
+1934,usabilidade,—,—,0.11,no_match,insufficient_confidence
+1935,reconhecimento óptico de caracteres,—,—,0.0,no_match,insufficient_confidence
+1936,advanced excel,78,Excel Avançado,1.0,matched,ai_rerank
+1937,visão computacional,48,Visão Computacional,1.0,matched,fuzzy_match
+1938,organizational design,—,—,0.44,no_match,insufficient_confidence
+1939,application performance monitoring,—,—,0.2,no_match,insufficient_confidence
+1940,redshift,—,—,0.25,no_match,insufficient_confidence
+1941,HDFS,—,—,0.1,no_match,insufficient_confidence
+1942,team spirit,—,—,0.05,no_match,insufficient_confidence
+1943,criação de variáveis,45,Engenharia de Features,0.84,matched,ai_rerank
+1944,online experiments,—,—,0.1,no_match,insufficient_confidence
+1945,project oversight,—,—,0.25,no_match,insufficient_confidence
+1946,análise de vídeo,48,Visão Computacional,0.69,matched,ai_rerank
+1947,Scala,37,Scala,1.0,matched,fuzzy_match
+1948,system monitoring,70,Monitoramento e Observabilidade,0.98,matched,ai_rerank
+1949,product ownership,—,—,0.23,no_match,insufficient_confidence
+1950,performance cycle,97,Gestão de Desempenho,0.95,matched,ai_rerank
+1951,employer reputation,99,Employer Branding,0.69,matched,ai_rerank
+1952,DRE,—,—,0.18,no_match,insufficient_confidence
+1953,technical direction,25,Liderança Técnica,0.98,matched,ai_rerank
+1954,functional scala,—,—,0.29,no_match,insufficient_confidence
+1955,Hugging Face,86,Hugging Face,1.0,matched,fuzzy_match
+1956,resiliência,—,—,0.21,no_match,insufficient_confidence
+1957,design centrado no humano,—,—,0.06,no_match,insufficient_confidence
+1958,organizational design,—,—,0.44,no_match,insufficient_confidence
+1959,pensamento crítico,6,Pensamento Crítico,1.0,matched,fuzzy_match
+1960,Langfuse,85,Langfuse,1.0,matched,fuzzy_match
+1961,clear writing,23,Escrita Profissional,0.85,matched,ai_rerank
+1962,command line scripting,—,—,0.06,no_match,insufficient_confidence
+1963,bigquery,—,—,0.23,no_match,insufficient_confidence
+1964,versatilidade,—,—,0.14,no_match,insufficient_confidence
+1965,data visualization,—,—,0.46,no_match,insufficient_confidence
+1966,avaliação de LLMs em produção,85,Langfuse,0.97,matched,ai_rerank
+1967,banco NoSQL,59,MongoDB,0.98,matched,ai_rerank
+1968,self-starter,—,—,0.22,no_match,insufficient_confidence
+1969,análise estatística,33,R,0.53,matched,ai_rerank
+1970,integração de dados,—,—,0.08,no_match,insufficient_confidence
+1971,building APIs,61,Desenvolvimento de APIs,0.98,matched,ai_rerank
+1972,huggingface hub,86,Hugging Face,0.99,matched,ai_rerank
+1973,análise estatística,33,R,0.53,matched,ai_rerank
+1974,visão estratégica de produto,14,Visão de Produto,0.98,matched,ai_rerank
+1975,negociar contratos,5,Negociação,0.58,matched,ai_rerank
+1976,application monitoring,66,AWS,0.89,matched,ai_rerank
+1977,gestão de times,10,Gestão do Tempo,0.99,matched,ai_rerank
+1978,data infrastructure,—,—,0.4,no_match,insufficient_confidence
+1979,LLM,85,Langfuse,0.61,matched,ai_rerank
+1980,KPI,91,Análise Financeira,0.5,matched,ai_rerank
+1981,carga de dados,—,—,0.34,no_match,insufficient_confidence
+1982,amazon web services,66,AWS,1.0,matched,ai_rerank
+1983,prompt tracking,85,Langfuse,0.79,matched,ai_rerank
+1984,análise descritiva,—,—,0.21,no_match,insufficient_confidence
+1985,experimentação e testes A/B,50,Experimentação e Testes A/B,1.0,matched,fuzzy_match
+1986,organização pessoal,1,Gestão de Pessoas,0.64,matched,ai_rerank
+1987,apache airflow,—,—,0.37,no_match,insufficient_confidence
+1988,direção técnica,25,Liderança Técnica,0.77,matched,ai_rerank
+1989,langchain chains,83,LangChain,0.99,matched,ai_rerank
+1990,coaching profissional,—,—,0.24,no_match,insufficient_confidence
+1991,espírito de equipe,—,—,0.09,no_match,insufficient_confidence
+1992,queries de banco de dados,—,—,0.38,no_match,insufficient_confidence
+1993,design research,88,UX Research,0.98,matched,ai_rerank
+1994,habilidades de negociação,5,Negociação,1.0,matched,ai_rerank
+1995,stakeholder alignment,26,Gestão de Stakeholders,0.86,matched,ai_rerank
+1996,managing expectations,—,—,0.41,no_match,insufficient_confidence
+1997,usability testing,—,—,0.25,no_match,insufficient_confidence
+1998,AWS,66,AWS,1.0,matched,fuzzy_match
+1999,Terraform,—,—,0.31,no_match,insufficient_confidence
+2000,autonomy,11,Autogestão,0.91,matched,ai_rerank
+2001,clean architecture,—,—,0.05,no_match,insufficient_confidence
+2002,opportunity spotting,—,—,0.08,no_match,insufficient_confidence
+2003,business modeling,92,Modelagem Financeira,0.94,matched,ai_rerank
+2004,github,72,Versionamento de Código,0.61,matched,ai_rerank
+2005,translating data to story,21,Storytelling com Dados,0.8,matched,ai_rerank
+2006,parceria no trabalho,13,Colaboração,0.74,matched,ai_rerank
+2007,CloudFormation,69,Infrastructure as Code,0.71,matched,ai_rerank
+2008,ML flow,84,MLflow,1.0,matched,ai_rerank
+2009,data narrative,21,Storytelling com Dados,0.99,matched,ai_rerank
+2010,escrita técnica,—,—,0.21,no_match,insufficient_confidence
+2011,document store,56,Data Warehouse,0.93,matched,ai_rerank
+2012,python langchain,—,—,0.46,no_match,insufficient_confidence
+2013,data engineering,51,Engenharia de Dados,1.0,matched,ai_rerank
+2014,efetividade organizacional,—,—,0.19,no_match,insufficient_confidence
+2015,dados em tempo real,54,Streaming de Dados,0.89,matched,ai_rerank
+2016,Power BI,76,Power BI,1.0,matched,fuzzy_match
+2017,visão de produto,14,Visão de Produto,1.0,matched,fuzzy_match
+2018,tomada de decisão,8,Tomada de Decisão,1.0,matched,fuzzy_match
+2019,priority management,87,Gestão de Produto,0.7,matched,ai_rerank
+2020,tableau dashboards,77,Tableau,0.99,matched,ai_rerank
+2021,bargaining,—,—,0.43,no_match,insufficient_confidence
+2022,empathy,—,—,0.25,no_match,insufficient_confidence
+2023,R,33,R,1.0,matched,fuzzy_match
+2024,data oriented,15,Orientação a Dados,0.99,matched,ai_rerank
+2025,professional writing,23,Escrita Profissional,1.0,matched,ai_rerank
+2026,user stories,—,—,0.1,no_match,insufficient_confidence
+2027,sql avançado,58,PostgreSQL,0.82,matched,ai_rerank
+2028,docker compose,63,Docker,0.64,matched,ai_rerank
+2029,user focus,16,Foco no Cliente,1.0,matched,ai_rerank
+2030,data validation,—,—,0.2,no_match,insufficient_confidence
+2031,habilidades de negociação,5,Negociação,1.0,matched,ai_rerank
+2032,shell automation,38,Bash e Shell Script,0.62,matched,ai_rerank
+2033,monitoring,70,Monitoramento e Observabilidade,0.93,matched,ai_rerank
+2034,critical thinking,6,Pensamento Crítico,1.0,matched,ai_rerank
+2035,end-to-end tests,73,Testes Automatizados,0.66,matched,ai_rerank
+2036,context switching,—,—,0.07,no_match,insufficient_confidence
+2037,escrever SQL,32,SQL,1.0,matched,ai_rerank
+2038,python 3,31,Python,1.0,matched,fuzzy_match
+2039,julgamento sólido,—,—,0.06,no_match,insufficient_confidence
+2040,feature creation,45,Engenharia de Features,0.91,matched,ai_rerank
+2041,java developer,34,Java,1.0,matched,ai_rerank
+2042,automação de build,65,CI/CD,0.61,matched,ai_rerank
+2043,versionamento de código,72,Versionamento de Código,1.0,matched,fuzzy_match
+2044,prototyping,—,—,0.4,no_match,insufficient_confidence
+2045,redis,60,Redis,1.0,matched,fuzzy_match
+2046,Bash,38,Bash e Shell Script,0.9,matched,ai_rerank
+2047,design de API,—,—,0.33,no_match,insufficient_confidence
+2048,business analytics,—,—,0.35,no_match,insufficient_confidence
+2049,liderança de engenharia,25,Liderança Técnica,0.99,matched,ai_rerank
+2050,criação de variáveis,45,Engenharia de Features,0.84,matched,ai_rerank
+2051,strategic planning,27,Planejamento Estratégico,1.0,matched,ai_rerank
+2052,análise com SQL,32,SQL,0.89,matched,ai_rerank
+2053,neural nets,—,—,0.39,no_match,insufficient_confidence
+2054,java development,34,Java,1.0,matched,ai_rerank
+2055,strategic negotiation,5,Negociação,0.99,matched,ai_rerank
+2056,semantic search,—,—,0.37,no_match,insufficient_confidence
+2057,LSTM,—,—,0.42,no_match,insufficient_confidence
+2058,orientar pessoas,24,Mentoria,0.83,matched,ai_rerank
+2059,java backend,34,Java,1.0,matched,ai_rerank
+2060,encryption,—,—,0.27,no_match,insufficient_confidence
+2061,python avançado,—,—,0.29,no_match,insufficient_confidence
+2062,planejamento empresarial,—,—,0.44,no_match,insufficient_confidence
+2063,testes multivariados,—,—,0.06,no_match,insufficient_confidence
+2064,group facilitation,20,Facilitação,1.0,matched,ai_rerank
+2065,cache distribuído,—,—,0.03,no_match,insufficient_confidence
+2066,spreadsheet skills,—,—,0.12,no_match,insufficient_confidence
+2067,soluções inovadoras,—,—,0.4,no_match,insufficient_confidence
+2068,financial projections,92,Modelagem Financeira,0.88,matched,ai_rerank
+2069,product sense,14,Visão de Produto,0.92,matched,ai_rerank
+2070,mlflow tracking,84,MLflow,1.0,matched,ai_rerank
+2071,KPIs,—,—,0.35,no_match,insufficient_confidence
+2072,cultura e estrutura organizacional,100,Cultura Organizacional,1.0,matched,ai_rerank
+2073,conformidade,94,Compliance e Regulação,0.88,matched,ai_rerank
+2074,performance cycle,97,Gestão de Desempenho,0.95,matched,ai_rerank
+2075,creative problem solving design,—,—,0.46,no_match,insufficient_confidence
+2076,image processing,—,—,0.1,no_match,insufficient_confidence
+2077,cultura e clima,—,—,0.02,no_match,insufficient_confidence
+2078,análise de demonstrativos,91,Análise Financeira,0.6,matched,ai_rerank
+2079,critical mindset,6,Pensamento Crítico,1.0,matched,ai_rerank
+2080,keras,—,—,0.17,no_match,insufficient_confidence
+2081,spark dataframes,81,Spark,0.95,matched,ai_rerank
+2082,JAVA,34,Java,1.0,matched,fuzzy_match
+2083,redes neurais,41,Deep Learning,0.54,matched,ai_rerank
+2084,cultura e clima,—,—,0.02,no_match,insufficient_confidence
+2085,AB tests,—,—,0.35,no_match,insufficient_confidence
+2086,python developer,31,Python,1.0,matched,ai_rerank
+2087,capacidade de aprendizagem,98,Treinamento e Desenvolvimento,0.95,matched,ai_rerank
+2088,semantic search,—,—,0.37,no_match,insufficient_confidence
+2089,trabalhar sem supervisão,—,—,0.32,no_match,insufficient_confidence
+2090,thinking critically,6,Pensamento Crítico,1.0,matched,ai_rerank
+2091,data integrity,—,—,0.3,no_match,insufficient_confidence
+2092,proactiveness,9,Adaptabilidade,0.52,matched,ai_rerank
+2093,JavaScript,35,JavaScript,1.0,matched,fuzzy_match
+2094,visualização de dados,—,—,0.39,no_match,insufficient_confidence
+2095,spark SQL,81,Spark,0.84,matched,ai_rerank
+2096,modelagem estatística,49,Estatística Aplicada,0.66,matched,ai_rerank
+2097,assumir riscos,30,Empreendedorismo,0.69,matched,ai_rerank
+2098,data transformation para modelos,—,—,0.28,no_match,insufficient_confidence
+2099,performance cycle,97,Gestão de Desempenho,0.95,matched,ai_rerank
+2100,pensamento analítico,6,Pensamento Crítico,0.74,matched,ai_rerank
+2101,desenvolvimento de APIs,61,Desenvolvimento de APIs,1.0,matched,fuzzy_match
+2102,R data science,33,R,0.94,matched,ai_rerank
+2103,AB tests,—,—,0.35,no_match,insufficient_confidence
+2104,sklearn,—,—,0.19,no_match,insufficient_confidence
+2105,negotiation skills,5,Negociação,0.99,matched,ai_rerank
+2106,gerenciamento de projetos,18,Gestão de Projetos,1.0,matched,ai_rerank
+2107,data warehousing,56,Data Warehouse,0.99,matched,ai_rerank
+2108,cloud GCP,67,Google Cloud Platform,0.99,matched,ai_rerank
+2109,GDPR,—,—,0.27,no_match,insufficient_confidence
+2110,tableau public,—,—,0.06,no_match,insufficient_confidence
+2111,advanced excel,78,Excel Avançado,1.0,matched,ai_rerank
+2112,disruptive thinking,—,—,0.04,no_match,insufficient_confidence
+2113,comunicação escrita,21,Storytelling com Dados,0.65,matched,ai_rerank
+2114,gestão de backlog,—,—,0.01,no_match,insufficient_confidence
+2115,atração de talentos,99,Employer Branding,0.79,matched,ai_rerank
+2116,negotiating disagreements,3,Resolução de Conflitos,0.97,matched,ai_rerank
+2117,UX research,88,UX Research,1.0,matched,fuzzy_match
+2118,microsoft BI,76,Power BI,0.89,matched,ai_rerank
+2119,usabilidade,—,—,0.11,no_match,insufficient_confidence
+2120,aplicações com LLM,83,LangChain,0.97,matched,ai_rerank
+2121,prefect,53,Orquestração de Pipelines,0.66,matched,ai_rerank
+2122,design sprint,—,—,0.04,no_match,insufficient_confidence
+2123,BI dashboards,76,Power BI,1.0,matched,ai_rerank
+2124,LLM pipelines,85,Langfuse,1.0,matched,ai_rerank
+2125,data analytics,39,Análise de Dados,1.0,matched,ai_rerank
+2126,langchain development,83,LangChain,1.0,matched,ai_rerank
+2127,lidar com mudanças,—,—,0.1,no_match,insufficient_confidence
+2128,advanced python,—,—,0.42,no_match,insufficient_confidence
+2129,desenvolvimento java,34,Java,1.0,matched,ai_rerank
+2130,negotiation tactics,—,—,0.34,no_match,insufficient_confidence
+2131,google cloud services,67,Google Cloud Platform,1.0,matched,ai_rerank
+2132,R data science,33,R,0.94,matched,ai_rerank
+2133,python3,—,—,0.38,no_match,insufficient_confidence
+2134,diagnóstico de problemas,7,Resolução de Problemas,0.52,matched,ai_rerank
+2135,integridade de dados,—,—,0.08,no_match,insufficient_confidence
+2136,tomar decisões,8,Tomada de Decisão,1.0,matched,ai_rerank
+2137,experiment tracking,50,Experimentação e Testes A/B,0.98,matched,ai_rerank
+2138,code review,—,—,0.5,no_match,insufficient_confidence
+2139,Design Thinking,89,Design Thinking,1.0,matched,fuzzy_match
+2140,CV,23,Escrita Profissional,0.57,matched,ai_rerank
+2141,SQL writing,32,SQL,1.0,matched,ai_rerank
+2142,programas de aprendizado,98,Treinamento e Desenvolvimento,0.84,matched,ai_rerank
+2143,redis queue,—,—,0.19,no_match,insufficient_confidence
+2144,cultura de time,—,—,0.02,no_match,insufficient_confidence
+2145,presenting ideas,—,—,0.17,no_match,insufficient_confidence
+2146,image classification,48,Visão Computacional,0.55,matched,ai_rerank
+2147,innovation,29,Inovação,1.0,matched,ai_rerank
+2148,stakeholder engagement,26,Gestão de Stakeholders,0.94,matched,ai_rerank
+2149,normalização de dados,—,—,0.06,no_match,insufficient_confidence
+2150,business writing,23,Escrita Profissional,0.78,matched,ai_rerank
+2151,learning and development,98,Treinamento e Desenvolvimento,1.0,matched,ai_rerank
+2152,emotional maturity,—,—,0.05,no_match,insufficient_confidence
+2153,DBT,80,dbt,1.0,matched,fuzzy_match
+2154,BDD,80,dbt,0.96,matched,ai_rerank
+2155,feedback de desempenho,97,Gestão de Desempenho,0.82,matched,ai_rerank
+2156,model fairness,46,Avaliação de Modelos,0.93,matched,ai_rerank
+2157,task prioritization,10,Gestão do Tempo,0.79,matched,ai_rerank
+2158,talent acquisition,—,—,0.22,no_match,insufficient_confidence
+2159,adaptação a mudanças,9,Adaptabilidade,0.99,matched,ai_rerank
+2160,mapa de empatia,—,—,0.02,no_match,insufficient_confidence
+2161,registro de modelos,—,—,0.13,no_match,insufficient_confidence
+2162,employee development,—,—,0.43,no_match,insufficient_confidence
+2163,google cloud services,67,Google Cloud Platform,1.0,matched,ai_rerank
+2164,ownership mindset,—,—,0.48,no_match,insufficient_confidence
+2165,orientar pessoas,24,Mentoria,0.83,matched,ai_rerank
+2166,documentação,—,—,0.12,no_match,insufficient_confidence
+2167,comunicação clara,2,Comunicação Assertiva,0.89,matched,ai_rerank
+2168,unit tests,73,Testes Automatizados,0.91,matched,ai_rerank
+2169,colaboração interfuncional,—,—,0.08,no_match,insufficient_confidence
+2170,risco operacional,93,Gestão de Riscos,0.87,matched,ai_rerank
+2171,GitHub,72,Versionamento de Código,0.61,matched,ai_rerank
+2172,fastapi development,62,FastAPI,1.0,matched,ai_rerank
+2173,ajustar abordagens,9,Adaptabilidade,0.99,matched,ai_rerank
+2174,modelagem financeira,92,Modelagem Financeira,1.0,matched,fuzzy_match
+2175,empreendedorismo,30,Empreendedorismo,1.0,matched,fuzzy_match
+2176,in-memory database,—,—,0.08,no_match,insufficient_confidence
+2177,frontend javascript,35,JavaScript,1.0,matched,ai_rerank
+2178,roadmap de produto,87,Gestão de Produto,0.83,matched,ai_rerank
+2179,visão estratégica,17,Pensamento Estratégico,0.91,matched,ai_rerank
+2180,scrum,—,—,0.24,no_match,insufficient_confidence
+2181,self-awareness,—,—,0.33,no_match,insufficient_confidence
+2182,data exploration,39,Análise de Dados,0.99,matched,ai_rerank
+2183,engenharia de features,45,Engenharia de Features,1.0,matched,fuzzy_match
+2184,image recognition,99,Employer Branding,0.55,matched,ai_rerank
+2185,langfuse,85,Langfuse,1.0,matched,fuzzy_match
+2186,facilitar workshops,20,Facilitação,0.98,matched,ai_rerank
+2187,product ownership,—,—,0.23,no_match,insufficient_confidence
+2188,bash scripting,38,Bash e Shell Script,1.0,matched,ai_rerank
+2189,langchain,83,LangChain,1.0,matched,fuzzy_match
+2190,mentalidade de crescimento,—,—,0.36,no_match,insufficient_confidence
+2191,fine-tuning huggingface,86,Hugging Face,1.0,matched,ai_rerank
+2192,unix scripting,38,Bash e Shell Script,1.0,matched,ai_rerank
+2193,docker,63,Docker,1.0,matched,fuzzy_match
+2194,llm development langchain,83,LangChain,1.0,matched,ai_rerank
+2195,modelos de ML,84,MLflow,0.57,matched,ai_rerank
+2196,arquitetura de software,74,Arquitetura de Software,1.0,matched,fuzzy_match
+2197,liderança de engenharia,25,Liderança Técnica,0.99,matched,ai_rerank
+2198,conduzir dinâmicas,20,Facilitação,0.94,matched,ai_rerank
+2199,sql avançado,58,PostgreSQL,0.82,matched,ai_rerank
+2200,API com python fastapi,62,FastAPI,1.0,matched,ai_rerank
+2201,statistical analysis,39,Análise de Dados,0.72,matched,ai_rerank
+2202,technical team guidance,25,Liderança Técnica,1.0,matched,ai_rerank
+2203,long-term planning,27,Planejamento Estratégico,0.96,matched,ai_rerank
+2204,espírito de equipe,—,—,0.09,no_match,insufficient_confidence
+2205,modelagem de dados,55,Modelagem de Dados,1.0,matched,fuzzy_match
+2206,roadmap estratégico,—,—,0.06,no_match,insufficient_confidence
+2207,escrita profissional,23,Escrita Profissional,1.0,matched,fuzzy_match
+2208,data engineer,51,Engenharia de Dados,0.99,matched,ai_rerank
+2209,IaC,—,—,0.49,no_match,insufficient_confidence
+2210,inovar,—,—,0.2,no_match,insufficient_confidence
+2211,change management,28,Gestão de Mudanças,1.0,matched,ai_rerank
+2212,modelagem financeira,92,Modelagem Financeira,1.0,matched,fuzzy_match
+2213,langchain memory,83,LangChain,0.99,matched,ai_rerank
+2214,architectural decisions,25,Liderança Técnica,0.64,matched,ai_rerank
+2215,gerenciamento de riscos,93,Gestão de Riscos,1.0,matched,ai_rerank
+2216,goals and key results,—,—,0.44,no_match,insufficient_confidence
+2217,statistical inference,49,Estatística Aplicada,0.67,matched,ai_rerank
+2218,creative innovation,—,—,0.3,no_match,insufficient_confidence
+2219,extração de dados,52,ETL e ELT,0.62,matched,ai_rerank
+2220,gestão de colaboradores,1,Gestão de Pessoas,0.77,matched,ai_rerank
+2221,adaptive mindset,9,Adaptabilidade,0.57,matched,ai_rerank
+2222,scala functional programming,37,Scala,0.98,matched,ai_rerank
+2223,technical direction,25,Liderança Técnica,0.98,matched,ai_rerank
+2224,data-driven,15,Orientação a Dados,0.69,matched,ai_rerank
+2225,redshift,—,—,0.25,no_match,insufficient_confidence
+2226,PowerBI,76,Power BI,1.0,matched,ai_rerank
+2227,conectar estratégia e execução,—,—,0.44,no_match,insufficient_confidence
+2228,backend API,—,—,0.4,no_match,insufficient_confidence
+2229,customer success mindset,—,—,0.27,no_match,insufficient_confidence
+2230,tableau development,77,Tableau,0.93,matched,ai_rerank
+2231,test coverage,—,—,0.05,no_match,insufficient_confidence
+2232,clarity in communication,2,Comunicação Assertiva,0.7,matched,ai_rerank
+2233,critical analysis,6,Pensamento Crítico,0.99,matched,ai_rerank
+2234,convolutional neural networks,—,—,0.07,no_match,insufficient_confidence
+2235,pipelines de dados,51,Engenharia de Dados,0.97,matched,ai_rerank
+2236,GCP services,67,Google Cloud Platform,1.0,matched,ai_rerank
+2237,monitoring,70,Monitoramento e Observabilidade,0.93,matched,ai_rerank
+2238,strategic thinking,17,Pensamento Estratégico,1.0,matched,ai_rerank
+2239,vendor negotiation,—,—,0.08,no_match,insufficient_confidence
+2240,prototipagem,—,—,0.27,no_match,insufficient_confidence
+2241,empathy mapping,—,—,0.02,no_match,insufficient_confidence
+2242,DL,—,—,0.16,no_match,insufficient_confidence
+2243,service mesh,—,—,0.23,no_match,insufficient_confidence
+2244,treinar modelos,40,Machine Learning,0.75,matched,ai_rerank
+2245,software architecture,74,Arquitetura de Software,1.0,matched,ai_rerank
+2246,Docker,63,Docker,1.0,matched,fuzzy_match
+2247,trabalho conjunto,—,—,0.27,no_match,insufficient_confidence
+2248,ML,—,—,0.42,no_match,insufficient_confidence
+2249,change management,28,Gestão de Mudanças,1.0,matched,ai_rerank
+2250,organizational design,—,—,0.44,no_match,insufficient_confidence
+2251,forecasting,—,—,0.08,no_match,insufficient_confidence
+2252,visão computacional,48,Visão Computacional,1.0,matched,fuzzy_match
+2253,risk management,93,Gestão de Riscos,1.0,matched,ai_rerank
+2254,comunicar dados,21,Storytelling com Dados,0.99,matched,ai_rerank
+2255,Excel,78,Excel Avançado,0.51,matched,ai_rerank
+2256,financial models,92,Modelagem Financeira,1.0,matched,ai_rerank
+2257,dimensional modeling,55,Modelagem de Dados,0.84,matched,ai_rerank
+2258,langfuse,85,Langfuse,1.0,matched,fuzzy_match
+2259,streaming de dados,54,Streaming de Dados,1.0,matched,fuzzy_match
+2260,exploratory analysis,39,Análise de Dados,0.78,matched,ai_rerank
+2261,Microsoft Excel,78,Excel Avançado,0.95,matched,ai_rerank
+2262,liderança de equipes,1,Gestão de Pessoas,0.95,matched,ai_rerank
+2263,apresentar ideias,—,—,0.17,no_match,insufficient_confidence
+2264,setting strategy,—,—,0.1,no_match,insufficient_confidence
+2265,trabalho autônomo,—,—,0.27,no_match,insufficient_confidence
+2266,bargaining,—,—,0.43,no_match,insufficient_confidence
+2267,microservices,75,Microsserviços,1.0,matched,ai_rerank
+2268,GDPR compliance,—,—,0.06,no_match,insufficient_confidence
+2269,aplicações com LLM,83,LangChain,0.97,matched,ai_rerank
+2270,resistência a mudanças,28,Gestão de Mudanças,0.52,matched,ai_rerank
+2271,análise de fluxo de caixa,—,—,0.01,no_match,insufficient_confidence
+2272,gestão de pessoas,1,Gestão de Pessoas,1.0,matched,fuzzy_match
+2273,entrepreneurship,30,Empreendedorismo,1.0,matched,ai_rerank
+2274,redis cache,60,Redis,1.0,matched,ai_rerank
+2275,transformação de dados,52,ETL e ELT,0.59,matched,ai_rerank
+2276,big data hadoop,82,Hadoop,0.92,matched,ai_rerank
+2277,gerenciar mudanças,28,Gestão de Mudanças,1.0,matched,ai_rerank
+2278,decisões baseadas em dados,15,Orientação a Dados,0.97,matched,ai_rerank
+2279,goals and key results,—,—,0.44,no_match,insufficient_confidence
+2280,encryption,—,—,0.27,no_match,insufficient_confidence
+2281,self-awareness,—,—,0.33,no_match,insufficient_confidence
+2282,cli scripting,—,—,0.05,no_match,insufficient_confidence
+2283,conduzir negociações,5,Negociação,1.0,matched,ai_rerank
+2284,LookML,—,—,0.13,no_match,insufficient_confidence
+2285,monitoramento de LLM,85,Langfuse,1.0,matched,ai_rerank
+2286,execução de projetos,18,Gestão de Projetos,0.89,matched,ai_rerank
+2287,pensamento disruptivo,—,—,0.02,no_match,insufficient_confidence
+2288,snowflake,—,—,0.18,no_match,insufficient_confidence
+2289,proposta de valor ao colaborador,—,—,0.01,no_match,insufficient_confidence
+2290,performance management,97,Gestão de Desempenho,1.0,matched,ai_rerank
+2291,intermediate SQL,—,—,0.08,no_match,insufficient_confidence
+2292,bash automation,38,Bash e Shell Script,0.92,matched,ai_rerank
+2293,PSQL,—,—,0.39,no_match,insufficient_confidence
+2294,gestão de desempenho,97,Gestão de Desempenho,1.0,matched,fuzzy_match
+2295,OCR,90,OKRs,0.64,matched,ai_rerank
+2296,alinhamento de stakeholders,26,Gestão de Stakeholders,0.81,matched,ai_rerank
+2297,negociação comercial,—,—,0.36,no_match,insufficient_confidence
+2298,cultura corporativa,100,Cultura Organizacional,1.0,matched,ai_rerank
+2299,performance review,97,Gestão de Desempenho,0.92,matched,ai_rerank
+2300,in-memory database,—,—,0.08,no_match,insufficient_confidence
+2301,scala spark,—,—,0.41,no_match,insufficient_confidence
+2302,power bi development,76,Power BI,1.0,matched,ai_rerank
+2303,software architecture,74,Arquitetura de Software,1.0,matched,ai_rerank
+2304,infrastructure automation,—,—,0.14,no_match,insufficient_confidence
+2305,Terraform,—,—,0.31,no_match,insufficient_confidence
+2306,collaborative work,13,Colaboração,0.98,matched,ai_rerank
+2307,cenários financeiros,92,Modelagem Financeira,0.54,matched,ai_rerank
+2308,python langchain,—,—,0.46,no_match,insufficient_confidence
+2309,acompanhamento de projetos,18,Gestão de Projetos,0.8,matched,ai_rerank
+2310,data modeling,55,Modelagem de Dados,1.0,matched,ai_rerank
+2311,tensorflow,—,—,0.08,no_match,insufficient_confidence
+2312,scrum master,—,—,0.05,no_match,insufficient_confidence
+2313,alertas,—,—,0.17,no_match,insufficient_confidence
+2314,identificar oportunidades,30,Empreendedorismo,0.89,matched,ai_rerank
+2315,planejamento de longo prazo,27,Planejamento Estratégico,0.98,matched,ai_rerank
+2316,classificação de imagens,—,—,0.41,no_match,insufficient_confidence
+2317,DBT,80,dbt,1.0,matched,fuzzy_match
+2318,automated testing,73,Testes Automatizados,1.0,matched,ai_rerank
+2319,data transformation,80,dbt,0.74,matched,ai_rerank
+2320,python data,—,—,0.21,no_match,insufficient_confidence
+2321,S3,—,—,0.15,no_match,insufficient_confidence
+2322,aws services,66,AWS,1.0,matched,ai_rerank
+2323,code review leadership,—,—,0.01,no_match,insufficient_confidence
+2324,azure AI,68,Azure,0.91,matched,ai_rerank
+2325,js,—,—,0.32,no_match,insufficient_confidence
+2326,python data,—,—,0.21,no_match,insufficient_confidence
+2327,semantic similarity,44,Embeddings e Busca Vetorial,0.52,matched,ai_rerank
+2328,conduzir negociações,5,Negociação,1.0,matched,ai_rerank
+2329,mentorship,24,Mentoria,0.95,matched,ai_rerank
+2330,dockerfile,63,Docker,0.82,matched,ai_rerank
+2331,estratégia de negócios,17,Pensamento Estratégico,0.53,matched,ai_rerank
+2332,spark ML,—,—,0.39,no_match,insufficient_confidence
+2333,operational risk,93,Gestão de Riscos,0.89,matched,ai_rerank
+2334,employer branding,99,Employer Branding,1.0,matched,fuzzy_match
+2335,strategic planning,27,Planejamento Estratégico,1.0,matched,ai_rerank
+2336,valores organizacionais,—,—,0.27,no_match,insufficient_confidence
+2337,SQL postgres,58,PostgreSQL,1.0,matched,ai_rerank
+2338,expressing ideas clearly,2,Comunicação Assertiva,0.99,matched,ai_rerank
+2339,culture building,—,—,0.13,no_match,insufficient_confidence
+2340,cultura corporativa,100,Cultura Organizacional,1.0,matched,ai_rerank
+2341,supporting growth,24,Mentoria,0.88,matched,ai_rerank
+2342,javascript frontend,35,JavaScript,1.0,matched,ai_rerank
+2343,julgamento crítico,—,—,0.1,no_match,insufficient_confidence
+2344,construção de pipelines,51,Engenharia de Dados,0.94,matched,ai_rerank
+2345,performance cycle,97,Gestão de Desempenho,0.95,matched,ai_rerank
+2346,capacitação,—,—,0.48,no_match,insufficient_confidence
+2347,advanced postgresql,58,PostgreSQL,1.0,matched,ai_rerank
+2348,cooperação,13,Colaboração,0.98,matched,ai_rerank
+2349,liderança em mudanças,—,—,0.45,no_match,insufficient_confidence
+2350,problem solving,3,Resolução de Conflitos,0.92,matched,ai_rerank
+2351,TDD,—,—,0.41,no_match,insufficient_confidence
+2352,queries de banco de dados,—,—,0.38,no_match,insufficient_confidence
+2353,spark dataframes,81,Spark,0.95,matched,ai_rerank
+2354,bash e shell,38,Bash e Shell Script,1.0,matched,ai_rerank
+2355,testes de hipótese,50,Experimentação e Testes A/B,0.82,matched,ai_rerank
+2356,calibração de performance,—,—,0.02,no_match,insufficient_confidence
+2357,transformação de dados,52,ETL e ELT,0.59,matched,ai_rerank
+2358,literacia de dados,—,—,0.11,no_match,insufficient_confidence
+2359,proactiveness,9,Adaptabilidade,0.52,matched,ai_rerank
+2360,grafana,—,—,0.14,no_match,insufficient_confidence
+2361,conflict handling,3,Resolução de Conflitos,0.99,matched,ai_rerank
+2362,regulatory knowledge,94,Compliance e Regulação,0.98,matched,ai_rerank
+2363,model assessment,46,Avaliação de Modelos,1.0,matched,ai_rerank
+2364,apache kafka,—,—,0.18,no_match,insufficient_confidence
+2365,compliance,94,Compliance e Regulação,0.99,matched,ai_rerank
+2366,autonomy,11,Autogestão,0.91,matched,ai_rerank
+2367,ML,—,—,0.42,no_match,insufficient_confidence
+2368,empreendedorismo,30,Empreendedorismo,1.0,matched,fuzzy_match
+2369,sprint planning,—,—,0.08,no_match,insufficient_confidence
+2370,excel VBA,78,Excel Avançado,0.76,matched,ai_rerank
+2371,SOA,—,—,0.25,no_match,insufficient_confidence
+2372,java backend,34,Java,1.0,matched,ai_rerank
+2373,user focus,16,Foco no Cliente,1.0,matched,ai_rerank
+2374,upskilling,—,—,0.13,no_match,insufficient_confidence
+2375,model registry,—,—,0.1,no_match,insufficient_confidence
+2376,architectural decisions,25,Liderança Técnica,0.64,matched,ai_rerank
+2377,monitoramento e observabilidade,70,Monitoramento e Observabilidade,1.0,matched,fuzzy_match
+2378,prompting,24,Mentoria,0.58,matched,ai_rerank
+2379,intraempreendedorismo,—,—,0.3,no_match,insufficient_confidence
+2380,cliente em primeiro lugar,—,—,0.1,no_match,insufficient_confidence
+2381,azure cloud,68,Azure,0.75,matched,ai_rerank
+2382,pensar no longo prazo,17,Pensamento Estratégico,0.8,matched,ai_rerank
+2383,azure ML,68,Azure,0.64,matched,ai_rerank
+2384,open source LLMs,—,—,0.21,no_match,insufficient_confidence
+2385,entender o produto,14,Visão de Produto,0.98,matched,ai_rerank
+2386,team management,1,Gestão de Pessoas,0.98,matched,ai_rerank
+2387,coaching,—,—,0.45,no_match,insufficient_confidence
+2388,weaviate,—,—,0.23,no_match,insufficient_confidence
+2389,advanced java,34,Java,0.61,matched,ai_rerank
+2390,arquitetura de dados,56,Data Warehouse,0.73,matched,ai_rerank
+2391,EDA,—,—,0.42,no_match,insufficient_confidence
+2392,gerenciar desentendimentos,—,—,0.15,no_match,insufficient_confidence
+2393,escrita técnica,—,—,0.21,no_match,insufficient_confidence
+2394,talent attraction,99,Employer Branding,0.6,matched,ai_rerank
+2395,strategic roadmap,—,—,0.05,no_match,insufficient_confidence
+2396,team conflict resolution,3,Resolução de Conflitos,1.0,matched,ai_rerank
+2397,user research,88,UX Research,0.96,matched,ai_rerank
+2398,soluções inovadoras,—,—,0.4,no_match,insufficient_confidence
+2399,data analytics,39,Análise de Dados,1.0,matched,ai_rerank
+2400,testes unitários,73,Testes Automatizados,0.89,matched,ai_rerank
+2401,transformação de dados para modelos,—,—,0.15,no_match,insufficient_confidence
+2402,análise de causa raiz,—,—,0.49,no_match,insufficient_confidence
+2403,kubernetes deployment,64,Kubernetes,0.98,matched,ai_rerank
+2404,huggingface transformers,86,Hugging Face,0.85,matched,ai_rerank
+2405,technical lead,25,Liderança Técnica,1.0,matched,ai_rerank
+2406,income statement,—,—,0.01,no_match,insufficient_confidence
+2407,criação de variáveis,45,Engenharia de Features,0.84,matched,ai_rerank
+2408,compliance,94,Compliance e Regulação,0.99,matched,ai_rerank
+2409,HDFS,—,—,0.1,no_match,insufficient_confidence
+2410,strategic decision making,17,Pensamento Estratégico,0.99,matched,ai_rerank
+2411,mongodb atlas,59,MongoDB,0.97,matched,ai_rerank
+2412,adaptabilidade,9,Adaptabilidade,1.0,matched,fuzzy_match
+2413,video analysis,48,Visão Computacional,0.73,matched,ai_rerank
+2414,technical design,25,Liderança Técnica,0.52,matched,ai_rerank
+2415,troubleshooting,7,Resolução de Problemas,0.99,matched,ai_rerank
+2416,banco de documentos,—,—,0.33,no_match,insufficient_confidence
+2417,upskilling,—,—,0.13,no_match,insufficient_confidence
+2418,pensar como empreendedor,30,Empreendedorismo,0.76,matched,ai_rerank
+2419,LLM applications,83,LangChain,0.94,matched,ai_rerank
+2420,translating data to story,21,Storytelling com Dados,0.8,matched,ai_rerank
+2421,apresentação e oratória,22,Apresentação e Oratória,1.0,matched,fuzzy_match
+2422,processamento de linguagem natural,42,Processamento de Linguagem Natural,1.0,matched,fuzzy_match
+2423,okrs,90,OKRs,1.0,matched,fuzzy_match
+2424,controlled experiments,50,Experimentação e Testes A/B,1.0,matched,ai_rerank
+2425,normas e regulamentações,94,Compliance e Regulação,0.9,matched,ai_rerank
+2426,flexibilidade,—,—,0.17,no_match,insufficient_confidence
+2427,intrapreneurship,—,—,0.27,no_match,insufficient_confidence
+2428,UX,88,UX Research,0.96,matched,ai_rerank
+2429,redis pub sub,—,—,0.03,no_match,insufficient_confidence
+2430,parceria no trabalho,13,Colaboração,0.74,matched,ai_rerank
+2431,banco em memória,—,—,0.32,no_match,insufficient_confidence
+2432,valuation,—,—,0.31,no_match,insufficient_confidence
+2433,cooperation,13,Colaboração,0.99,matched,ai_rerank
+2434,processo seletivo,95,Recrutamento e Seleção,0.81,matched,ai_rerank
+2435,resolver divergências,3,Resolução de Conflitos,1.0,matched,ai_rerank
+2436,kubernetes cluster,64,Kubernetes,0.54,matched,ai_rerank
+2437,promover cultura,100,Cultura Organizacional,0.93,matched,ai_rerank
+2438,bancos analíticos,—,—,0.23,no_match,insufficient_confidence
+2439,experiment design,50,Experimentação e Testes A/B,0.98,matched,ai_rerank
+2440,kubectl,—,—,0.37,no_match,insufficient_confidence
+2441,user stories,—,—,0.1,no_match,insufficient_confidence
+2442,equilíbrio emocional,—,—,0.02,no_match,insufficient_confidence
+2443,pensar no longo prazo,17,Pensamento Estratégico,0.8,matched,ai_rerank
+2444,DBT,80,dbt,1.0,matched,fuzzy_match
+2445,web API,—,—,0.09,no_match,insufficient_confidence
+2446,LGPD compliance,71,Segurança de Dados,0.57,matched,ai_rerank
+2447,cloud GCP,67,Google Cloud Platform,0.99,matched,ai_rerank
+2448,parceria no trabalho,13,Colaboração,0.74,matched,ai_rerank
+2449,gestão de desempenho,97,Gestão de Desempenho,1.0,matched,fuzzy_match
+2450,unsupervised learning,40,Machine Learning,0.92,matched,ai_rerank
+2451,project planning,18,Gestão de Projetos,0.93,matched,ai_rerank
+2452,embedding models,44,Embeddings e Busca Vetorial,0.97,matched,ai_rerank
+2453,docker-compose,63,Docker,0.89,matched,ai_rerank
+2454,unittest,73,Testes Automatizados,0.9,matched,ai_rerank
+2455,redis cache,60,Redis,1.0,matched,ai_rerank
+2456,compliance e regulação,94,Compliance e Regulação,1.0,matched,fuzzy_match
+2457,gestão de colaboradores,1,Gestão de Pessoas,0.77,matched,ai_rerank
+2458,experimentos controlados,50,Experimentação e Testes A/B,1.0,matched,ai_rerank
+2459,design patterns,—,—,0.21,no_match,insufficient_confidence
+2460,intermediate SQL,—,—,0.08,no_match,insufficient_confidence
+2461,redis pub sub,—,—,0.03,no_match,insufficient_confidence
+2462,emotional self-regulation,—,—,0.44,no_match,insufficient_confidence
+2463,UX,88,UX Research,0.96,matched,ai_rerank
+2464,conflict de-escalation,—,—,0.15,no_match,insufficient_confidence
+2465,k8s,—,—,0.08,no_match,insufficient_confidence
+2466,natural language processing,42,Processamento de Linguagem Natural,1.0,matched,ai_rerank
+2467,testes unitários,73,Testes Automatizados,0.89,matched,ai_rerank
+2468,reskilling,—,—,0.12,no_match,insufficient_confidence
+2469,strategic negotiation,5,Negociação,0.99,matched,ai_rerank
+2470,resolver problemas,7,Resolução de Problemas,1.0,matched,ai_rerank
+2471,banco de documentos,—,—,0.33,no_match,insufficient_confidence
+2472,agility,—,—,0.21,no_match,insufficient_confidence
+2473,strategic planning,27,Planejamento Estratégico,1.0,matched,ai_rerank
+2474,Tableau,77,Tableau,1.0,matched,fuzzy_match
+2475,MongoDB,59,MongoDB,1.0,matched,fuzzy_match
+2476,TDD,—,—,0.41,no_match,insufficient_confidence
+2477,coaching,—,—,0.45,no_match,insufficient_confidence
+2478,tomada de decisão,8,Tomada de Decisão,1.0,matched,fuzzy_match
+2479,pytest,—,—,0.11,no_match,insufficient_confidence
+2480,desenvolvimento de pessoas,—,—,0.43,no_match,insufficient_confidence
+2481,spring boot,34,Java,0.78,matched,ai_rerank
+2482,pipeline ETL,—,—,0.14,no_match,insufficient_confidence
+2483,experimentação e testes A/B,50,Experimentação e Testes A/B,1.0,matched,fuzzy_match
+2484,IE,—,—,0.37,no_match,insufficient_confidence
+2485,customer obsession,16,Foco no Cliente,0.6,matched,ai_rerank
+2486,liderar equipes,1,Gestão de Pessoas,0.97,matched,ai_rerank
+2487,comunicação assertiva,2,Comunicação Assertiva,1.0,matched,fuzzy_match
+2488,lidar com emoções,—,—,0.07,no_match,insufficient_confidence
+2489,python backend,—,—,0.39,no_match,insufficient_confidence
+2490,monitoring,70,Monitoramento e Observabilidade,0.93,matched,ai_rerank
+2491,Amazon Web Services,66,AWS,1.0,matched,ai_rerank
+2492,analytical problem solving,—,—,0.43,no_match,insufficient_confidence
+2493,presenting to stakeholders,—,—,0.08,no_match,insufficient_confidence
+2494,R programming,33,R,0.86,matched,ai_rerank
+2495,Design Thinking,89,Design Thinking,1.0,matched,fuzzy_match
+2496,gestão de riscos,93,Gestão de Riscos,1.0,matched,fuzzy_match
+2497,langchain agents,83,LangChain,0.99,matched,ai_rerank
+2498,negociação com fornecedores,—,—,0.05,no_match,insufficient_confidence
+2499,schema design,—,—,0.46,no_match,insufficient_confidence
+2500,long-term planning,27,Planejamento Estratégico,0.96,matched,ai_rerank
+2501,adaptação a mudanças,9,Adaptabilidade,0.99,matched,ai_rerank
+2502,soluções inovadoras,—,—,0.4,no_match,insufficient_confidence
+2503,postgresql avançado,58,PostgreSQL,1.0,matched,ai_rerank
+2504,independent work,—,—,0.31,no_match,insufficient_confidence
+2505,creative innovation,—,—,0.3,no_match,insufficient_confidence
+2506,azure machine learning,40,Machine Learning,1.0,matched,fuzzy_match
+2507,task organization,—,—,0.4,no_match,insufficient_confidence
+2508,testes multivariados,—,—,0.06,no_match,insufficient_confidence
+2509,negociar contratos,5,Negociação,0.58,matched,ai_rerank
+2510,Apache Spark,81,Spark,1.0,matched,ai_rerank
+2511,long-term thinking,17,Pensamento Estratégico,0.86,matched,ai_rerank
+2512,apache flink,81,Spark,0.57,matched,ai_rerank
+2513,transformações dbt,80,dbt,1.0,matched,ai_rerank
+2514,cross-functional collaboration,—,—,0.03,no_match,insufficient_confidence
+2515,dplyr,—,—,0.26,no_match,insufficient_confidence
+2516,experimentos controlados,50,Experimentação e Testes A/B,1.0,matched,ai_rerank
+2517,estratégia de negócios,17,Pensamento Estratégico,0.53,matched,ai_rerank
+2518,logs,—,—,0.24,no_match,insufficient_confidence
+2519,terminal scripting,—,—,0.11,no_match,insufficient_confidence
+2520,conectar estratégia e execução,—,—,0.44,no_match,insufficient_confidence
+2521,gestão emocional,4,Inteligência Emocional,0.87,matched,ai_rerank
+2522,roadmap estratégico,—,—,0.06,no_match,insufficient_confidence
+2523,project delivery,—,—,0.05,no_match,insufficient_confidence
+2524,apresentação em público,—,—,0.47,no_match,insufficient_confidence
+2525,trabalho em equipe,—,—,0.24,no_match,insufficient_confidence
+2526,corporate culture,100,Cultura Organizacional,0.86,matched,ai_rerank
+2527,openness to change,—,—,0.27,no_match,insufficient_confidence
+2528,time optimization,—,—,0.23,no_match,insufficient_confidence
+2529,docker compose,63,Docker,0.64,matched,ai_rerank
+2530,python scripting,62,FastAPI,0.81,matched,ai_rerank
+2531,organização pessoal,1,Gestão de Pessoas,0.64,matched,ai_rerank
+2532,reconhecimento de imagens,—,—,0.02,no_match,insufficient_confidence
+2533,análise de dados,39,Análise de Dados,1.0,matched,fuzzy_match
+2534,spreadsheets,—,—,0.24,no_match,insufficient_confidence
+2535,big data spark,81,Spark,1.0,matched,ai_rerank
+2536,entrepreneurship,30,Empreendedorismo,1.0,matched,ai_rerank
+2537,python para dados,31,Python,0.99,matched,ai_rerank
+2538,GitLab,72,Versionamento de Código,0.72,matched,ai_rerank
+2539,arquitetura limpa,—,—,0.03,no_match,insufficient_confidence
+2540,classificação de texto,—,—,0.09,no_match,insufficient_confidence
+2541,typescript development,36,TypeScript,1.0,matched,ai_rerank
+2542,employer brand,99,Employer Branding,1.0,matched,ai_rerank
+2543,dados em tempo real,54,Streaming de Dados,0.89,matched,ai_rerank
+2544,prioritization,—,—,0.26,no_match,insufficient_confidence
+2545,looker dashboards,79,Looker,1.0,matched,ai_rerank
+2546,mongodb queries,59,MongoDB,0.84,matched,ai_rerank
+2547,entrevistas com usuários,—,—,0.12,no_match,insufficient_confidence
+2548,governança de dados,—,—,0.07,no_match,insufficient_confidence
+2549,DW,—,—,0.34,no_match,insufficient_confidence
+2550,rebase,—,—,0.08,no_match,insufficient_confidence
+2551,postgres,58,PostgreSQL,0.95,matched,ai_rerank
+2552,strategic roadmap,—,—,0.05,no_match,insufficient_confidence
+2553,mongodb,59,MongoDB,1.0,matched,fuzzy_match
+2554,learning and development,98,Treinamento e Desenvolvimento,1.0,matched,ai_rerank
+2555,avaliação de modelos,46,Avaliação de Modelos,1.0,matched,fuzzy_match
+2556,decisão orientada a risco,—,—,0.02,no_match,insufficient_confidence
+2557,performance appraisal,—,—,0.15,no_match,insufficient_confidence
+2558,data insights,21,Storytelling com Dados,0.87,matched,ai_rerank
+2559,RAG,—,—,0.42,no_match,insufficient_confidence
+2560,data analysis,39,Análise de Dados,1.0,matched,ai_rerank
+2561,angular,—,—,0.27,no_match,insufficient_confidence
+2562,decisão orientada a risco,—,—,0.02,no_match,insufficient_confidence
+2563,pull request,—,—,0.01,no_match,insufficient_confidence
+2564,drive innovation,29,Inovação,0.51,matched,ai_rerank
+2565,own initiative,—,—,0.44,no_match,insufficient_confidence
+2566,ideation,29,Inovação,0.87,matched,ai_rerank
+2567,python para dados,31,Python,0.99,matched,ai_rerank
+2568,gestão de backlog,—,—,0.01,no_match,insufficient_confidence
+2569,aligning expectations,26,Gestão de Stakeholders,0.81,matched,ai_rerank
+2570,cloud AWS,66,AWS,0.74,matched,ai_rerank
+2571,narrativa com dados,21,Storytelling com Dados,1.0,matched,ai_rerank
+2572,distributed systems,82,Hadoop,0.64,matched,ai_rerank
+2573,customer-centric,16,Foco no Cliente,0.93,matched,ai_rerank
+2574,typescript,36,TypeScript,1.0,matched,fuzzy_match
+2575,python development,31,Python,1.0,matched,ai_rerank
+2576,entity relationship,—,—,0.05,no_match,insufficient_confidence
+2577,avaliar modelos,46,Avaliação de Modelos,1.0,matched,ai_rerank
+2578,team conflict resolution,3,Resolução de Conflitos,1.0,matched,ai_rerank
+2579,acompanhar OKRs,90,OKRs,1.0,matched,ai_rerank
+2580,transformação de dados,52,ETL e ELT,0.59,matched,ai_rerank
+2581,looker studio,79,Looker,0.94,matched,ai_rerank
+2582,declarative infrastructure,69,Infrastructure as Code,0.97,matched,ai_rerank
+2583,node.js,35,JavaScript,0.7,matched,ai_rerank
+2584,conflito entre times,—,—,0.01,no_match,insufficient_confidence
+2585,abertura a mudanças,—,—,0.07,no_match,insufficient_confidence
+2586,organizational effectiveness,96,Desenvolvimento Organizacional,0.53,matched,ai_rerank
+2587,julgamento sólido,—,—,0.06,no_match,insufficient_confidence
+2588,desenvolvimento ágil,19,Metodologias Ágeis,0.62,matched,ai_rerank
+2589,pivot tables,—,—,0.08,no_match,insufficient_confidence
+2590,comunicação de mudanças,—,—,0.07,no_match,insufficient_confidence
+2591,aprender novas tecnologias,—,—,0.07,no_match,insufficient_confidence
+2592,logging,—,—,0.18,no_match,insufficient_confidence
+2593,data wrangling,54,Streaming de Dados,0.93,matched,ai_rerank
+2594,looker reports,79,Looker,0.64,matched,ai_rerank
+2595,prioritization,—,—,0.26,no_match,insufficient_confidence
+2596,planejamento estratégico,27,Planejamento Estratégico,1.0,matched,fuzzy_match
+2597,pensar inovador,29,Inovação,0.71,matched,ai_rerank
+2598,feature selection,—,—,0.08,no_match,insufficient_confidence
+2599,conflict management,3,Resolução de Conflitos,0.86,matched,ai_rerank
+2600,mitigação de riscos,93,Gestão de Riscos,0.78,matched,ai_rerank
+2601,SQL avançado,58,PostgreSQL,0.82,matched,ai_rerank
+2602,programas de aprendizado,98,Treinamento e Desenvolvimento,0.84,matched,ai_rerank
+2603,visão estratégica,17,Pensamento Estratégico,0.91,matched,ai_rerank
+2604,usabilidade,—,—,0.11,no_match,insufficient_confidence
+2605,programação java,34,Java,0.88,matched,ai_rerank
+2606,employer reputation,99,Employer Branding,0.69,matched,ai_rerank
+2607,K8s,—,—,0.08,no_match,insufficient_confidence
+2608,branching strategy,99,Employer Branding,0.97,matched,ai_rerank
+2609,corporate training,—,—,0.23,no_match,insufficient_confidence
+2610,agile mindset,—,—,0.07,no_match,insufficient_confidence
+2611,facilitation,20,Facilitação,1.0,matched,ai_rerank
+2612,comunicação com stakeholders,—,—,0.25,no_match,insufficient_confidence
+2613,excel,78,Excel Avançado,0.51,matched,ai_rerank
+2614,UX insights,—,—,0.43,no_match,insufficient_confidence
+2615,mentalidade empreendedora,30,Empreendedorismo,0.99,matched,ai_rerank
+2616,mentalidade estratégica,17,Pensamento Estratégico,0.91,matched,ai_rerank
+2617,application monitoring,66,AWS,0.89,matched,ai_rerank
+2618,OKRs,90,OKRs,1.0,matched,fuzzy_match
+2619,foco no cliente,16,Foco no Cliente,1.0,matched,fuzzy_match
+2620,capacidade de aprendizagem,98,Treinamento e Desenvolvimento,0.95,matched,ai_rerank
+2621,gitflow,—,—,0.2,no_match,insufficient_confidence
+2622,team culture,—,—,0.13,no_match,insufficient_confidence
+2623,training and development,98,Treinamento e Desenvolvimento,1.0,matched,ai_rerank
+2624,shell script,38,Bash e Shell Script,1.0,matched,ai_rerank
+2625,gerir times,10,Gestão do Tempo,0.99,matched,ai_rerank
+2626,user research,88,UX Research,0.96,matched,ai_rerank
+2627,managing expectations,—,—,0.41,no_match,insufficient_confidence
+2628,meeting facilitation,20,Facilitação,0.99,matched,ai_rerank
+2629,automated testing,73,Testes Automatizados,1.0,matched,ai_rerank
+2630,FastAPI backend,62,FastAPI,0.64,matched,ai_rerank
+2631,problem diagnosis,—,—,0.28,no_match,insufficient_confidence
+2632,redes neurais profundas,41,Deep Learning,1.0,matched,ai_rerank
+2633,Scala,37,Scala,1.0,matched,fuzzy_match
+2634,pensar estrategicamente,17,Pensamento Estratégico,1.0,matched,ai_rerank
+2635,análise de balanço,—,—,0.12,no_match,insufficient_confidence
+2636,habilidades de apresentação,22,Apresentação e Oratória,0.9,matched,ai_rerank
+2637,detecção de objetos,—,—,0.13,no_match,insufficient_confidence
+2638,aprender novas tecnologias,—,—,0.07,no_match,insufficient_confidence
+2639,java avançado,34,Java,0.76,matched,ai_rerank
+2640,data insights,21,Storytelling com Dados,0.87,matched,ai_rerank
+2641,soluções inovadoras,—,—,0.4,no_match,insufficient_confidence
+2642,java,34,Java,1.0,matched,fuzzy_match
+2643,registro de modelos,—,—,0.13,no_match,insufficient_confidence
+2644,embedding vectors,44,Embeddings e Busca Vetorial,0.9,matched,ai_rerank
+2645,triagem de candidatos,—,—,0.04,no_match,insufficient_confidence
+2646,REST API,—,—,0.38,no_match,insufficient_confidence
+2647,decisions under uncertainty,8,Tomada de Decisão,0.86,matched,ai_rerank
+2648,drive innovation,29,Inovação,0.51,matched,ai_rerank
+2649,reskilling programs,—,—,0.04,no_match,insufficient_confidence
+2650,decisão sob incerteza,8,Tomada de Decisão,0.8,matched,ai_rerank
+2651,task prioritization,10,Gestão do Tempo,0.79,matched,ai_rerank
+2652,recrutamento e seleção,95,Recrutamento e Seleção,1.0,matched,fuzzy_match
+2653,tidyverse,—,—,0.11,no_match,insufficient_confidence
+2654,LLM pipelines,85,Langfuse,1.0,matched,ai_rerank
+2655,kanban,—,—,0.1,no_match,insufficient_confidence
+2656,customer focus,16,Foco no Cliente,1.0,matched,ai_rerank
+2657,testes E2E,—,—,0.03,no_match,insufficient_confidence
+2658,employee value proposition,—,—,0.09,no_match,insufficient_confidence
+2659,proatividade,—,—,0.48,no_match,insufficient_confidence
+2660,problem decomposition,—,—,0.46,no_match,insufficient_confidence
+2661,resilience,—,—,0.47,no_match,insufficient_confidence
+2662,software testing,—,—,0.34,no_match,insufficient_confidence
+2663,DBT,80,dbt,1.0,matched,fuzzy_match
+2664,evidence-based decisions,15,Orientação a Dados,0.74,matched,ai_rerank
+2665,data-driven,15,Orientação a Dados,0.69,matched,ai_rerank
+2666,regulatory compliance,94,Compliance e Regulação,1.0,matched,ai_rerank
+2667,self-directed work,—,—,0.46,no_match,insufficient_confidence
+2668,API design,61,Desenvolvimento de APIs,0.66,matched,ai_rerank
+2669,alerting,—,—,0.09,no_match,insufficient_confidence
+2670,tableau analytics,77,Tableau,0.97,matched,ai_rerank
+2671,identificar causas raiz,7,Resolução de Problemas,0.98,matched,ai_rerank
+2672,hugging face models,86,Hugging Face,1.0,matched,ai_rerank
+2673,gitlab,72,Versionamento de Código,0.72,matched,ai_rerank
+2674,visão de produto,14,Visão de Produto,1.0,matched,fuzzy_match
+2675,context switching,—,—,0.07,no_match,insufficient_confidence
+2676,advanced java,34,Java,0.61,matched,ai_rerank
+2677,mapreduce,—,—,0.09,no_match,insufficient_confidence
+2678,normalização de dados,—,—,0.06,no_match,insufficient_confidence
+2679,LLM observability,85,Langfuse,1.0,matched,ai_rerank
+2680,modelagem relacional,55,Modelagem de Dados,0.81,matched,ai_rerank
+2681,pulumi,—,—,0.08,no_match,insufficient_confidence
+2682,yarn,—,—,0.37,no_match,insufficient_confidence
+2683,langchain memory,83,LangChain,0.99,matched,ai_rerank
+2684,versatilidade,—,—,0.14,no_match,insufficient_confidence
+2685,regulatory affairs,—,—,0.13,no_match,insufficient_confidence
+2686,administrar conflitos,—,—,0.18,no_match,insufficient_confidence
+2687,aws RDS,66,AWS,0.85,matched,ai_rerank
+2688,marca empregadora,99,Employer Branding,1.0,matched,ai_rerank
+2689,liderança de engenharia,25,Liderança Técnica,0.99,matched,ai_rerank
+2690,classificação de texto,—,—,0.09,no_match,insufficient_confidence
+2691,usar dados para decidir,15,Orientação a Dados,0.62,matched,ai_rerank
+2692,react.js,35,JavaScript,0.86,matched,ai_rerank
+2693,habilidades de escrita,23,Escrita Profissional,0.94,matched,ai_rerank
+2694,deep learning models,41,Deep Learning,1.0,matched,ai_rerank
+2695,Prophet,—,—,0.2,no_match,insufficient_confidence
+2696,integração contínua,65,CI/CD,0.79,matched,ai_rerank
+2697,análise estatística em R,33,R,1.0,matched,ai_rerank
+2698,oratória,22,Apresentação e Oratória,0.88,matched,ai_rerank
+2699,fastapi,62,FastAPI,1.0,matched,fuzzy_match
+2700,azure AI,68,Azure,0.91,matched,ai_rerank
+2701,empatia com o cliente,—,—,0.03,no_match,insufficient_confidence
+2702,risk register,—,—,0.07,no_match,insufficient_confidence
+2703,risk mitigation,93,Gestão de Riscos,0.86,matched,ai_rerank
+2704,AUC ROC,—,—,0.06,no_match,insufficient_confidence
+2705,pipeline ETL,—,—,0.14,no_match,insufficient_confidence
+2706,team building,—,—,0.24,no_match,insufficient_confidence
+2707,apoiar crescimento,24,Mentoria,0.62,matched,ai_rerank
+2708,computer vision,48,Visão Computacional,1.0,matched,ai_rerank
+2709,pesquisa com usuários,88,UX Research,1.0,matched,ai_rerank
+2710,data orientation,15,Orientação a Dados,0.83,matched,ai_rerank
+2711,machine learning models,40,Machine Learning,1.0,matched,fuzzy_match
+2712,usability research,—,—,0.05,no_match,insufficient_confidence
+2713,desenvolvimento de colaboradores,—,—,0.21,no_match,insufficient_confidence
+2714,setting OKRs,90,OKRs,0.91,matched,ai_rerank
+2715,dbt,80,dbt,1.0,matched,fuzzy_match
+2716,yarn,—,—,0.37,no_match,insufficient_confidence
+2717,customer first,—,—,0.1,no_match,insufficient_confidence
+2718,tech mentor,24,Mentoria,0.57,matched,ai_rerank
+2719,detecção de objetos,—,—,0.13,no_match,insufficient_confidence
+2720,risco operacional,93,Gestão de Riscos,0.87,matched,ai_rerank
+2721,github actions,—,—,0.07,no_match,insufficient_confidence
+2722,API REST,—,—,0.45,no_match,insufficient_confidence
+2723,pitch de ideias,—,—,0.02,no_match,insufficient_confidence
+2724,REST API,—,—,0.38,no_match,insufficient_confidence
+2725,scope management,—,—,0.16,no_match,insufficient_confidence
+2726,acompanhamento de projetos,18,Gestão de Projetos,0.8,matched,ai_rerank
+2727,pensamento racional,—,—,0.17,no_match,insufficient_confidence
+2728,seleção de features,—,—,0.11,no_match,insufficient_confidence
+2729,neural networks,41,Deep Learning,0.72,matched,ai_rerank
+2730,rastreamento de prompts,85,Langfuse,0.78,matched,ai_rerank
+2731,empatia,—,—,0.23,no_match,insufficient_confidence
+2732,CloudFormation,69,Infrastructure as Code,0.71,matched,ai_rerank
+2733,technical leadership,25,Liderança Técnica,1.0,matched,ai_rerank
+2734,design técnico,—,—,0.29,no_match,insufficient_confidence
+2735,Apache Spark,81,Spark,1.0,matched,ai_rerank
+2736,TDD,—,—,0.41,no_match,insufficient_confidence
+2737,annual planning,—,—,0.04,no_match,insufficient_confidence
+2738,priorizar tarefas,10,Gestão do Tempo,0.85,matched,ai_rerank
+2739,rastreamento de prompts,85,Langfuse,0.78,matched,ai_rerank
+2740,transformação de dados,52,ETL e ELT,0.59,matched,ai_rerank
+2741,pyspark,—,—,0.14,no_match,insufficient_confidence
+2742,customer orientation,16,Foco no Cliente,0.84,matched,ai_rerank
+2743,PowerBI,76,Power BI,1.0,matched,ai_rerank
+2744,emotional intelligence,4,Inteligência Emocional,1.0,matched,ai_rerank
+2745,python data,—,—,0.21,no_match,insufficient_confidence
+2746,making decisions,8,Tomada de Decisão,0.93,matched,ai_rerank
+2747,strategic vision,17,Pensamento Estratégico,0.99,matched,ai_rerank
+2748,customer needs understanding,16,Foco no Cliente,1.0,matched,ai_rerank
+2749,compliance program,94,Compliance e Regulação,0.61,matched,ai_rerank
+2750,criação de variáveis,45,Engenharia de Features,0.84,matched,ai_rerank
+2751,gke,—,—,0.32,no_match,insufficient_confidence
+2752,warehouse architecture,56,Data Warehouse,0.97,matched,ai_rerank
+2753,segurança da informação,71,Segurança de Dados,0.92,matched,ai_rerank
+2754,rastreamento de prompts,85,Langfuse,0.78,matched,ai_rerank
+2755,innovative thinking,29,Inovação,0.75,matched,ai_rerank
+2756,natural language processing,42,Processamento de Linguagem Natural,1.0,matched,ai_rerank
+2757,growth mindset,24,Mentoria,0.74,matched,ai_rerank
+2758,dar feedback,—,—,0.09,no_match,insufficient_confidence
+2759,CloudFormation,69,Infrastructure as Code,0.71,matched,ai_rerank
+2760,gerenciar partes interessadas,26,Gestão de Stakeholders,1.0,matched,ai_rerank
+2761,gestão de produto,87,Gestão de Produto,1.0,matched,fuzzy_match
+2762,software testing,—,—,0.34,no_match,insufficient_confidence
+2763,ci/cd,65,CI/CD,1.0,matched,fuzzy_match
+2764,programação em python,31,Python,0.62,matched,ai_rerank
+2765,construção de pipelines,51,Engenharia de Dados,0.94,matched,ai_rerank
+2766,tableau desktop,—,—,0.09,no_match,insufficient_confidence
+2767,hypothesis testing,—,—,0.16,no_match,insufficient_confidence
+2768,Assertive Communication,2,Comunicação Assertiva,1.0,matched,ai_rerank
+2769,self-organization,11,Autogestão,0.91,matched,ai_rerank
+2770,frontend javascript,35,JavaScript,1.0,matched,ai_rerank
+2771,LLM tracing,85,Langfuse,0.93,matched,ai_rerank
+2772,data streaming,54,Streaming de Dados,1.0,matched,ai_rerank
+2773,adapting to change,9,Adaptabilidade,0.99,matched,ai_rerank
+2774,Looker,79,Looker,1.0,matched,fuzzy_match
+2775,cobertura de testes,—,—,0.05,no_match,insufficient_confidence
+2776,data warehousing,56,Data Warehouse,0.99,matched,ai_rerank
+2777,arquitetura de sistemas,74,Arquitetura de Software,0.95,matched,ai_rerank
+2778,integração de APIs,—,—,0.06,no_match,insufficient_confidence
+2779,PR,—,—,0.22,no_match,insufficient_confidence
+2780,mentoring,24,Mentoria,0.99,matched,ai_rerank
+2781,pipeline scheduling,53,Orquestração de Pipelines,0.91,matched,ai_rerank
+2782,avaliação de empresas,—,—,0.12,no_match,insufficient_confidence
+2783,dar feedback,—,—,0.09,no_match,insufficient_confidence
+2784,kubernetes cluster,64,Kubernetes,0.54,matched,ai_rerank
+2785,integração de dados,—,—,0.08,no_match,insufficient_confidence
+2786,metrics,—,—,0.23,no_match,insufficient_confidence
+2787,clustering,—,—,0.27,no_match,insufficient_confidence
+2788,ideation,29,Inovação,0.87,matched,ai_rerank
+2789,colaboração,13,Colaboração,1.0,matched,fuzzy_match
+2790,orientação analítica,—,—,0.05,no_match,insufficient_confidence
+2791,RESTful API,61,Desenvolvimento de APIs,0.84,matched,ai_rerank
+2792,strategic planning,27,Planejamento Estratégico,1.0,matched,ai_rerank
+2793,critical analysis,6,Pensamento Crítico,0.99,matched,ai_rerank
+2794,monitoramento,70,Monitoramento e Observabilidade,0.88,matched,ai_rerank
+2795,strategic vision,17,Pensamento Estratégico,0.99,matched,ai_rerank
+2796,user research,88,UX Research,0.96,matched,ai_rerank
+2797,priorização,—,—,0.23,no_match,insufficient_confidence
+2798,aws RDS,66,AWS,0.85,matched,ai_rerank
+2799,descriptive statistics,—,—,0.1,no_match,insufficient_confidence
+2800,typed javascript,36,TypeScript,0.61,matched,ai_rerank
+2801,gestão de prioridades,87,Gestão de Produto,0.79,matched,ai_rerank
+2802,project management,18,Gestão de Projetos,1.0,matched,ai_rerank
+2803,PSQL,—,—,0.39,no_match,insufficient_confidence
+2804,managing resistance to change,—,—,0.42,no_match,insufficient_confidence
+2805,trace de LLMs,85,Langfuse,0.58,matched,ai_rerank
+2806,transformações dbt,80,dbt,1.0,matched,ai_rerank
+2807,cultura organizacional,100,Cultura Organizacional,1.0,matched,fuzzy_match
+2808,programação scala,37,Scala,1.0,matched,ai_rerank
+2809,indicadores-chave,—,—,0.02,no_match,insufficient_confidence
+2810,detecção de anomalias,—,—,0.44,no_match,insufficient_confidence
+2811,cloudformation,69,Infrastructure as Code,0.71,matched,ai_rerank
+2812,OKRs,90,OKRs,1.0,matched,fuzzy_match
+2813,data integration,—,—,0.28,no_match,insufficient_confidence
+2814,people development,24,Mentoria,0.7,matched,ai_rerank
+2815,mentoria,24,Mentoria,1.0,matched,fuzzy_match
+2816,raciocínio crítico,6,Pensamento Crítico,0.51,matched,ai_rerank
+2817,org culture,—,—,0.05,no_match,insufficient_confidence
+2818,consultas SQL,32,SQL,1.0,matched,ai_rerank
+2819,estratégia de produto,—,—,0.44,no_match,insufficient_confidence
+2820,ownership mindset,—,—,0.48,no_match,insufficient_confidence
+2821,gestão de capital humano,—,—,0.14,no_match,insufficient_confidence
+2822,proactiveness,9,Adaptabilidade,0.52,matched,ai_rerank
+2823,basic SQL,32,SQL,0.61,matched,ai_rerank
+2824,fine-tuning,—,—,0.26,no_match,insufficient_confidence
+2825,gerir times,10,Gestão do Tempo,0.99,matched,ai_rerank
+2826,risk framework,—,—,0.17,no_match,insufficient_confidence
+2827,OKR planning,90,OKRs,0.64,matched,ai_rerank
+2828,google looker,79,Looker,0.91,matched,ai_rerank
+2829,métricas,—,—,0.15,no_match,insufficient_confidence
+2830,prompt engineering,—,—,0.17,no_match,insufficient_confidence
+2831,negociação de salários,—,—,0.01,no_match,insufficient_confidence
+2832,azure blob,—,—,0.34,no_match,insufficient_confidence
+2833,statistical inference,49,Estatística Aplicada,0.67,matched,ai_rerank
+2834,langchain chains,83,LangChain,0.99,matched,ai_rerank
+2835,técnicas de negociação,—,—,0.35,no_match,insufficient_confidence
+2836,strategic decision making,17,Pensamento Estratégico,0.99,matched,ai_rerank
+2837,apache airflow,—,—,0.37,no_match,insufficient_confidence
+2838,inteligência emocional,4,Inteligência Emocional,1.0,matched,fuzzy_match
+2839,test-driven development,—,—,0.04,no_match,insufficient_confidence
+2840,pitching,—,—,0.06,no_match,insufficient_confidence
+2841,change leadership,28,Gestão de Mudanças,0.99,matched,ai_rerank
+2842,human-centered design,—,—,0.03,no_match,insufficient_confidence
+2843,esquema de dados,—,—,0.37,no_match,insufficient_confidence
+2844,financial analysis,91,Análise Financeira,1.0,matched,ai_rerank
+2845,segurança da informação,71,Segurança de Dados,0.92,matched,ai_rerank
+2846,liderança técnica,25,Liderança Técnica,1.0,matched,fuzzy_match
+2847,marca empregadora,99,Employer Branding,1.0,matched,ai_rerank
+2848,data quality,57,Qualidade de Dados,1.0,matched,ai_rerank
+2849,análise de riscos,93,Gestão de Riscos,0.63,matched,ai_rerank
+2850,habilidades de escrita,23,Escrita Profissional,0.94,matched,ai_rerank
+2851,data modeling,55,Modelagem de Dados,1.0,matched,ai_rerank
+2852,spirit of collaboration,—,—,0.3,no_match,insufficient_confidence
+2853,customer obsession,16,Foco no Cliente,0.6,matched,ai_rerank
+2854,web development javascript,35,JavaScript,1.0,matched,ai_rerank
+2855,scalable data systems,37,Scala,0.58,matched,ai_rerank
+2856,gerenciamento de times,10,Gestão do Tempo,0.97,matched,ai_rerank
+2857,backend API,—,—,0.4,no_match,insufficient_confidence
+2858,fazer apresentações,—,—,0.44,no_match,insufficient_confidence
+2859,regulação,—,—,0.37,no_match,insufficient_confidence
+2860,spark,81,Spark,1.0,matched,fuzzy_match
+2861,facilitação de grupos,20,Facilitação,1.0,matched,ai_rerank
+2862,pytest,—,—,0.11,no_match,insufficient_confidence
+2863,gerenciar prazos,10,Gestão do Tempo,0.85,matched,ai_rerank
+2864,code review,—,—,0.5,no_match,insufficient_confidence
+2865,k8s cluster,—,—,0.02,no_match,insufficient_confidence
+2866,regulatory affairs,—,—,0.13,no_match,insufficient_confidence
+2867,data transformation para modelos,—,—,0.28,no_match,insufficient_confidence
+2868,pensamento analítico,6,Pensamento Crítico,0.74,matched,ai_rerank
+2869,data warehousing,56,Data Warehouse,0.99,matched,ai_rerank
+2870,estratégia de produto,—,—,0.44,no_match,insufficient_confidence
+2871,padrões de design,—,—,0.04,no_match,insufficient_confidence
+2872,comunicação profissional,23,Escrita Profissional,0.97,matched,ai_rerank
+2873,fastapi development,62,FastAPI,1.0,matched,ai_rerank
+2874,curiosidade intelectual,—,—,0.02,no_match,insufficient_confidence
+2875,product development,—,—,0.24,no_match,insufficient_confidence
+2876,IA generativa,—,—,0.06,no_match,insufficient_confidence
+2877,org culture,—,—,0.05,no_match,insufficient_confidence
+2878,facilitation skills,20,Facilitação,0.98,matched,ai_rerank
+2879,comunicação no trabalho,—,—,0.27,no_match,insufficient_confidence
+2880,agile development,19,Metodologias Ágeis,0.73,matched,ai_rerank
+2881,PM skills,—,—,0.46,no_match,insufficient_confidence
+2882,mentalidade ágil,—,—,0.04,no_match,insufficient_confidence
+2883,joint work,—,—,0.41,no_match,insufficient_confidence
+2884,entrevistas com usuários,—,—,0.12,no_match,insufficient_confidence
+2885,spark streaming,54,Streaming de Dados,0.97,matched,ai_rerank
+2886,react,9,Adaptabilidade,0.66,matched,ai_rerank
+2887,company culture,99,Employer Branding,0.65,matched,ai_rerank
+2888,aks,66,AWS,0.52,matched,ai_rerank
+2889,clustering,—,—,0.27,no_match,insufficient_confidence
+2890,llm development langchain,83,LangChain,1.0,matched,ai_rerank
+2891,building pipelines,51,Engenharia de Dados,0.83,matched,ai_rerank
+2892,Apache Spark,81,Spark,1.0,matched,ai_rerank
+2893,meeting facilitation,20,Facilitação,0.99,matched,ai_rerank
+2894,performance management,97,Gestão de Desempenho,1.0,matched,ai_rerank
+2895,written communication,23,Escrita Profissional,0.91,matched,ai_rerank
+2896,data protection,71,Segurança de Dados,0.96,matched,ai_rerank
+2897,OKR framework,90,OKRs,1.0,matched,ai_rerank
+2898,intrapreneurship,—,—,0.27,no_match,insufficient_confidence
+2899,redshift,—,—,0.25,no_match,insufficient_confidence
+2900,people leadership,1,Gestão de Pessoas,1.0,matched,ai_rerank
+2901,deploy automatizado,65,CI/CD,0.91,matched,ai_rerank
+2902,carga de dados,—,—,0.34,no_match,insufficient_confidence
+2903,written communication,23,Escrita Profissional,0.91,matched,ai_rerank
+2904,negotiating deals,8,Tomada de Decisão,0.53,matched,ai_rerank
+2905,avaliação de riscos,93,Gestão de Riscos,0.91,matched,ai_rerank
+2906,supporting growth,24,Mentoria,0.88,matched,ai_rerank
+2907,LLM,85,Langfuse,0.61,matched,ai_rerank
+2908,emotional intelligence,4,Inteligência Emocional,1.0,matched,ai_rerank
+2909,modelagem dimensional,55,Modelagem de Dados,0.84,matched,ai_rerank
+2910,mentorship skills,24,Mentoria,0.89,matched,ai_rerank
+2911,trabalhar sem supervisão,—,—,0.32,no_match,insufficient_confidence
+2912,backlog management,—,—,0.08,no_match,insufficient_confidence
+2913,microservices architecture,75,Microsserviços,1.0,matched,ai_rerank
+2914,task organization,—,—,0.4,no_match,insufficient_confidence
+2915,scalable data systems,37,Scala,0.58,matched,ai_rerank
+2916,engenharia de dados,51,Engenharia de Dados,1.0,matched,fuzzy_match
+2917,LLM evaluation,85,Langfuse,0.98,matched,ai_rerank
+2918,banco de documentos,—,—,0.33,no_match,insufficient_confidence
+2919,spreadsheet skills,—,—,0.12,no_match,insufficient_confidence
+2920,workflow automation,—,—,0.06,no_match,insufficient_confidence
+2921,testes de hipótese,50,Experimentação e Testes A/B,0.82,matched,ai_rerank
+2922,alertas,—,—,0.17,no_match,insufficient_confidence
+2923,change leadership,28,Gestão de Mudanças,0.99,matched,ai_rerank
+2924,team spirit,—,—,0.05,no_match,insufficient_confidence
+2925,Java,34,Java,1.0,matched,fuzzy_match
+2926,R programming,33,R,0.86,matched,ai_rerank
+2927,model lifecycle,—,—,0.35,no_match,insufficient_confidence
+2928,customer success mindset,—,—,0.27,no_match,insufficient_confidence
+2929,mentalidade data-driven,—,—,0.3,no_match,insufficient_confidence
+2930,ajustar abordagens,9,Adaptabilidade,0.99,matched,ai_rerank
+2931,text classification,—,—,0.24,no_match,insufficient_confidence
+2932,writing skills,23,Escrita Profissional,0.92,matched,ai_rerank
+2933,Apache Hive,—,—,0.14,no_match,insufficient_confidence
+2934,bigquery gcp,67,Google Cloud Platform,0.98,matched,ai_rerank
+2935,org development,—,—,0.17,no_match,insufficient_confidence
+2936,balance sheet analysis,—,—,0.1,no_match,insufficient_confidence
+2937,autodidatismo,—,—,0.38,no_match,insufficient_confidence
+2938,questionar premissas,—,—,0.04,no_match,insufficient_confidence
+2939,adapting to change,9,Adaptabilidade,0.99,matched,ai_rerank
+2940,cloud GCP,67,Google Cloud Platform,0.99,matched,ai_rerank
+2941,tableau server,—,—,0.13,no_match,insufficient_confidence
+2942,talent attraction,99,Employer Branding,0.6,matched,ai_rerank
+2943,DQ,—,—,0.21,no_match,insufficient_confidence
+2944,risk-based decision,—,—,0.14,no_match,insufficient_confidence
+2945,GitHub,72,Versionamento de Código,0.61,matched,ai_rerank
+2946,apache kafka,—,—,0.18,no_match,insufficient_confidence
+2947,orquestração de pipelines,53,Orquestração de Pipelines,1.0,matched,fuzzy_match
+2948,entrepreneurship,30,Empreendedorismo,1.0,matched,ai_rerank
+2949,clear writing,23,Escrita Profissional,0.85,matched,ai_rerank
+2950,communication skills,2,Comunicação Assertiva,0.75,matched,ai_rerank
+2951,exploração de dados,39,Análise de Dados,0.94,matched,ai_rerank
+2952,ciclo de performance,97,Gestão de Desempenho,0.91,matched,ai_rerank
+2953,infraestrutura como código,69,Infrastructure as Code,1.0,matched,ai_rerank
+2954,productivity,—,—,0.35,no_match,insufficient_confidence
+2955,collaboration,13,Colaboração,1.0,matched,ai_rerank
+2956,mentorship skills,24,Mentoria,0.89,matched,ai_rerank
+2957,long-term planning,27,Planejamento Estratégico,0.96,matched,ai_rerank
+2958,API design,61,Desenvolvimento de APIs,0.66,matched,ai_rerank
+2959,organizational transformation,96,Desenvolvimento Organizacional,0.99,matched,ai_rerank
+2960,otimização do tempo,—,—,0.02,no_match,insufficient_confidence
+2961,google cloud data,67,Google Cloud Platform,0.97,matched,ai_rerank
+2962,RNN,—,—,0.3,no_match,insufficient_confidence
+2963,conflict handling,3,Resolução de Conflitos,0.99,matched,ai_rerank
+2964,monitoramento de LLM,85,Langfuse,1.0,matched,ai_rerank
+2965,power bi service,76,Power BI,1.0,matched,ai_rerank
+2966,NoSQL MongoDB,59,MongoDB,1.0,matched,ai_rerank
+2967,desenvolvimento organizacional,96,Desenvolvimento Organizacional,1.0,matched,fuzzy_match
+2968,conflict mediation,3,Resolução de Conflitos,1.0,matched,ai_rerank
+2969,cultura de inovação,—,—,0.24,no_match,insufficient_confidence
+2970,bargaining,—,—,0.43,no_match,insufficient_confidence
+2971,PYTHON,31,Python,1.0,matched,fuzzy_match
+2972,redigir documentos,—,—,0.18,no_match,insufficient_confidence
+2973,LSTM,—,—,0.42,no_match,insufficient_confidence
+2974,docker images,63,Docker,0.56,matched,ai_rerank
+2975,automação de workflows,—,—,0.06,no_match,insufficient_confidence
+2976,ideação,29,Inovação,0.69,matched,ai_rerank
+2977,SQL analytics,32,SQL,0.93,matched,ai_rerank
+2978,GDPR,—,—,0.27,no_match,insufficient_confidence
+2979,people development,24,Mentoria,0.7,matched,ai_rerank
+2980,vector search,44,Embeddings e Busca Vetorial,0.97,matched,ai_rerank
+2981,estatística com R,33,R,0.98,matched,ai_rerank
+2982,product manager,87,Gestão de Produto,0.97,matched,ai_rerank
+2983,consistência de dados,57,Qualidade de Dados,0.5,matched,ai_rerank
+2984,ETL development,52,ETL e ELT,1.0,matched,ai_rerank
+2985,mediação de conflitos,3,Resolução de Conflitos,0.99,matched,ai_rerank
+2986,testes A/B,50,Experimentação e Testes A/B,1.0,matched,ai_rerank
+2987,data governance,—,—,0.12,no_match,insufficient_confidence
+2988,product vision,14,Visão de Produto,1.0,matched,ai_rerank
+2989,statistical modeling,49,Estatística Aplicada,0.74,matched,ai_rerank
+2990,comunicação interpessoal,—,—,0.15,no_match,insufficient_confidence
+2991,organizational change,96,Desenvolvimento Organizacional,0.9,matched,ai_rerank
+2992,GraphQL,61,Desenvolvimento de APIs,0.83,matched,ai_rerank
+2993,user interviews,—,—,0.06,no_match,insufficient_confidence
+2994,time prioritization,10,Gestão do Tempo,0.71,matched,ai_rerank
+2995,autocontrole emocional,—,—,0.15,no_match,insufficient_confidence
+2996,neural nets,—,—,0.39,no_match,insufficient_confidence
+2997,interpersonal communication,—,—,0.13,no_match,insufficient_confidence
+2998,dados em tempo real,54,Streaming de Dados,0.89,matched,ai_rerank
+2999,infraestrutura de dados,—,—,0.22,no_match,insufficient_confidence
+3000,pensar como PM,—,—,0.11,no_match,insufficient_confidence
+3001,sprint planning,—,—,0.08,no_match,insufficient_confidence
+3002,facilitar reuniões,20,Facilitação,0.99,matched,ai_rerank
+3003,planejar estrategicamente,27,Planejamento Estratégico,1.0,matched,ai_rerank
+3004,feature creation,45,Engenharia de Features,0.91,matched,ai_rerank
+3005,application performance monitoring,—,—,0.2,no_match,insufficient_confidence
+3006,mlflow,84,MLflow,1.0,matched,fuzzy_match
+3007,mentalidade de crescimento,—,—,0.36,no_match,insufficient_confidence
+3008,OD,—,—,0.12,no_match,insufficient_confidence
+3009,design thinking,89,Design Thinking,1.0,matched,fuzzy_match
+3010,critical judgment,17,Pensamento Estratégico,0.65,matched,ai_rerank
+3011,Employer Branding,99,Employer Branding,1.0,matched,fuzzy_match
+3012,ingestão de dados,—,—,0.27,no_match,insufficient_confidence
+3013,data communication,21,Storytelling com Dados,0.96,matched,ai_rerank
+3014,performance feedback,97,Gestão de Desempenho,0.86,matched,ai_rerank
+3015,postgresql queries,58,PostgreSQL,1.0,matched,ai_rerank
+3016,meeting facilitation,20,Facilitação,0.99,matched,ai_rerank
+3017,T&D,—,—,0.26,no_match,insufficient_confidence
+3018,orquestração de pipelines,53,Orquestração de Pipelines,1.0,matched,fuzzy_match
+3019,cultura da empresa,99,Employer Branding,0.76,matched,ai_rerank
+3020,cloud GCP,67,Google Cloud Platform,0.99,matched,ai_rerank
+3021,logical reasoning,6,Pensamento Crítico,0.75,matched,ai_rerank
+3022,data compliance,—,—,0.41,no_match,insufficient_confidence
+3023,adapting to change,9,Adaptabilidade,0.99,matched,ai_rerank
+3024,sound judgment,—,—,0.04,no_match,insufficient_confidence
+3025,indicadores-chave,—,—,0.02,no_match,insufficient_confidence
+3026,comunicar dados,21,Storytelling com Dados,0.99,matched,ai_rerank
+3027,desenvolvimento de APIs,61,Desenvolvimento de APIs,1.0,matched,fuzzy_match
+3028,pipeline orchestration,53,Orquestração de Pipelines,1.0,matched,ai_rerank
+3029,next.js,—,—,0.1,no_match,insufficient_confidence
+3030,advanced java,34,Java,0.61,matched,ai_rerank
