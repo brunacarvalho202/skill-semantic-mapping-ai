@@ -24,11 +24,11 @@ def main():
 
         df_audit = df_final[df_final['strategy_used'] == 'ai_rerank'].sort_values('confidence_score')
         if not df_audit.empty:
-            audit_path = 'auditoria_necessaria.csv'
+            audit_path = 'resultados/experimento4_top5output/auditoria_necessaria.csv'
             df_audit.to_csv(audit_path, index=False, encoding='utf-8-sig')
             logging.info(f"Arquivo de auditoria gerado: {audit_path}")
 
-        output_path = 'mapeamento_final_bi_cross.csv'
+        output_path = 'resultados/experimento4_top5output/mapeamento_final_bi_cross.csv'
         df_final.to_csv(output_path, index=False, encoding='utf-8-sig')
         logging.info(f"Sucesso! Resultado completo salvo em: {output_path}")
         

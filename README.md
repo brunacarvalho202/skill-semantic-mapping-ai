@@ -156,6 +156,8 @@ Em termos de melhoria de código:
 - Implementaria mais formas de avaliações no ambiente de desenvolvimento, um pipeline automático com investigações a depender dos indícios de produção.
 - Melhoraria a modularização das funções do projeto, como a função de mapeamento para transformar as etapas em módulos.
 - Melhoraria a estruturação dos resultados.
+- Criação de .env para melhor gerenciamento dos modelos usados e outras futuras variáveis
+- Implementação de testes unitários
 
 ---
 

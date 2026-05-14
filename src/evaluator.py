@@ -5,7 +5,7 @@ import os
 
 class SkillEvaluator:
     @staticmethod
-    def gerar_relatorio_completo(df_final: pd.DataFrame, output_dir: str = "relatorios"):
+    def gerar_relatorio_completo(df_final: pd.DataFrame, output_dir: str = "resultados/experimento4_top5output"):
         """
 Gera um diagnóstico técnico detalhado sobre a qualidade do mapeamento.
 
